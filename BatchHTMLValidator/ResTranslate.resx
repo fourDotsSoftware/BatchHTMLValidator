@@ -1,0 +1,268 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+		Microsoft ResX Schema
+
+		Version 1.3
+
+		The primary goals of this format is to allow a simple XML format 
+		that is mostly human readable. The generation and parsing of the 
+		various data types are done through the TypeConverter classes 
+		associated with the data types.
+
+		Example:
+
+		... ado.net/XML headers & schema ...
+		<resheader name="resmimetype">text/microsoft-resx</resheader>
+		<resheader name="version">1.3</resheader>
+		<resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+		<resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+		<data name="Name1">this is my long string</data>
+		<data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+		<data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+			[base64 mime encoded serialized .NET Framework object]
+		</data>
+		<data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+			[base64 mime encoded string representing a byte array form of the .NET Framework object]
+		</data>
+
+		There are any number of "resheader" rows that contain simple 
+		name/value pairs.
+
+		Each data row contains a name, and value. The row also contains a 
+		type or mimetype. Type corresponds to a .NET class that support 
+		text/value conversion through the TypeConverter architecture. 
+		Classes that don't support this are serialized and stored with the 
+		mimetype set.
+
+		The mimetype is used for serialized objects, and tells the 
+		ResXResourceReader how to depersist the object. This is currently not 
+		extensible. For a given mimetype the value must be set accordingly:
+
+		Note - application/x-microsoft.net.object.binary.base64 is the format 
+		that the ResXResourceWriter will generate, however the reader can 
+		read any of the formats listed below.
+
+		mimetype: application/x-microsoft.net.object.binary.base64
+		value   : The object must be serialized with 
+			: System.Serialization.Formatters.Binary.BinaryFormatter
+			: and then encoded with base64 encoding.
+
+		mimetype: application/x-microsoft.net.object.soap.base64
+		value   : The object must be serialized with 
+			: System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+			: and then encoded with base64 encoding.
+
+		mimetype: application/x-microsoft.net.object.bytearray.base64
+		value   : The object must be serialized into a byte array 
+			: using a System.ComponentModel.TypeConverter
+			: and then encoded with base64 encoding.
+	-->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>1.3</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.3500.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.3500.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="Audio Applications" xml:space="preserve">
+    <value>Audio Applications</value>
+  </data>
+  <data name="Video Applications" xml:space="preserve">
+    <value>Video Applications</value>
+  </data>
+  <data name="PDF Applications" xml:space="preserve">
+    <value>PDF Applications</value>
+  </data>
+  <data name="File Management Applications" xml:space="preserve">
+    <value>File Management Applications</value>
+  </data>
+  <data name="System Utilities" xml:space="preserve">
+    <value>System Utilities</value>
+  </data>
+  <data name="Webdesign Applications" xml:space="preserve">
+    <value>Webdesign Applications</value>
+  </data>
+  <data name="Graphics Applications" xml:space="preserve">
+    <value>Graphics Applications</value>
+  </data>
+  <data name="Desktop Applications" xml:space="preserve">
+    <value>Desktop Applications</value>
+  </data>
+  <data name="Other Applications" xml:space="preserve">
+    <value>Other Applications</value>
+  </data>
+  <data name="Unspecified Error" xml:space="preserve">
+    <value>Unspecified Error</value>
+  </data>
+  <data name="The application will now exit and run the updated setup file" xml:space="preserve">
+    <value>The application will now exit and run the updated setup file</value>
+  </data>
+  <data name="Error. Could not run new Setup File !" xml:space="preserve">
+    <value>Error. Could not run new Setup File !</value>
+  </data>
+  <data name="Please specify a CSV File !" xml:space="preserve">
+    <value>Please specify a CSV File !</value>
+  </data>
+  <data name="Please specify a valid CSV FIle !" xml:space="preserve">
+    <value>Please specify a valid CSV FIle !</value>
+  </data>
+  <data name="Please specify a valid Delimiter !" xml:space="preserve">
+    <value>Please specify a valid Delimiter !</value>
+  </data>
+  <data name="Please specify a valid Videos to Join Column !" xml:space="preserve">
+    <value>Please specify a valid Videos to Join Column !</value>
+  </data>
+  <data name="Comma (,)" xml:space="preserve">
+    <value>Comma (,)</value>
+  </data>
+  <data name="Tab (     )" xml:space="preserve">
+    <value>Tab (     )</value>
+  </data>
+  <data name="Semicolon (;)" xml:space="preserve">
+    <value>Semicolon (;)</value>
+  </data>
+  <data name="Colon (:)" xml:space="preserve">
+    <value>Colon (:)</value>
+  </data>
+  <data name="Space ( )" xml:space="preserve">
+    <value>Space ( )</value>
+  </data>
+  <data name="Other" xml:space="preserve">
+    <value>Other</value>
+  </data>
+  <data name="lastversion=" xml:space="preserve">
+    <value>lastversion=</value>
+  </data>
+  <data name="languagesdownloaded=" xml:space="preserve">
+    <value>languagesdownloaded=</value>
+  </data>
+  <data name="Error Could not change Language !" xml:space="preserve">
+    <value>Error Could not change Language !</value>
+  </data>
+  <data name="Change PDF Properties" xml:space="preserve">
+    <value>Change PDF Properties</value>
+  </data>
+  <data name="Operation Stopped !" xml:space="preserve">
+    <value>Operation Stopped !</value>
+  </data>
+  <data name="Error. Could not Add to list" xml:space="preserve">
+    <value>Error. Could not Add to list</value>
+  </data>
+  <data name="Error could not Download Webpage : " xml:space="preserve">
+    <value>Error could not Download Webpage : </value>
+  </data>
+  <data name="Error ! Invalid URL or File does not exist !" xml:space="preserve">
+    <value>Error ! Invalid URL or File does not exist !</value>
+  </data>
+  <data name="Shutdown" xml:space="preserve">
+    <value>Shutdown</value>
+  </data>
+  <data name="Sleep" xml:space="preserve">
+    <value>Sleep</value>
+  </data>
+  <data name="Hibernate" xml:space="preserve">
+    <value>Hibernate</value>
+  </data>
+  <data name="Logoff" xml:space="preserve">
+    <value>Logoff</value>
+  </data>
+  <data name="Lock Workstation" xml:space="preserve">
+    <value>Lock Workstation</value>
+  </data>
+  <data name="Restart" xml:space="preserve">
+    <value>Restart</value>
+  </data>
+  <data name="Exit Application" xml:space="preserve">
+    <value>Exit Application</value>
+  </data>
+  <data name="Explore Output Video" xml:space="preserve">
+    <value>Explore Output Video</value>
+  </data>
+  <data name="Do Nothing" xml:space="preserve">
+    <value>Do Nothing</value>
+  </data>
+  <data name="Please fill out the Questionnaire !" xml:space="preserve">
+    <value>Please fill out the Questionnaire !</value>
+  </data>
+  <data name="Error. Could not send Questionnaire !" xml:space="preserve">
+    <value>Error. Could not send Questionnaire !</value>
+  </data>
+  <data name="Links with Errors" xml:space="preserve">
+    <value>Links with Errors</value>
+  </data>
+  <data name="Links with Warnings Only" xml:space="preserve">
+    <value>Links with Warnings Only</value>
+  </data>
+  <data name="Successful Links" xml:space="preserve">
+    <value>Successful Links</value>
+  </data>
+  <data name="Links with Download Errors" xml:space="preserve">
+    <value>Links with Download Errors</value>
+  </data>
+  <data name="Successful URLs / Files" xml:space="preserve">
+    <value>Successful URLs / Files</value>
+  </data>
+  <data name="URLs / Files with Errors or Warnings" xml:space="preserve">
+    <value>URLs / Files with Errors or Warnings</value>
+  </data>
+  <data name="URLs / Files with Warnings Only" xml:space="preserve">
+    <value>URLs / Files with Warnings Only</value>
+  </data>
+  <data name="URLs / Files with Download Errors" xml:space="preserve">
+    <value>URLs / Files with Download Errors</value>
+  </data>
+  <data name="Errors and Warnings List" xml:space="preserve">
+    <value>Errors and Warnings List</value>
+  </data>
+  <data name="A new version has been released. Press the OK button to download the new version" xml:space="preserve">
+    <value>A new version has been released. Press the OK button to download the new version</value>
+  </data>
+  <data name="This is the latest version !" xml:space="preserve">
+    <value>This is the latest version !</value>
+  </data>
+  <data name="An error occured !" xml:space="preserve">
+    <value>An error occured !</value>
+  </data>
+  <data name="I have found a great application to Batch HTML Validate entire sites !" xml:space="preserve">
+    <value>I have found a great application to Batch HTML Validate entire sites !</value>
+  </data>
+  <data name="A new version has been released. Would you like to download it now ?" xml:space="preserve">
+    <value>A new version has been released. Would you like to download it now ?</value>
+  </data>
+  <data name="Download new version ?" xml:space="preserve">
+    <value>Download new version ?</value>
+  </data>
+</root>

@@ -1,0 +1,1512 @@
+﻿<Mappings><Entry OldName="BatchHTMLValidator.ContextMenuHelper.DtFrom" NewName="A.ca76fe66e7209047f88b7eceba1c3ef6b.c91a399b8590e617de5052cfdab46a3de" />
+<Entry OldName="BatchHTMLValidator.ContextMenuHelper.DtLast" NewName="A.ca76fe66e7209047f88b7eceba1c3ef6b.ceaf4d2910c36ee99ef4cb4d85eb353a6" />
+<Entry OldName="BatchHTMLValidator.ContextMenuHelper.DtTo" NewName="A.ca76fe66e7209047f88b7eceba1c3ef6b.c000be5926db472887535c64264e7fa27" />
+<Entry OldName="BatchHTMLValidator.CustomForm.LoadComplete" NewName="BatchHTMLValidator.CustomForm.ce3e371d914b6cd5c04bf3043ccc1a84a" />
+<Entry OldName="BatchHTMLValidator.CustomForm.BackGroundImg" NewName="BatchHTMLValidator.CustomForm.ce8a4248d12243796c0460756d907b801" />
+<Entry OldName="BatchHTMLValidator.CustomForm.tooltip" NewName="BatchHTMLValidator.CustomForm.c5c7787f08a83acfbe052584800712a56" />
+<Entry OldName="BatchHTMLValidator.CustomForm.components" NewName="BatchHTMLValidator.CustomForm.c79b927fa6bb1fc2f73f570fe808d19b4" />
+<Entry OldName="BatchHTMLValidator.DownloadSuggestionsHelper.tsiDownloadRoot" NewName="A.c25ca58d4d76622a7e880c4ca785ac05b.ca5a3df63b5769b9c6a3a3f06720b4c40" />
+<Entry OldName="BatchHTMLValidator.DownloadSuggestionsHelper.Category" NewName="A.c25ca58d4d76622a7e880c4ca785ac05b.cdb5fe194df41676d1fba928dcbc89840" />
+<Entry OldName="BatchHTMLValidator.DownloadSuggestionsHelper.App" NewName="A.c25ca58d4d76622a7e880c4ca785ac05b.c96ebf43515c4035bd736ce488924a164" />
+<Entry OldName="BatchHTMLValidator.DownloadSuggestionsHelper.Url" NewName="A.c25ca58d4d76622a7e880c4ca785ac05b.c681d2f15f2678801519853e984c681cd" />
+<Entry OldName="BatchHTMLValidator.frmAbout.components" NewName="BatchHTMLValidator.frmAbout.c79b927fa6bb1fc2f73f570fe808d19b4" />
+<Entry OldName="BatchHTMLValidator.frmAbout.lblAbout" NewName="BatchHTMLValidator.frmAbout.c21f52f967c368c484faed40d27381d9e" />
+<Entry OldName="BatchHTMLValidator.frmAbout.btnClose" NewName="BatchHTMLValidator.frmAbout.cef8ae4c83c08d652a52fe7618c6d459b" />
+<Entry OldName="BatchHTMLValidator.frmAbout.pictureBox1" NewName="BatchHTMLValidator.frmAbout.cf9276804e75d44cbaa148de65b053308" />
+<Entry OldName="BatchHTMLValidator.frmAbout.linkLabel1" NewName="BatchHTMLValidator.frmAbout.c21545ff7138e20afa232a3c22384ebc7" />
+<Entry OldName="BatchHTMLValidator.frmAbout.label1" NewName="BatchHTMLValidator.frmAbout.cda81b855a2dc9e0a4cfe0d7601d31892" />
+<Entry OldName="BatchHTMLValidator.frmAbout.label2" NewName="BatchHTMLValidator.frmAbout.cea77c61ffa31b6f66fe4cd13bc23768b" />
+<Entry OldName="BatchHTMLValidator.frmAbout.linkLabel2" NewName="BatchHTMLValidator.frmAbout.c858395692a5f2d968664270407dee137" />
+<Entry OldName="BatchHTMLValidator.frmAbout.niceLine1" NewName="BatchHTMLValidator.frmAbout.ce270fe60d961fe50ec9117d0c2940425" />
+<Entry OldName="BatchHTMLValidator.frmAbout.niceLine3" NewName="BatchHTMLValidator.frmAbout.ca57b2f854cd2e1175e76b1ebecfbb264" />
+<Entry OldName="BatchHTMLValidator.frmAbout.label3" NewName="BatchHTMLValidator.frmAbout.c026e24dc84a93d2bd18e88dca2425b01" />
+<Entry OldName="BatchHTMLValidator.frmAbout.ullProductWebpage" NewName="BatchHTMLValidator.frmAbout.c28a36a7c82361a96a7213740769faba0" />
+<Entry OldName="BatchHTMLValidator.frmAbout.btnBuy" NewName="BatchHTMLValidator.frmAbout.cbe18f4f8dbdd5106aa83e4ff09f33fa4" />
+<Entry OldName="BatchHTMLValidator.frmAbout.lblRegistered" NewName="BatchHTMLValidator.frmAbout.c5c73ad449a713af5885da45cd84f64e8" />
+<Entry OldName="BatchHTMLValidator.frmAbout.btnRegister" NewName="BatchHTMLValidator.frmAbout.c7777976df78e914d76f3ab8efa6d8b0f" />
+<Entry OldName="BatchHTMLValidator.frmAbout.niceLine2" NewName="BatchHTMLValidator.frmAbout.cc9be6e74571de55abb7fc682d122373c" />
+<Entry OldName="BatchHTMLValidator.frmAbout.label4" NewName="BatchHTMLValidator.frmAbout.c18e83b3d9ded825efa197af3456ad52e" />
+<Entry OldName="BatchHTMLValidator.frmAbout.lblLicenseKey" NewName="BatchHTMLValidator.frmAbout.c7a574536cfef5319ba8cc7b5ad38e226" />
+<Entry OldName="BatchHTMLValidator.frmAbout.niceLine4" NewName="BatchHTMLValidator.frmAbout.c03dcac28b77d4afea71fe684985d9fdc" />
+<Entry OldName="BatchHTMLValidator.frmAbout.niceLine5" NewName="BatchHTMLValidator.frmAbout.ca30bd87d83e52ccde903445ae5fc3b6e" />
+<Entry OldName="BatchHTMLValidator.frmAbout.label5" NewName="BatchHTMLValidator.frmAbout.c18deb0c05687750d58bc6d10de23e660" />
+<Entry OldName="BatchHTMLValidator.frmAbout.label6" NewName="BatchHTMLValidator.frmAbout.c32d3e5b28718ab77fed96488c19c86aa" />
+<Entry OldName="BatchHTMLValidator.frmAbout.urlLinkLabel1" NewName="BatchHTMLValidator.frmAbout.ca040965bf57aded3acabe0838d3d7321" />
+<Entry OldName="BatchHTMLValidator.frmAbout.llLicense" NewName="BatchHTMLValidator.frmAbout.c0599226d855e08dbb3c306d0f327091b" />
+<Entry OldName="BatchHTMLValidator.frmAbout.label7" NewName="BatchHTMLValidator.frmAbout.c6fb41bbc3df4e7863b8a5791a6b5b592" />
+<Entry OldName="BatchHTMLValidator.frmAdeia.components" NewName="BatchHTMLValidator.frmAdeia.c79b927fa6bb1fc2f73f570fe808d19b4" />
+<Entry OldName="BatchHTMLValidator.frmAdeia.label1" NewName="BatchHTMLValidator.frmAdeia.cda81b855a2dc9e0a4cfe0d7601d31892" />
+<Entry OldName="BatchHTMLValidator.frmAdeia.btnOK" NewName="BatchHTMLValidator.frmAdeia.c69b3bcb58e23dda73fe0edcbd73dee10" />
+<Entry OldName="BatchHTMLValidator.frmAdeia.label2" NewName="BatchHTMLValidator.frmAdeia.cea77c61ffa31b6f66fe4cd13bc23768b" />
+<Entry OldName="BatchHTMLValidator.frmAdeia.btnExit" NewName="BatchHTMLValidator.frmAdeia.c4aefe3efcab81a527c10b3d1b3c18aed" />
+<Entry OldName="BatchHTMLValidator.frmAdeia.lblAppName" NewName="BatchHTMLValidator.frmAdeia.c17db654db15e5ca5e41b2d6ee16b991f" />
+<Entry OldName="BatchHTMLValidator.frmDownloadUpdate._DownloadFile" NewName="BatchHTMLValidator.frmDownloadUpdate.c3b724f7d575bce8826d72b3217311c84" />
+<Entry OldName="BatchHTMLValidator.frmDownloadUpdate.components" NewName="BatchHTMLValidator.frmDownloadUpdate.c79b927fa6bb1fc2f73f570fe808d19b4" />
+<Entry OldName="BatchHTMLValidator.frmDownloadUpdate.pgBar" NewName="BatchHTMLValidator.frmDownloadUpdate.c8eb057eb2b8ac7d000c9ac69583bb39f" />
+<Entry OldName="BatchHTMLValidator.frmDownloadUpdate.btnCancelDownload" NewName="BatchHTMLValidator.frmDownloadUpdate.cc2a2620eca9a81301ef1d54e06c3a6e3" />
+<Entry OldName="BatchHTMLValidator.frmDownloadUpdate.bwDownload" NewName="BatchHTMLValidator.frmDownloadUpdate.cf54c58681703e8f17427856750355727" />
+<Entry OldName="BatchHTMLValidator.frmDownloadUpdate.label1" NewName="BatchHTMLValidator.frmDownloadUpdate.cda81b855a2dc9e0a4cfe0d7601d31892" />
+<Entry OldName="BatchHTMLValidator.frmDownloadUpdate.lblTotalSize" NewName="BatchHTMLValidator.frmDownloadUpdate.cb49165b5ddf3d716ba2fe0c4020d6e97" />
+<Entry OldName="BatchHTMLValidator.frmError.components" NewName="BatchHTMLValidator.frmError.c79b927fa6bb1fc2f73f570fe808d19b4" />
+<Entry OldName="BatchHTMLValidator.frmError.txtError" NewName="BatchHTMLValidator.frmError.c09acfa090c4d39d2e49a7993a721f863" />
+<Entry OldName="BatchHTMLValidator.frmError.pictureBox1" NewName="BatchHTMLValidator.frmError.cf9276804e75d44cbaa148de65b053308" />
+<Entry OldName="BatchHTMLValidator.frmError.btnClose" NewName="BatchHTMLValidator.frmError.cef8ae4c83c08d652a52fe7618c6d459b" />
+<Entry OldName="BatchHTMLValidator.frmImportCSV.BatchJoin" NewName="BatchHTMLValidator.frmImportCSV.c9b799d5120463e8237055b800930ba69" />
+<Entry OldName="BatchHTMLValidator.frmImportCSV.components" NewName="BatchHTMLValidator.frmImportCSV.c79b927fa6bb1fc2f73f570fe808d19b4" />
+<Entry OldName="BatchHTMLValidator.frmImportCSV.label4" NewName="BatchHTMLValidator.frmImportCSV.c18e83b3d9ded825efa197af3456ad52e" />
+<Entry OldName="BatchHTMLValidator.frmImportCSV.label6" NewName="BatchHTMLValidator.frmImportCSV.c32d3e5b28718ab77fed96488c19c86aa" />
+<Entry OldName="BatchHTMLValidator.frmImportCSV.label1" NewName="BatchHTMLValidator.frmImportCSV.cda81b855a2dc9e0a4cfe0d7601d31892" />
+<Entry OldName="BatchHTMLValidator.frmImportCSV.btnCancel" NewName="BatchHTMLValidator.frmImportCSV.c46f049e16ef9a99901f0e5e561659722" />
+<Entry OldName="BatchHTMLValidator.frmImportCSV.btnOK" NewName="BatchHTMLValidator.frmImportCSV.c69b3bcb58e23dda73fe0edcbd73dee10" />
+<Entry OldName="BatchHTMLValidator.frmImportCSV.btnBrowse" NewName="BatchHTMLValidator.frmImportCSV.cf181cd4b7f75d2493367f27a72a202ee" />
+<Entry OldName="BatchHTMLValidator.frmImportCSV.openFileDialog1" NewName="BatchHTMLValidator.frmImportCSV.c5b11386253fe79fa28ea18fcc9c56a23" />
+<Entry OldName="BatchHTMLValidator.frmImportCSV.label2" NewName="BatchHTMLValidator.frmImportCSV.cea77c61ffa31b6f66fe4cd13bc23768b" />
+<Entry OldName="BatchHTMLValidator.frmImportCSV.label3" NewName="BatchHTMLValidator.frmImportCSV.c026e24dc84a93d2bd18e88dca2425b01" />
+<Entry OldName="BatchHTMLValidator.frmImportCSV.lblColumnOutput" NewName="BatchHTMLValidator.frmImportCSV.caccfad622a9d5d915ea0867f1e1f0aba" />
+<Entry OldName="BatchHTMLValidator.frmImportExcel.Column" NewName="BatchHTMLValidator.frmImportExcel.cc387eee9b724f59e83da7069d7d25e55" />
+<Entry OldName="BatchHTMLValidator.frmImportExcel.BatchJoin" NewName="BatchHTMLValidator.frmImportExcel.c9b799d5120463e8237055b800930ba69" />
+<Entry OldName="BatchHTMLValidator.frmImportExcel.components" NewName="BatchHTMLValidator.frmImportExcel.c79b927fa6bb1fc2f73f570fe808d19b4" />
+<Entry OldName="BatchHTMLValidator.frmImportExcel.btnBrowse" NewName="BatchHTMLValidator.frmImportExcel.cf181cd4b7f75d2493367f27a72a202ee" />
+<Entry OldName="BatchHTMLValidator.frmImportExcel.btnCancel" NewName="BatchHTMLValidator.frmImportExcel.c46f049e16ef9a99901f0e5e561659722" />
+<Entry OldName="BatchHTMLValidator.frmImportExcel.btnOK" NewName="BatchHTMLValidator.frmImportExcel.c69b3bcb58e23dda73fe0edcbd73dee10" />
+<Entry OldName="BatchHTMLValidator.frmImportExcel.label4" NewName="BatchHTMLValidator.frmImportExcel.c18e83b3d9ded825efa197af3456ad52e" />
+<Entry OldName="BatchHTMLValidator.frmImportExcel.label6" NewName="BatchHTMLValidator.frmImportExcel.c32d3e5b28718ab77fed96488c19c86aa" />
+<Entry OldName="BatchHTMLValidator.frmImportExcel.openFileDialog1" NewName="BatchHTMLValidator.frmImportExcel.c5b11386253fe79fa28ea18fcc9c56a23" />
+<Entry OldName="BatchHTMLValidator.frmImportExcel.lblOutputColumn" NewName="BatchHTMLValidator.frmImportExcel.c3a74741e780334561c0689b98f970dac" />
+<Entry OldName="BatchHTMLValidator.frmJavaCheck.components" NewName="BatchHTMLValidator.frmJavaCheck.c79b927fa6bb1fc2f73f570fe808d19b4" />
+<Entry OldName="BatchHTMLValidator.frmJavaCheck.label1" NewName="BatchHTMLValidator.frmJavaCheck.cda81b855a2dc9e0a4cfe0d7601d31892" />
+<Entry OldName="BatchHTMLValidator.frmJavaCheck.label2" NewName="BatchHTMLValidator.frmJavaCheck.cea77c61ffa31b6f66fe4cd13bc23768b" />
+<Entry OldName="BatchHTMLValidator.frmJavaCheck.btnDownload" NewName="BatchHTMLValidator.frmJavaCheck.c8e3536ea29121b5632430765d8adb449" />
+<Entry OldName="BatchHTMLValidator.frmLanguage.components" NewName="BatchHTMLValidator.frmLanguage.c79b927fa6bb1fc2f73f570fe808d19b4" />
+<Entry OldName="BatchHTMLValidator.frmLanguage.label1" NewName="BatchHTMLValidator.frmLanguage.cda81b855a2dc9e0a4cfe0d7601d31892" />
+<Entry OldName="BatchHTMLValidator.frmLanguage.cmbLanguage" NewName="BatchHTMLValidator.frmLanguage.cd3b8393d24d646f1ade79a7b4b77076b" />
+<Entry OldName="BatchHTMLValidator.frmLanguage.btnOK" NewName="BatchHTMLValidator.frmLanguage.c69b3bcb58e23dda73fe0edcbd73dee10" />
+<Entry OldName="BatchHTMLValidator.frmMain.tidyOutput" NewName="BatchHTMLValidator.frmMain.c56a7a96e6cf1615ff90ce02846940926" />
+<Entry OldName="BatchHTMLValidator.frmMain.webclient" NewName="BatchHTMLValidator.frmMain.c4a9b7e68531217594f4e92ad00bb2f72" />
+<Entry OldName="BatchHTMLValidator.frmMain.bwValidate" NewName="BatchHTMLValidator.frmMain.ca27869f5f093d33d4f8ee40c779c1a65" />
+<Entry OldName="BatchHTMLValidator.frmMain.InChangeLanguage" NewName="BatchHTMLValidator.frmMain.c4a97548af8833088b0f5b530cf178fce" />
+<Entry OldName="BatchHTMLValidator.frmMain.components" NewName="BatchHTMLValidator.frmMain.c79b927fa6bb1fc2f73f570fe808d19b4" />
+<Entry OldName="BatchHTMLValidator.frmMain.tsCut" NewName="BatchHTMLValidator.frmMain.c89fdeffebc196cbf24dd41190b86386f" />
+<Entry OldName="BatchHTMLValidator.frmMain.tsbClear" NewName="BatchHTMLValidator.frmMain.c320bc899fd90895019ea54445a4c6c4e" />
+<Entry OldName="BatchHTMLValidator.frmMain.toolStripSeparator6" NewName="BatchHTMLValidator.frmMain.c116953210cd19b6a18a7c7707ed1dbc4" />
+<Entry OldName="BatchHTMLValidator.frmMain.tsbValidateHTML" NewName="BatchHTMLValidator.frmMain.cb72bc3c6d6ddd318789cb7bdd6b89f0a" />
+<Entry OldName="BatchHTMLValidator.frmMain.menuStrip1" NewName="BatchHTMLValidator.frmMain.cf4c35625f635caedbb29eb2a944d338d" />
+<Entry OldName="BatchHTMLValidator.frmMain.fileToolStripMenuItem" NewName="BatchHTMLValidator.frmMain.cb44bc8a3335883bbd58c4490e6c76851" />
+<Entry OldName="BatchHTMLValidator.frmMain.exitToolStripMenuItem" NewName="BatchHTMLValidator.frmMain.c18bdd1311ee692cbce528841ad13fdeb" />
+<Entry OldName="BatchHTMLValidator.frmMain.importToolStripMenuItem" NewName="BatchHTMLValidator.frmMain.c94b0e7fc19ae4b1b8b1d24746c1e0fc0" />
+<Entry OldName="BatchHTMLValidator.frmMain.importListFromTextFileToolStripMenuItem" NewName="BatchHTMLValidator.frmMain.cc49633036789ccc7ce94928f3922f8db" />
+<Entry OldName="BatchHTMLValidator.frmMain.txtLinks" NewName="BatchHTMLValidator.frmMain.c8a83ab15c9795e52f97e2411dc9bfbcf" />
+<Entry OldName="BatchHTMLValidator.frmMain.label1" NewName="BatchHTMLValidator.frmMain.cda81b855a2dc9e0a4cfe0d7601d31892" />
+<Entry OldName="BatchHTMLValidator.frmMain.languageToolStripMenuItem" NewName="BatchHTMLValidator.frmMain.ccd6e549bf7088a61a90a5a9d744a52c6" />
+<Entry OldName="BatchHTMLValidator.frmMain.downloadFreeApplicationsToolStripMenuItem" NewName="BatchHTMLValidator.frmMain.ca6986295a272770824c7b51f64acdcc1" />
+<Entry OldName="BatchHTMLValidator.frmMain.pleaseShareToolStripMenuItem" NewName="BatchHTMLValidator.frmMain.cbbbd85284e719fc16ace2890b88480b3" />
+<Entry OldName="BatchHTMLValidator.frmMain.shareOnFacebookToolStripMenuItem" NewName="BatchHTMLValidator.frmMain.c7d1efa918b3cad4d0dc33881405f641a" />
+<Entry OldName="BatchHTMLValidator.frmMain.shareOnTwitterToolStripMenuItem" NewName="BatchHTMLValidator.frmMain.c829ed9ac4373310154d1000824493bb9" />
+<Entry OldName="BatchHTMLValidator.frmMain.shareOnGooglePlusToolStripMenuItem" NewName="BatchHTMLValidator.frmMain.ca79c91335f93b8224a79598ccbe36a3b" />
+<Entry OldName="BatchHTMLValidator.frmMain.shareOnLinkedinToolStripMenuItem" NewName="BatchHTMLValidator.frmMain.cdcb7006c96490f3b689b0d569009a158" />
+<Entry OldName="BatchHTMLValidator.frmMain.shareWithEmailToolStripMenuItem" NewName="BatchHTMLValidator.frmMain.cf78656cbec94711321f2882cb90375de" />
+<Entry OldName="BatchHTMLValidator.frmMain.helpToolStripMenuItem" NewName="BatchHTMLValidator.frmMain.ccd2dec51ebe1162a28fcabf5b4d89c5e" />
+<Entry OldName="BatchHTMLValidator.frmMain.helpUsersManualToolStripMenuItem" NewName="BatchHTMLValidator.frmMain.c974278ef2b5a72272804c444c399a55c" />
+<Entry OldName="BatchHTMLValidator.frmMain.toolStripMenuItem4" NewName="BatchHTMLValidator.frmMain.c5dcf2781290e0fab07026be013d2de46" />
+<Entry OldName="BatchHTMLValidator.frmMain.pleaseDonateToolStripMenuItem" NewName="BatchHTMLValidator.frmMain.c747cb754207d5d8d5d6fb20914188db9" />
+<Entry OldName="BatchHTMLValidator.frmMain.dotsSoftwarePRODUCTCATALOGToolStripMenuItem" NewName="BatchHTMLValidator.frmMain.cb9b4bb3c5ef8c48461068806f8b9b9fc" />
+<Entry OldName="BatchHTMLValidator.frmMain.followUsOnTwitterToolStripMenuItem" NewName="BatchHTMLValidator.frmMain.cf9a348959c9be044486868da3f980a1e" />
+<Entry OldName="BatchHTMLValidator.frmMain.visit4dotsSoftwareWebpageToolStripMenuItem" NewName="BatchHTMLValidator.frmMain.cf9d132a16bedb7bcb6b8644ceb17c177" />
+<Entry OldName="BatchHTMLValidator.frmMain.toolStripMenuItem9" NewName="BatchHTMLValidator.frmMain.c77df23b73336d8e4b18cee48560d1dfa" />
+<Entry OldName="BatchHTMLValidator.frmMain.feedbackToolStripMenuItem" NewName="BatchHTMLValidator.frmMain.c0338e92b2a49aa42eae3efcbd6a8ec02" />
+<Entry OldName="BatchHTMLValidator.frmMain.checkForNewVersionToolStripMenuItem" NewName="BatchHTMLValidator.frmMain.c8140733198607e549ec6ee9ec87225ed" />
+<Entry OldName="BatchHTMLValidator.frmMain.aboutToolStripMenuItem" NewName="BatchHTMLValidator.frmMain.cd6f6ca5d3025e66a9c0fd3dc75bc414c" />
+<Entry OldName="BatchHTMLValidator.frmMain.importListFromCSVFileToolStripMenuItem" NewName="BatchHTMLValidator.frmMain.cdd934076888aa7ae3cb13de2f5addac6" />
+<Entry OldName="BatchHTMLValidator.frmMain.importListFromExcelFileToolStripMenuItem" NewName="BatchHTMLValidator.frmMain.c9936313cb43713cdb2048411efadf31c" />
+<Entry OldName="BatchHTMLValidator.frmMain.openFileDialog1" NewName="BatchHTMLValidator.frmMain.c5b11386253fe79fa28ea18fcc9c56a23" />
+<Entry OldName="BatchHTMLValidator.frmMain.importListFromXMLSitemapToolStripMenuItem" NewName="BatchHTMLValidator.frmMain.ccc5e34cb8731844d05e11658e5784c80" />
+<Entry OldName="BatchHTMLValidator.frmMain.toolsToolStripMenuItem" NewName="BatchHTMLValidator.frmMain.cd2129283bd157d386b5444a7d81939fa" />
+<Entry OldName="BatchHTMLValidator.frmMain.clearToolStripMenuItem" NewName="BatchHTMLValidator.frmMain.cedb25e3ba68e45d7546449ee782075e4" />
+<Entry OldName="BatchHTMLValidator.frmMain.validateHTMLToolStripMenuItem" NewName="BatchHTMLValidator.frmMain.cfafd050a2387c6588ceb207abfeb971d" />
+<Entry OldName="BatchHTMLValidator.frmMain.checkForNewVersionEachWeekToolStripMenuItem" NewName="BatchHTMLValidator.frmMain.cefffdad153cbec2c227cfed19d3c13e6" />
+<Entry OldName="BatchHTMLValidator.frmMsgCheckBox.components" NewName="BatchHTMLValidator.frmMsgCheckBox.c79b927fa6bb1fc2f73f570fe808d19b4" />
+<Entry OldName="BatchHTMLValidator.frmMsgCheckBox.chkDoNotShowAgain" NewName="BatchHTMLValidator.frmMsgCheckBox.c801486c790257305bc7b3f11da154d6c" />
+<Entry OldName="BatchHTMLValidator.frmMsgCheckBox.btnOK" NewName="BatchHTMLValidator.frmMsgCheckBox.c69b3bcb58e23dda73fe0edcbd73dee10" />
+<Entry OldName="BatchHTMLValidator.frmProgress._Instance" NewName="BatchHTMLValidator.frmProgress.cfd4788ed3d6cd7f4a10a3b0521c8dfc2" />
+<Entry OldName="BatchHTMLValidator.frmProgress.components" NewName="BatchHTMLValidator.frmProgress.c79b927fa6bb1fc2f73f570fe808d19b4" />
+<Entry OldName="BatchHTMLValidator.frmProgress.lblRemainingTime" NewName="BatchHTMLValidator.frmProgress.cc83a72ed063e0f8846758bfc68cd8e6b" />
+<Entry OldName="BatchHTMLValidator.frmProgress.lblElapsedTime" NewName="BatchHTMLValidator.frmProgress.cc99790890df1acb78229c42416de2038" />
+<Entry OldName="BatchHTMLValidator.frmPurchase.components" NewName="BatchHTMLValidator.frmPurchase.c79b927fa6bb1fc2f73f570fe808d19b4" />
+<Entry OldName="BatchHTMLValidator.frmPurchase.btnBuy" NewName="BatchHTMLValidator.frmPurchase.cbe18f4f8dbdd5106aa83e4ff09f33fa4" />
+<Entry OldName="BatchHTMLValidator.frmPurchase.lblMsg" NewName="BatchHTMLValidator.frmPurchase.ce07ef83601bbe8b0c39e64abf96b4a59" />
+<Entry OldName="BatchHTMLValidator.frmPurchase.btnClose" NewName="BatchHTMLValidator.frmPurchase.cef8ae4c83c08d652a52fe7618c6d459b" />
+<Entry OldName="BatchHTMLValidator.frmPurchase.lblWait" NewName="BatchHTMLValidator.frmPurchase.c0d52a2162397b9294ce5cef6f8d679eb" />
+<Entry OldName="BatchHTMLValidator.frmPurchase.timContinue" NewName="BatchHTMLValidator.frmPurchase.c7f2fadfe8cdd6f143c45a7df0dc5937a" />
+<Entry OldName="BatchHTMLValidator.frmPurchase.lblAppName" NewName="BatchHTMLValidator.frmPurchase.c17db654db15e5ca5e41b2d6ee16b991f" />
+<Entry OldName="BatchHTMLValidator.frmPurchase.btnRegister" NewName="BatchHTMLValidator.frmPurchase.c7777976df78e914d76f3ab8efa6d8b0f" />
+<Entry OldName="BatchHTMLValidator.frmPurchase.btnExit" NewName="BatchHTMLValidator.frmPurchase.c4aefe3efcab81a527c10b3d1b3c18aed" />
+<Entry OldName="BatchHTMLValidator.frmPurchase.label1" NewName="BatchHTMLValidator.frmPurchase.cda81b855a2dc9e0a4cfe0d7601d31892" />
+<Entry OldName="BatchHTMLValidator.frmUninstallQuestionnaire.OnUninstall" NewName="BatchHTMLValidator.frmUninstallQuestionnaire.c43be4b156a89fb9ffefd92b0c1e0939a" />
+<Entry OldName="BatchHTMLValidator.frmUninstallQuestionnaire.components" NewName="BatchHTMLValidator.frmUninstallQuestionnaire.c79b927fa6bb1fc2f73f570fe808d19b4" />
+<Entry OldName="BatchHTMLValidator.frmUninstallQuestionnaire.label1" NewName="BatchHTMLValidator.frmUninstallQuestionnaire.cda81b855a2dc9e0a4cfe0d7601d31892" />
+<Entry OldName="BatchHTMLValidator.frmUninstallQuestionnaire.label2" NewName="BatchHTMLValidator.frmUninstallQuestionnaire.cea77c61ffa31b6f66fe4cd13bc23768b" />
+<Entry OldName="BatchHTMLValidator.frmUninstallQuestionnaire.label3" NewName="BatchHTMLValidator.frmUninstallQuestionnaire.c026e24dc84a93d2bd18e88dca2425b01" />
+<Entry OldName="BatchHTMLValidator.frmUninstallQuestionnaire.btnOK" NewName="BatchHTMLValidator.frmUninstallQuestionnaire.c69b3bcb58e23dda73fe0edcbd73dee10" />
+<Entry OldName="BatchHTMLValidator.frmUninstallQuestionnaire.btnExit" NewName="BatchHTMLValidator.frmUninstallQuestionnaire.c4aefe3efcab81a527c10b3d1b3c18aed" />
+<Entry OldName="BatchHTMLValidator.frmUninstallQuestionnaire.txtLike" NewName="BatchHTMLValidator.frmUninstallQuestionnaire.c0ddd2acc753b20bdc5d8f0e0942e5f98" />
+<Entry OldName="BatchHTMLValidator.frmUninstallQuestionnaire.txtBuy" NewName="BatchHTMLValidator.frmUninstallQuestionnaire.cb3526407a3741edbacfbbd28cc5e8ed1" />
+<Entry OldName="BatchHTMLValidator.frmUninstallQuestionnaire.label4" NewName="BatchHTMLValidator.frmUninstallQuestionnaire.c18e83b3d9ded825efa197af3456ad52e" />
+<Entry OldName="BatchHTMLValidator.frmUninstallQuestionnaire.txtEmail" NewName="BatchHTMLValidator.frmUninstallQuestionnaire.cec3fc913d02b940c876ec3ca64201f79" />
+<Entry OldName="BatchHTMLValidator.frmUninstallQuestionnaire.txtOpinion" NewName="BatchHTMLValidator.frmUninstallQuestionnaire.c58e3ce6ee91de4199fe074cba594a2fd" />
+<Entry OldName="BatchHTMLValidator.frmUninstallQuestionnaire.label5" NewName="BatchHTMLValidator.frmUninstallQuestionnaire.c18deb0c05687750d58bc6d10de23e660" />
+<Entry OldName="BatchHTMLValidator.frmValidationResult.TotalOutput" NewName="BatchHTMLValidator.frmValidationResult.c93d96d41352ac482022634d24cd6c1a4" />
+<Entry OldName="BatchHTMLValidator.frmValidationResult.lstURL1" NewName="BatchHTMLValidator.frmValidationResult.c88c993c6e4c19a0b9f660e96850a008f" />
+<Entry OldName="BatchHTMLValidator.frmValidationResult.lstvld1" NewName="BatchHTMLValidator.frmValidationResult.cf9fcf0db91e269a6d88373ed00ca3df2" />
+<Entry OldName="BatchHTMLValidator.frmValidationResult.lstFile1" NewName="BatchHTMLValidator.frmValidationResult.c56ea527e4cec6f31b12b3aa9b7ade1ab" />
+<Entry OldName="BatchHTMLValidator.frmValidationResult.InNodeDoubleClick" NewName="BatchHTMLValidator.frmValidationResult.c19133e46d1e6e5aa5fc4c0e993d687ea" />
+<Entry OldName="BatchHTMLValidator.frmValidationResult.rex" NewName="BatchHTMLValidator.frmValidationResult.c27c942d4aa63fc2c9d0a6d64d2d4203c" />
+<Entry OldName="BatchHTMLValidator.frmValidationResult.components" NewName="BatchHTMLValidator.frmValidationResult.c79b927fa6bb1fc2f73f570fe808d19b4" />
+<Entry OldName="BatchHTMLValidator.frmValidationResult.tabControl1" NewName="BatchHTMLValidator.frmValidationResult.c59f5f3614650543a7a313dcf3ee876eb" />
+<Entry OldName="BatchHTMLValidator.frmValidationResult.tabPage1" NewName="BatchHTMLValidator.frmValidationResult.c71b8ea15b72543c83b3d588636927404" />
+<Entry OldName="BatchHTMLValidator.frmValidationResult.tabPage2" NewName="BatchHTMLValidator.frmValidationResult.cb5ec3ae7cc7995a0ade0cd109d1215de" />
+<Entry OldName="BatchHTMLValidator.frmValidationResult.tvE" NewName="BatchHTMLValidator.frmValidationResult.cc07b03cedf313cf957ac243d81a076e9" />
+<Entry OldName="BatchHTMLValidator.frmValidationResult.tvW" NewName="BatchHTMLValidator.frmValidationResult.cb013ef4809398e0f983af2ac76220f5c" />
+<Entry OldName="BatchHTMLValidator.frmValidationResult.tabPage4" NewName="BatchHTMLValidator.frmValidationResult.c066a4b03b9eda9404936fa289fe88daf" />
+<Entry OldName="BatchHTMLValidator.frmValidationResult.tvS" NewName="BatchHTMLValidator.frmValidationResult.cf50d9d032b60645e3e107f142cf82cf3" />
+<Entry OldName="BatchHTMLValidator.frmValidationResult.tabPage3" NewName="BatchHTMLValidator.frmValidationResult.c2f7004b679dd30f026f12f9185a5b264" />
+<Entry OldName="BatchHTMLValidator.frmValidationResult.tvDE" NewName="BatchHTMLValidator.frmValidationResult.cc2c7ef6b8118875f0eb488800f39502f" />
+<Entry OldName="BatchHTMLValidator.frmValidationResult.btnClose" NewName="BatchHTMLValidator.frmValidationResult.cef8ae4c83c08d652a52fe7618c6d459b" />
+<Entry OldName="BatchHTMLValidator.frmValidationResult.lblResult" NewName="BatchHTMLValidator.frmValidationResult.cdbe9aed304844d505856f5628187b70b" />
+<Entry OldName="BatchHTMLValidator.frmValidationResult.tsCut" NewName="BatchHTMLValidator.frmValidationResult.c89fdeffebc196cbf24dd41190b86386f" />
+<Entry OldName="BatchHTMLValidator.frmValidationResult.tsbSave" NewName="BatchHTMLValidator.frmValidationResult.cf66dc83d5d56024b951b60d27f5047fb" />
+<Entry OldName="BatchHTMLValidator.frmValidationResult.saveFileDialog1" NewName="BatchHTMLValidator.frmValidationResult.c2fe6d39a170c0bb5fcecb448fe5ebe4f" />
+<Entry OldName="BatchHTMLValidator.frmValidationResult.tabPage5" NewName="BatchHTMLValidator.frmValidationResult.ca108b9ec7259e733e594186ab9f516fc" />
+<Entry OldName="BatchHTMLValidator.frmValidationResult.lvEditor" NewName="BatchHTMLValidator.frmValidationResult.c5cb3e93070edd2625b72c331e5b9f1bd" />
+<Entry OldName="BatchHTMLValidator.frmValidationResult.colDescription" NewName="BatchHTMLValidator.frmValidationResult.c5c77f1dd83eda01374abd214f7a9a86b" />
+<Entry OldName="BatchHTMLValidator.frmValidationResult.txtEditor" NewName="BatchHTMLValidator.frmValidationResult.cdec303ae1cc04ef8af9b5eb5530933bd" />
+<Entry OldName="BatchHTMLValidator.frmValidationResult.toolTip1" NewName="BatchHTMLValidator.frmValidationResult.c7b2b210645fe45f3e97f0c09e074f15d" />
+<Entry OldName="BatchHTMLValidator.frmValidationResult.txtError" NewName="BatchHTMLValidator.frmValidationResult.c09acfa090c4d39d2e49a7993a721f863" />
+<Entry OldName="BatchHTMLValidator.frmValidationResult.lblEditorFile" NewName="BatchHTMLValidator.frmValidationResult.c479ad2cab1a3804f7155c7e91943808a" />
+<Entry OldName="BatchHTMLValidator.frmValidationResult.contextMenuStrip1" NewName="BatchHTMLValidator.frmValidationResult.c5f1ef2220257e6457591d7e39c6059a1" />
+<Entry OldName="BatchHTMLValidator.frmValidationResult.openToolStripMenuItem" NewName="BatchHTMLValidator.frmValidationResult.c52c879d420281bdc3137799dfb4119d7" />
+<Entry OldName="BatchHTMLValidator.frmValidationResult.copyLocationToolStripMenuItem" NewName="BatchHTMLValidator.frmValidationResult.c08bcf38178feb28aa09ef22594d62e40" />
+<Entry OldName="BatchHTMLValidator.frmValidationResult.copyErrosAndWarningsToolStripMenuItem" NewName="BatchHTMLValidator.frmValidationResult.cd7276f6c9fc74d89d064841ac6af8cb0" />
+<Entry OldName="BatchHTMLValidator.frmValidationResult.saveToolStripMenuItem" NewName="BatchHTMLValidator.frmValidationResult.cd7953a441f5a171dc5732eb72a7b3ce3" />
+<Entry OldName="BatchHTMLValidator.frmValidationResult.openInEditorToolStripMenuItem" NewName="BatchHTMLValidator.frmValidationResult.c27d031d84f5d6237b3f91282550ae31d" />
+<Entry OldName="BatchHTMLValidator.frmValidationResult.openInNotepadToolStripMenuItem" NewName="BatchHTMLValidator.frmValidationResult.ccfd92dc76a3c059f370a404080e6d34c" />
+<Entry OldName="BatchHTMLValidator.frmValidationResult.tsbSaveEditor" NewName="BatchHTMLValidator.frmValidationResult.cab3c310b32d131602b2417823b2a7be7" />
+<Entry OldName="BatchHTMLValidator.frmValidationResult.tsbCopy" NewName="BatchHTMLValidator.frmValidationResult.c5b4441a7b619ca33795040b54169ccb5" />
+<Entry OldName="BatchHTMLValidator.ImageComboBox.imageList" NewName="A.c77a80eb202612dd2250192994aa83f38.c54dbd63d711ac1d91e7903f32f5efafc" />
+<Entry OldName="BatchHTMLValidator.ComboBoxExItem._text" NewName="A.c4dddd57d3ae720e2f92b703752df28a1.cf5361ca005e931a43592423c0c522649" />
+<Entry OldName="BatchHTMLValidator.ComboBoxExItem._imageIndex" NewName="A.c4dddd57d3ae720e2f92b703752df28a1.cfb00ad2317e802ad72895a1f931aacfc" />
+<Entry OldName="BatchHTMLValidator.ImagesViewHelper.DtFrom" NewName="A.cbc2fc58d7a972315e9da1f560abe5bab.c91a399b8590e617de5052cfdab46a3de" />
+<Entry OldName="BatchHTMLValidator.ImagesViewHelper.DtLast" NewName="A.cbc2fc58d7a972315e9da1f560abe5bab.ceaf4d2910c36ee99ef4cb4d85eb353a6" />
+<Entry OldName="BatchHTMLValidator.InputModeHelper.frmad" NewName="A.c0e53f6a0e8592b7030035c20887b3621.c80bf3018974548c16e4f4d1df81d4e6d" />
+<Entry OldName="BatchHTMLValidator.MiscHelper.DateTimeFormat" NewName="A.c0db25273d059a767a637be60238412e3.ca373122a6820a2c420624cd3d19c9911" />
+<Entry OldName="BatchHTMLValidator.Module.BlueForeColor" NewName="A.c5995d0db0e8455dc53983a290ebecdde.cf04d2d43a64de83dcb886ac5754978c3" />
+<Entry OldName="BatchHTMLValidator.Module.ApplicationName" NewName="A.c5995d0db0e8455dc53983a290ebecdde.c05213ec552da4686122d17ed6c9676b0" />
+<Entry OldName="BatchHTMLValidator.Module.Version" NewName="A.c5995d0db0e8455dc53983a290ebecdde.c9e9f5cbd356cfa662fe0b5dea529098b" />
+<Entry OldName="BatchHTMLValidator.Module.ShortApplicationTitle" NewName="A.c5995d0db0e8455dc53983a290ebecdde.caeb1314a1bc78ac78f50a225942e5a59" />
+<Entry OldName="BatchHTMLValidator.Module.ApplicationTitle" NewName="A.c5995d0db0e8455dc53983a290ebecdde.cc9e745294a820d0d39d73f2dd9c743f6" />
+<Entry OldName="BatchHTMLValidator.Module.DownloadURL" NewName="A.c5995d0db0e8455dc53983a290ebecdde.cccac713172300401026e6740e58d5413" />
+<Entry OldName="BatchHTMLValidator.Module.HelpURL" NewName="A.c5995d0db0e8455dc53983a290ebecdde.c1f108670386e91453433fb875e947632" />
+<Entry OldName="BatchHTMLValidator.Module.TipText" NewName="A.c5995d0db0e8455dc53983a290ebecdde.c79af7406b23a03aaee2d7c0a015a4e76" />
+<Entry OldName="BatchHTMLValidator.Module.BuyURL" NewName="A.c5995d0db0e8455dc53983a290ebecdde.ca2d5a0675f69fc348d4df2f9f7ba9ec3" />
+<Entry OldName="BatchHTMLValidator.Module.ProductWebpageURL" NewName="A.c5995d0db0e8455dc53983a290ebecdde.c7dc8b946fe81bdc87f5e935eca420147" />
+<Entry OldName="BatchHTMLValidator.Module.VersionURL" NewName="A.c5995d0db0e8455dc53983a290ebecdde.ca62033d787733d3fe6adadfb93410d90" />
+<Entry OldName="BatchHTMLValidator.Module.args" NewName="A.c5995d0db0e8455dc53983a290ebecdde.cf571e766b7b6d72bb336a77ba16a0c36" />
+<Entry OldName="BatchHTMLValidator.Module.AppDataDirectory" NewName="A.c5995d0db0e8455dc53983a290ebecdde.c45b4aa39cabfb7c4e63087cd660a79a7" />
+<Entry OldName="BatchHTMLValidator.Module.SelectedLanguage" NewName="A.c5995d0db0e8455dc53983a290ebecdde.c18387036f54807e474e6af827c169339" />
+<Entry OldName="BatchHTMLValidator.Module.StoreUrl" NewName="A.c5995d0db0e8455dc53983a290ebecdde.cf0b153a11e8d08304b29f5f824475f8d" />
+<Entry OldName="BatchHTMLValidator.Module._Modex64" NewName="A.c5995d0db0e8455dc53983a290ebecdde.cd265d2f3fe7897445d13756f353473c6" />
+<Entry OldName="BatchHTMLValidator.NiceLine.components" NewName="BatchHTMLValidator.NiceLine.c79b927fa6bb1fc2f73f570fe808d19b4" />
+<Entry OldName="BatchHTMLValidator.NiceLine._Caption" NewName="BatchHTMLValidator.NiceLine.cab708d5ae26d92341ad146e740d2e879" />
+<Entry OldName="BatchHTMLValidator.NiceLine._CaptionMarginSpace" NewName="BatchHTMLValidator.NiceLine.c800fe282c680d303effaef1606a19f98" />
+<Entry OldName="BatchHTMLValidator.NiceLine._CaptionPadding" NewName="BatchHTMLValidator.NiceLine.c76a4c73e1a0a01501f1cf7d13c6a170d" />
+<Entry OldName="BatchHTMLValidator.NiceLine._LineVerticalAlign" NewName="BatchHTMLValidator.NiceLine.cc69a9d46df100949093d904be1fb7e5d" />
+<Entry OldName="BatchHTMLValidator.NiceLine._CaptionOrizontalAlign" NewName="BatchHTMLValidator.NiceLine.cce92ffe950d374c550daf5efa65d9b44" />
+<Entry OldName="BatchHTMLValidator.OwnerDrawnComboBox.&lt;DropDownBorderColor&gt;k__BackingField" NewName="BatchHTMLValidator.OwnerDrawnComboBox.cde1bc702473d50704cc4fb5aa27d089d" />
+<Entry OldName="BatchHTMLValidator.OwnerDrawnComboBox.&lt;DropDownBackColor&gt;k__BackingField" NewName="BatchHTMLValidator.OwnerDrawnComboBox.c4d9efd8f2ca4a45b0e9ac621f9817c35" />
+<Entry OldName="BatchHTMLValidator.ResFlags.resourceMan" NewName="A.c53e4c8c01853a686f03b826102245856.c916e4bd627264253815c7effb0a3f149" />
+<Entry OldName="BatchHTMLValidator.ResFlags.resourceCulture" NewName="A.c53e4c8c01853a686f03b826102245856.ce5121c0657386fc4f0e16e55252f5f2b" />
+<Entry OldName="BatchHTMLValidator.ResRegister.resourceMan" NewName="A.c4531364af3a8744bb0703f73c1438853.c916e4bd627264253815c7effb0a3f149" />
+<Entry OldName="BatchHTMLValidator.ResRegister.resourceCulture" NewName="A.c4531364af3a8744bb0703f73c1438853.ce5121c0657386fc4f0e16e55252f5f2b" />
+<Entry OldName="BatchHTMLValidator.ResTranslate.resourceMan" NewName="A.cca033af280a3246d987bbd93d8bf7d4c.c916e4bd627264253815c7effb0a3f149" />
+<Entry OldName="BatchHTMLValidator.ResTranslate.resourceCulture" NewName="A.cca033af280a3246d987bbd93d8bf7d4c.ce5121c0657386fc4f0e16e55252f5f2b" />
+<Entry OldName="BatchHTMLValidator.TranslateHelper.rm" NewName="A.c1d2153576ed598ef252e345bd4a19069.c72c7dfa7871641521c02790137c14855" />
+<Entry OldName="BatchHTMLValidator.TranslateHelper.rm2" NewName="A.c1d2153576ed598ef252e345bd4a19069.c8de2ee60364213ec1a66da2fda265991" />
+<Entry OldName="BatchHTMLValidator.ucTextProgressBar.WmPaint" NewName="BatchHTMLValidator.ucTextProgressBar.cadc2782a8f138b5c2c420c66f1afd0a4" />
+<Entry OldName="BatchHTMLValidator.ucTextProgressBar.components" NewName="BatchHTMLValidator.ucTextProgressBar.c79b927fa6bb1fc2f73f570fe808d19b4" />
+<Entry OldName="BatchHTMLValidator.UpdateHelper.bwCheckVersion" NewName="BatchHTMLValidator.UpdateHelper.c1484fb251db15ffa954ef58a70ea271b" />
+<Entry OldName="BatchHTMLValidator.Properties.Resources.resourceMan" NewName="A.c1a233d60e105d9ce632f00ff7809565b.c916e4bd627264253815c7effb0a3f149" />
+<Entry OldName="BatchHTMLValidator.Properties.Resources.resourceCulture" NewName="A.c1a233d60e105d9ce632f00ff7809565b.ce5121c0657386fc4f0e16e55252f5f2b" />
+<Entry OldName="BatchHTMLValidator.ContextMenuHelper..ctor()" NewName="A.ca76fe66e7209047f88b7eceba1c3ef6b..ctor()" />
+<Entry OldName="BatchHTMLValidator.ContextMenuHelper..cctor()" NewName="A.ca76fe66e7209047f88b7eceba1c3ef6b..cctor()" />
+<Entry OldName="BatchHTMLValidator.ContextMenuHelper.GetVolumeInformation(String PathName, StringBuilder VolumeNameBuffer, UInt32 VolumeNameSize, UInt32&amp; VolumeSerialNumber, UInt32&amp; MaximumComponentLength, UInt32&amp; FileSystemFlags, StringBuilder FileSystemNameBuffer, UInt32 FileSystemNameSize)" NewName="A.ca76fe66e7209047f88b7eceba1c3ef6b.c2defc97f07afab6f8173668db6dfcc11(String c65c99b6bda6bdb05d2eb15bc61eb475c, StringBuilder c6a22c7c5952fe55213598239dd6f9cd8, UInt32 c3156de80755b710e9a44cbcfb659a88b, UInt32&amp; c9fa52bec2c27da24766643079d5a9300, UInt32&amp; c376322e1f9135b2866e5ef0262a295f8, UInt32&amp; c865158057e6fa848e18df0337aadd8c2, StringBuilder c02a60478f8f59fc26c687aad5d56e951, UInt32 cb94102b1df7456f28cb17ae7b0c4f3cd)" />
+<Entry OldName="BatchHTMLValidator.ContextMenuHelper.DisplayContextMenu()" NewName="A.ca76fe66e7209047f88b7eceba1c3ef6b.c1f10c5a1b45e319199948fa6aee1c93d()" />
+<Entry OldName="BatchHTMLValidator.ContextMenuHelper.HideContextMenu()" NewName="A.ca76fe66e7209047f88b7eceba1c3ef6b.c69a165ce6edfaba368d15ecb2504fa91()" />
+<Entry OldName="BatchHTMLValidator.ContextMenuHelper.WriteTest()" NewName="A.ca76fe66e7209047f88b7eceba1c3ef6b.c342ace54b4c4e4633fba90d4897305cd()" />
+<Entry OldName="BatchHTMLValidator.ContextMenuHelper.ParseDate(String datestr)" NewName="A.ca76fe66e7209047f88b7eceba1c3ef6b.c74fe47e4647c0bf901955d76199e2f75(String cb27efbad9bab29f511d25f8ff87a8390)" />
+<Entry OldName="BatchHTMLValidator.CustomForm.CustomForm_Activated(Object sender, EventArgs e)" NewName="BatchHTMLValidator.CustomForm.cc25d2dd13b776002cdfdc80137a0d35e(Object c42428a7c57fe9bcd548be2f0b71a4584, EventArgs ccf5d3d80e126784b9b0c54fa1189227e)" />
+<Entry OldName="BatchHTMLValidator.CustomForm.ResizeChildControls(Control co)" NewName="BatchHTMLValidator.CustomForm.cedd986af6081ab78e9d84fe2147706c4(Control c348589d0be31bf5137650d6ccc6f945b)" />
+<Entry OldName="BatchHTMLValidator.CustomForm.InitializeComponent()" NewName="BatchHTMLValidator.CustomForm.cdc967f58e94b89d3f0a9990ea0576851()" />
+<Entry OldName="BatchHTMLValidator.DownloadSuggestionsHelper..ctor()" NewName="A.c25ca58d4d76622a7e880c4ca785ac05b..ctor()" />
+<Entry OldName="BatchHTMLValidator.DownloadSuggestionsHelper.SetupDownloadMenuItems(ToolStripMenuItem tsiDownload)" NewName="A.c25ca58d4d76622a7e880c4ca785ac05b.c1d29b735763def40c8c75e3376245096(ToolStripMenuItem c700c039f579252155a95c51c89c82b5e)" />
+<Entry OldName="BatchHTMLValidator.DownloadSuggestionsHelper.tsi_Click(Object sender, EventArgs e)" NewName="A.c25ca58d4d76622a7e880c4ca785ac05b.c3dd6b37bb6dfb1d82da36ded879960cd(Object c42428a7c57fe9bcd548be2f0b71a4584, EventArgs ccf5d3d80e126784b9b0c54fa1189227e)" />
+<Entry OldName="BatchHTMLValidator.ExceptionHandlersHelper..ctor()" NewName="A.cd78bc8edf48c45def9cb924aee4df620..ctor()" />
+<Entry OldName="BatchHTMLValidator.ExceptionHandlersHelper.AddUnhandledExceptionHandlers()" NewName="A.cd78bc8edf48c45def9cb924aee4df620.ceb9cce0c631968565e0e4fc4684e1603()" />
+<Entry OldName="BatchHTMLValidator.ExceptionHandlersHelper.myExceptionHandler(Object sender, UnhandledExceptionEventArgs e)" NewName="A.cd78bc8edf48c45def9cb924aee4df620.c0cc1a680c8451d615f10f33dac99b72b(Object c42428a7c57fe9bcd548be2f0b71a4584, UnhandledExceptionEventArgs ccf5d3d80e126784b9b0c54fa1189227e)" />
+<Entry OldName="BatchHTMLValidator.ExceptionHandlersHelper.myThreadExceptionHandler(Object sender, ThreadExceptionEventArgs e)" NewName="A.cd78bc8edf48c45def9cb924aee4df620.c3313c48447552b696a88a73ff3c8a825(Object c42428a7c57fe9bcd548be2f0b71a4584, ThreadExceptionEventArgs ccf5d3d80e126784b9b0c54fa1189227e)" />
+<Entry OldName="BatchHTMLValidator.frmAbout.frmAbout_Load(Object sender, EventArgs e)" NewName="BatchHTMLValidator.frmAbout.c0a79bdcf0ff0bc7c71914b519e36be6e(Object c42428a7c57fe9bcd548be2f0b71a4584, EventArgs ccf5d3d80e126784b9b0c54fa1189227e)" />
+<Entry OldName="BatchHTMLValidator.frmAbout.btnClose_Click(Object sender, EventArgs e)" NewName="BatchHTMLValidator.frmAbout.cd7aa751176e4a001aeae621555861272(Object c42428a7c57fe9bcd548be2f0b71a4584, EventArgs ccf5d3d80e126784b9b0c54fa1189227e)" />
+<Entry OldName="BatchHTMLValidator.frmAbout.linkLabel1_LinkClicked(Object sender, LinkLabelLinkClickedEventArgs e)" NewName="BatchHTMLValidator.frmAbout.caa28f76a1a9a3129a316aaddd250f179(Object c42428a7c57fe9bcd548be2f0b71a4584, LinkLabelLinkClickedEventArgs ccf5d3d80e126784b9b0c54fa1189227e)" />
+<Entry OldName="BatchHTMLValidator.frmAbout.linkLabel2_LinkClicked(Object sender, LinkLabelLinkClickedEventArgs e)" NewName="BatchHTMLValidator.frmAbout.c0ad17cd8ea63d141a56c8ee071fd891d(Object c42428a7c57fe9bcd548be2f0b71a4584, LinkLabelLinkClickedEventArgs ccf5d3d80e126784b9b0c54fa1189227e)" />
+<Entry OldName="BatchHTMLValidator.frmAbout.btnBuy_Click(Object sender, EventArgs e)" NewName="BatchHTMLValidator.frmAbout.ce86cefc2b72947280b5df9735da9e4ae(Object c42428a7c57fe9bcd548be2f0b71a4584, EventArgs ccf5d3d80e126784b9b0c54fa1189227e)" />
+<Entry OldName="BatchHTMLValidator.frmAbout.btnRegister_Click(Object sender, EventArgs e)" NewName="BatchHTMLValidator.frmAbout.c17412f093cbb82139d6759e828ef233a(Object c42428a7c57fe9bcd548be2f0b71a4584, EventArgs ccf5d3d80e126784b9b0c54fa1189227e)" />
+<Entry OldName="BatchHTMLValidator.frmAbout.llLicense_LinkClicked(Object sender, LinkLabelLinkClickedEventArgs e)" NewName="BatchHTMLValidator.frmAbout.c080fbca14528d27e4e9a8edd5e7fda90(Object c42428a7c57fe9bcd548be2f0b71a4584, LinkLabelLinkClickedEventArgs ccf5d3d80e126784b9b0c54fa1189227e)" />
+<Entry OldName="BatchHTMLValidator.frmAbout.llLicense_LinkClicked_1(Object sender, LinkLabelLinkClickedEventArgs e)" NewName="BatchHTMLValidator.frmAbout.c5f365cd2846fcbacc317dd6b9942841e(Object c42428a7c57fe9bcd548be2f0b71a4584, LinkLabelLinkClickedEventArgs ccf5d3d80e126784b9b0c54fa1189227e)" />
+<Entry OldName="BatchHTMLValidator.frmAbout.InitializeComponent()" NewName="BatchHTMLValidator.frmAbout.cdc967f58e94b89d3f0a9990ea0576851()" />
+<Entry OldName="BatchHTMLValidator.frmAdeia.btnOK_Click(Object sender, EventArgs e)" NewName="BatchHTMLValidator.frmAdeia.ccec971b90ecbb2f9579909ddc9dfa011(Object c42428a7c57fe9bcd548be2f0b71a4584, EventArgs ccf5d3d80e126784b9b0c54fa1189227e)" />
+<Entry OldName="BatchHTMLValidator.frmAdeia.btnExit_Click(Object sender, EventArgs e)" NewName="BatchHTMLValidator.frmAdeia.cb27a6f238d5703fe7fe361f7929b54c4(Object c42428a7c57fe9bcd548be2f0b71a4584, EventArgs ccf5d3d80e126784b9b0c54fa1189227e)" />
+<Entry OldName="BatchHTMLValidator.frmAdeia.frmAdeia_Load(Object sender, EventArgs e)" NewName="BatchHTMLValidator.frmAdeia.c88f42425ec87d58077e5a4f11a71d001(Object c42428a7c57fe9bcd548be2f0b71a4584, EventArgs ccf5d3d80e126784b9b0c54fa1189227e)" />
+<Entry OldName="BatchHTMLValidator.frmAdeia.InitializeComponent()" NewName="BatchHTMLValidator.frmAdeia.cdc967f58e94b89d3f0a9990ea0576851()" />
+<Entry OldName="BatchHTMLValidator.frmDownloadUpdate.frmDownloadUpdate_Load(Object sender, EventArgs e)" NewName="BatchHTMLValidator.frmDownloadUpdate.c4a8ea000cf73b708cdc11175ad8cd78f(Object c42428a7c57fe9bcd548be2f0b71a4584, EventArgs ccf5d3d80e126784b9b0c54fa1189227e)" />
+<Entry OldName="BatchHTMLValidator.frmDownloadUpdate.client_DownloadFileCompleted(Object sender, AsyncCompletedEventArgs e)" NewName="BatchHTMLValidator.frmDownloadUpdate.ce427cc89466eb0c759f18187d1cbd006(Object c42428a7c57fe9bcd548be2f0b71a4584, AsyncCompletedEventArgs ccf5d3d80e126784b9b0c54fa1189227e)" />
+<Entry OldName="BatchHTMLValidator.frmDownloadUpdate.client_DownloadProgressChanged(Object sender, DownloadProgressChangedEventArgs e)" NewName="BatchHTMLValidator.frmDownloadUpdate.cb14a4dd82385d390aef41e4b915fee12(Object c42428a7c57fe9bcd548be2f0b71a4584, DownloadProgressChangedEventArgs ccf5d3d80e126784b9b0c54fa1189227e)" />
+<Entry OldName="BatchHTMLValidator.frmDownloadUpdate.btnCancelDownload_Click(Object sender, EventArgs e)" NewName="BatchHTMLValidator.frmDownloadUpdate.c8339037f5c12c60bb92ba6ed87da5f51(Object c42428a7c57fe9bcd548be2f0b71a4584, EventArgs ccf5d3d80e126784b9b0c54fa1189227e)" />
+<Entry OldName="BatchHTMLValidator.frmDownloadUpdate.InitializeComponent()" NewName="BatchHTMLValidator.frmDownloadUpdate.cdc967f58e94b89d3f0a9990ea0576851()" />
+<Entry OldName="BatchHTMLValidator.frmError.btnClose_Click(Object sender, EventArgs e)" NewName="BatchHTMLValidator.frmError.cd7aa751176e4a001aeae621555861272(Object c42428a7c57fe9bcd548be2f0b71a4584, EventArgs ccf5d3d80e126784b9b0c54fa1189227e)" />
+<Entry OldName="BatchHTMLValidator.frmError.InitializeComponent()" NewName="BatchHTMLValidator.frmError.cdc967f58e94b89d3f0a9990ea0576851()" />
+<Entry OldName="BatchHTMLValidator.frmImportCSV.btnCancel_Click(Object sender, EventArgs e)" NewName="BatchHTMLValidator.frmImportCSV.c0ee25f88d060cfbac5d2340d16e3f031(Object c42428a7c57fe9bcd548be2f0b71a4584, EventArgs ccf5d3d80e126784b9b0c54fa1189227e)" />
+<Entry OldName="BatchHTMLValidator.frmImportCSV.btnOK_Click(Object sender, EventArgs e)" NewName="BatchHTMLValidator.frmImportCSV.ccec971b90ecbb2f9579909ddc9dfa011(Object c42428a7c57fe9bcd548be2f0b71a4584, EventArgs ccf5d3d80e126784b9b0c54fa1189227e)" />
+<Entry OldName="BatchHTMLValidator.frmImportCSV.btnBrowse_Click(Object sender, EventArgs e)" NewName="BatchHTMLValidator.frmImportCSV.c42e4820b29d3044a6202c1e1bd202217(Object c42428a7c57fe9bcd548be2f0b71a4584, EventArgs ccf5d3d80e126784b9b0c54fa1189227e)" />
+<Entry OldName="BatchHTMLValidator.frmImportCSV.frmImportCSV_Load(Object sender, EventArgs e)" NewName="BatchHTMLValidator.frmImportCSV.c03c137b07afb0fde62252631534150c1(Object c42428a7c57fe9bcd548be2f0b71a4584, EventArgs ccf5d3d80e126784b9b0c54fa1189227e)" />
+<Entry OldName="BatchHTMLValidator.frmImportCSV.cmbDelimiter_SelectedIndexChanged(Object sender, EventArgs e)" NewName="BatchHTMLValidator.frmImportCSV.c5fc673519b7fb093687b2393a8cd138d(Object c42428a7c57fe9bcd548be2f0b71a4584, EventArgs ccf5d3d80e126784b9b0c54fa1189227e)" />
+<Entry OldName="BatchHTMLValidator.frmImportCSV.GetSelectedDelimiter()" NewName="BatchHTMLValidator.frmImportCSV.c104901a48d5f64566d6c2d88a7bd003b()" />
+<Entry OldName="BatchHTMLValidator.frmImportCSV.InitializeComponent()" NewName="BatchHTMLValidator.frmImportCSV.cdc967f58e94b89d3f0a9990ea0576851()" />
+<Entry OldName="BatchHTMLValidator.frmImportExcel.GetPart(String part)" NewName="BatchHTMLValidator.frmImportExcel.cbce908b00c495bb1117ce0a17a7d1c64(String cf3c40b05508cb5c33502a5c505a87adf)" />
+<Entry OldName="BatchHTMLValidator.frmImportExcel.btnBrowse_Click(Object sender, EventArgs e)" NewName="BatchHTMLValidator.frmImportExcel.c42e4820b29d3044a6202c1e1bd202217(Object c42428a7c57fe9bcd548be2f0b71a4584, EventArgs ccf5d3d80e126784b9b0c54fa1189227e)" />
+<Entry OldName="BatchHTMLValidator.frmImportExcel.btnOK_Click(Object sender, EventArgs e)" NewName="BatchHTMLValidator.frmImportExcel.ccec971b90ecbb2f9579909ddc9dfa011(Object c42428a7c57fe9bcd548be2f0b71a4584, EventArgs ccf5d3d80e126784b9b0c54fa1189227e)" />
+<Entry OldName="BatchHTMLValidator.frmImportExcel.btnCancel_Click(Object sender, EventArgs e)" NewName="BatchHTMLValidator.frmImportExcel.c0ee25f88d060cfbac5d2340d16e3f031(Object c42428a7c57fe9bcd548be2f0b71a4584, EventArgs ccf5d3d80e126784b9b0c54fa1189227e)" />
+<Entry OldName="BatchHTMLValidator.frmImportExcel.InitializeComponent()" NewName="BatchHTMLValidator.frmImportExcel.cdc967f58e94b89d3f0a9990ea0576851()" />
+<Entry OldName="BatchHTMLValidator.frmJavaCheck.btnDownload_Click(Object sender, EventArgs e)" NewName="BatchHTMLValidator.frmJavaCheck.c3cacffc40344f2ce8df358f4100652f7(Object c42428a7c57fe9bcd548be2f0b71a4584, EventArgs ccf5d3d80e126784b9b0c54fa1189227e)" />
+<Entry OldName="BatchHTMLValidator.frmJavaCheck.InitializeComponent()" NewName="BatchHTMLValidator.frmJavaCheck.cdc967f58e94b89d3f0a9990ea0576851()" />
+<Entry OldName="BatchHTMLValidator.frmLanguage.btnOK_Click(Object sender, EventArgs e)" NewName="BatchHTMLValidator.frmLanguage.ccec971b90ecbb2f9579909ddc9dfa011(Object c42428a7c57fe9bcd548be2f0b71a4584, EventArgs ccf5d3d80e126784b9b0c54fa1189227e)" />
+<Entry OldName="BatchHTMLValidator.frmLanguage.frmLanguage_Load(Object sender, EventArgs e)" NewName="BatchHTMLValidator.frmLanguage.c16a08df568563c7c1d024dc4d5b39643(Object c42428a7c57fe9bcd548be2f0b71a4584, EventArgs ccf5d3d80e126784b9b0c54fa1189227e)" />
+<Entry OldName="BatchHTMLValidator.frmLanguage.InitializeComponent()" NewName="BatchHTMLValidator.frmLanguage.cdc967f58e94b89d3f0a9990ea0576851()" />
+<Entry OldName="BatchHTMLValidator.frmMain.bwValidate_RunWorkerCompleted(Object sender, RunWorkerCompletedEventArgs e)" NewName="BatchHTMLValidator.frmMain.c79bb4481a827ccd3ff83b84c2d97119b(Object c42428a7c57fe9bcd548be2f0b71a4584, RunWorkerCompletedEventArgs ccf5d3d80e126784b9b0c54fa1189227e)" />
+<Entry OldName="BatchHTMLValidator.frmMain.bwValidate_ProgressChanged(Object sender, ProgressChangedEventArgs e)" NewName="BatchHTMLValidator.frmMain.c6a48d8d8cd0ac191c597ec2c42427ead(Object c42428a7c57fe9bcd548be2f0b71a4584, ProgressChangedEventArgs ccf5d3d80e126784b9b0c54fa1189227e)" />
+<Entry OldName="BatchHTMLValidator.frmMain.bwValidate_DoWork(Object sender, DoWorkEventArgs e)" NewName="BatchHTMLValidator.frmMain.cc26a9cde35f4ba60f61e8b8f56b50624(Object c42428a7c57fe9bcd548be2f0b71a4584, DoWorkEventArgs ccf5d3d80e126784b9b0c54fa1189227e)" />
+<Entry OldName="BatchHTMLValidator.frmMain.RunTidy(String file, ValidationResult vld)" NewName="BatchHTMLValidator.frmMain.cf8140d8d657cf6fcc6ee7ec320f526ab(String cdf73373d24c76faf7cfc6d9cbfd94aee, ValidationResult cf6743e0cbfb574a31b609e2e85dc61f4)" />
+<Entry OldName="BatchHTMLValidator.frmMain.RunNu(String url, String file, ValidationResult vld)" NewName="BatchHTMLValidator.frmMain.c7a367c7bc2802f35ea3b84a419f4d1ae(String c3baa793a0c56eaefc51b50643e014ce6, String cdf73373d24c76faf7cfc6d9cbfd94aee, ValidationResult cf6743e0cbfb574a31b609e2e85dc61f4)" />
+<Entry OldName="BatchHTMLValidator.frmMain.psFFMpeg_OutputDataReceived(Object sender, DataReceivedEventArgs e)" NewName="BatchHTMLValidator.frmMain.c58b759012cebfdc8de5f8d896f7c104d(Object c42428a7c57fe9bcd548be2f0b71a4584, DataReceivedEventArgs ccf5d3d80e126784b9b0c54fa1189227e)" />
+<Entry OldName="BatchHTMLValidator.frmMain.psFFMpeg_ErrorDataReceived(Object sender, DataReceivedEventArgs e)" NewName="BatchHTMLValidator.frmMain.cbda03bb77a900779ec9d6192d01adfb6(Object c42428a7c57fe9bcd548be2f0b71a4584, DataReceivedEventArgs ccf5d3d80e126784b9b0c54fa1189227e)" />
+<Entry OldName="BatchHTMLValidator.frmMain.ParseTidyOutput(String txt, ValidationResult vld)" NewName="BatchHTMLValidator.frmMain.c016c8436d532940d12758a7777f092e6(String c98c391e7824aa2515429f79b9ff5bed1, ValidationResult cf6743e0cbfb574a31b609e2e85dc61f4)" />
+<Entry OldName="BatchHTMLValidator.frmMain.ParseNuOutput(String txt, ValidationResult vld)" NewName="BatchHTMLValidator.frmMain.c170767e50f8a51b6341c3f4bb06b50b5(String c98c391e7824aa2515429f79b9ff5bed1, ValidationResult cf6743e0cbfb574a31b609e2e85dc61f4)" />
+<Entry OldName="BatchHTMLValidator.frmMain.tsbValidateHTML_Click(Object sender, EventArgs e)" NewName="BatchHTMLValidator.frmMain.cc3a914786e25a94095cd9990375403db(Object c42428a7c57fe9bcd548be2f0b71a4584, EventArgs ccf5d3d80e126784b9b0c54fa1189227e)" />
+<Entry OldName="BatchHTMLValidator.frmMain.tsbClear_Click(Object sender, EventArgs e)" NewName="BatchHTMLValidator.frmMain.c15fb3aafc98b8b931f0012187e55533c(Object c42428a7c57fe9bcd548be2f0b71a4584, EventArgs ccf5d3d80e126784b9b0c54fa1189227e)" />
+<Entry OldName="BatchHTMLValidator.frmMain.helpUsersManualToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="BatchHTMLValidator.frmMain.c12858777df35846ad5cd70bef7b7cfa7(Object c42428a7c57fe9bcd548be2f0b71a4584, EventArgs ccf5d3d80e126784b9b0c54fa1189227e)" />
+<Entry OldName="BatchHTMLValidator.frmMain.pleaseDonateToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="BatchHTMLValidator.frmMain.c244772aa85e760541f846664886c74ae(Object c42428a7c57fe9bcd548be2f0b71a4584, EventArgs ccf5d3d80e126784b9b0c54fa1189227e)" />
+<Entry OldName="BatchHTMLValidator.frmMain.dotsSoftwarePRODUCTCATALOGToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="BatchHTMLValidator.frmMain.c93a0b84808818fd0c7dcc05e85d33ae1(Object c42428a7c57fe9bcd548be2f0b71a4584, EventArgs ccf5d3d80e126784b9b0c54fa1189227e)" />
+<Entry OldName="BatchHTMLValidator.frmMain.aboutToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="BatchHTMLValidator.frmMain.cef23dc2af82818d4bc26bedd1f8418b6(Object c42428a7c57fe9bcd548be2f0b71a4584, EventArgs ccf5d3d80e126784b9b0c54fa1189227e)" />
+<Entry OldName="BatchHTMLValidator.frmMain.feedbackToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="BatchHTMLValidator.frmMain.caf3e2736664e360e95f6099795af266a(Object c42428a7c57fe9bcd548be2f0b71a4584, EventArgs ccf5d3d80e126784b9b0c54fa1189227e)" />
+<Entry OldName="BatchHTMLValidator.frmMain.followUsOnTwitterToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="BatchHTMLValidator.frmMain.c961beef5efe234fb102657a93f0d8d2c(Object c42428a7c57fe9bcd548be2f0b71a4584, EventArgs ccf5d3d80e126784b9b0c54fa1189227e)" />
+<Entry OldName="BatchHTMLValidator.frmMain.visit4dotsSoftwareWebpageToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="BatchHTMLValidator.frmMain.c0c921997e2663ff295f966edf121ac8a(Object c42428a7c57fe9bcd548be2f0b71a4584, EventArgs ccf5d3d80e126784b9b0c54fa1189227e)" />
+<Entry OldName="BatchHTMLValidator.frmMain.checkForNewVersionToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="BatchHTMLValidator.frmMain.c7e2d9f872c696c45c4da9ca4baf3d5c8(Object c42428a7c57fe9bcd548be2f0b71a4584, EventArgs ccf5d3d80e126784b9b0c54fa1189227e)" />
+<Entry OldName="BatchHTMLValidator.frmMain.exitToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="BatchHTMLValidator.frmMain.c5c71d8ea5765b7b4105013a199f7c94f(Object c42428a7c57fe9bcd548be2f0b71a4584, EventArgs ccf5d3d80e126784b9b0c54fa1189227e)" />
+<Entry OldName="BatchHTMLValidator.frmMain.buyApplicationToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="BatchHTMLValidator.frmMain.c963b8ef2961f5b8437a4a784b242d4e9(Object c42428a7c57fe9bcd548be2f0b71a4584, EventArgs ccf5d3d80e126784b9b0c54fa1189227e)" />
+<Entry OldName="BatchHTMLValidator.frmMain.enterLicenseKeyToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="BatchHTMLValidator.frmMain.cf51e0cd956b0006a5f1c3d603f8cf6fa(Object c42428a7c57fe9bcd548be2f0b71a4584, EventArgs ccf5d3d80e126784b9b0c54fa1189227e)" />
+<Entry OldName="BatchHTMLValidator.frmMain.shareOnFacebookToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="BatchHTMLValidator.frmMain.c5ac955ea4325013a7804a6d2b5a0a428(Object c42428a7c57fe9bcd548be2f0b71a4584, EventArgs ccf5d3d80e126784b9b0c54fa1189227e)" />
+<Entry OldName="BatchHTMLValidator.frmMain.shareOnTwitterToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="BatchHTMLValidator.frmMain.c9ef9048225553c699573c19d05d39c15(Object c42428a7c57fe9bcd548be2f0b71a4584, EventArgs ccf5d3d80e126784b9b0c54fa1189227e)" />
+<Entry OldName="BatchHTMLValidator.frmMain.shareOnGooglePlusToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="BatchHTMLValidator.frmMain.c977954cb378fb26aab57a82cacd58205(Object c42428a7c57fe9bcd548be2f0b71a4584, EventArgs ccf5d3d80e126784b9b0c54fa1189227e)" />
+<Entry OldName="BatchHTMLValidator.frmMain.shareOnLinkedinToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="BatchHTMLValidator.frmMain.cf4debe7da72dcc810a06efb350aabce3(Object c42428a7c57fe9bcd548be2f0b71a4584, EventArgs ccf5d3d80e126784b9b0c54fa1189227e)" />
+<Entry OldName="BatchHTMLValidator.frmMain.shareWithEmailToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="BatchHTMLValidator.frmMain.c63e87b2a90fd7347bd774dad18b10aa2(Object c42428a7c57fe9bcd548be2f0b71a4584, EventArgs ccf5d3d80e126784b9b0c54fa1189227e)" />
+<Entry OldName="BatchHTMLValidator.frmMain.AddLanguageMenuItems()" NewName="BatchHTMLValidator.frmMain.c527a95de2e6734497f34700d550ef27a()" />
+<Entry OldName="BatchHTMLValidator.frmMain.tiLang_Click(Object sender, EventArgs e)" NewName="BatchHTMLValidator.frmMain.c934667e78c8338689d1ae3f47938c12e(Object c42428a7c57fe9bcd548be2f0b71a4584, EventArgs ccf5d3d80e126784b9b0c54fa1189227e)" />
+<Entry OldName="BatchHTMLValidator.frmMain.ChangeLanguage(String language_code)" NewName="BatchHTMLValidator.frmMain.c18a21870daeff87346d6019ac5fe4a2c(String c30a2cf54eefe0ddcbc1250ba5c7e00fd)" />
+<Entry OldName="BatchHTMLValidator.frmMain.ImportFileFromOpenWith(String filepath)" NewName="BatchHTMLValidator.frmMain.cfc1e0b29bcf8fd97d9994080185ed58f(String c032b08ee857009a609a1b745d63ccae6)" />
+<Entry OldName="BatchHTMLValidator.frmMain.SetupOnLoad()" NewName="BatchHTMLValidator.frmMain.c7d3c73a64a8c2c861a7b541a67f72e27()" />
+<Entry OldName="BatchHTMLValidator.frmMain.GetAppTitle()" NewName="BatchHTMLValidator.frmMain.c8f9704401a108865df3c9be4c80ba813()" />
+<Entry OldName="BatchHTMLValidator.frmMain.frmMain_Load(Object sender, EventArgs e)" NewName="BatchHTMLValidator.frmMain.cc2c00b07560d4756d44a26c3491dde1b(Object c42428a7c57fe9bcd548be2f0b71a4584, EventArgs ccf5d3d80e126784b9b0c54fa1189227e)" />
+<Entry OldName="BatchHTMLValidator.frmMain.RepositionResize()" NewName="BatchHTMLValidator.frmMain.c84c14047833d2e7c4b64fe7e14d3b78f()" />
+<Entry OldName="BatchHTMLValidator.frmMain.SavePositionSize()" NewName="BatchHTMLValidator.frmMain.c796498f2ace387347923cf1294ecc5d6()" />
+<Entry OldName="BatchHTMLValidator.frmMain.SetEnabled(Boolean enabled)" NewName="BatchHTMLValidator.frmMain.c11813fe4f2347373fe762fd393c6a4fd(Boolean c5dd1c659b6c496e99cd46a91bdda4416)" />
+<Entry OldName="BatchHTMLValidator.frmMain.importListFromCSVFileToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="BatchHTMLValidator.frmMain.c789cd281a338fcdcf2e47295c05d84d8(Object c42428a7c57fe9bcd548be2f0b71a4584, EventArgs ccf5d3d80e126784b9b0c54fa1189227e)" />
+<Entry OldName="BatchHTMLValidator.frmMain.importListFromExcelFileToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="BatchHTMLValidator.frmMain.cee04edad56123d558cae75c17ad22718(Object c42428a7c57fe9bcd548be2f0b71a4584, EventArgs ccf5d3d80e126784b9b0c54fa1189227e)" />
+<Entry OldName="BatchHTMLValidator.frmMain.ImportTextFile(String filepath)" NewName="BatchHTMLValidator.frmMain.cf8efc210cd5136f5dffe90c6b5c8e0b6(String c032b08ee857009a609a1b745d63ccae6)" />
+<Entry OldName="BatchHTMLValidator.frmMain.importListFromTextFileToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="BatchHTMLValidator.frmMain.cd579c795ca67e9b651359c127eec84ae(Object c42428a7c57fe9bcd548be2f0b71a4584, EventArgs ccf5d3d80e126784b9b0c54fa1189227e)" />
+<Entry OldName="BatchHTMLValidator.frmMain.ImportXMLSitemapFile(String filepath)" NewName="BatchHTMLValidator.frmMain.c3d4bcb2a066f7c90083b298dfe0c14bd(String c032b08ee857009a609a1b745d63ccae6)" />
+<Entry OldName="BatchHTMLValidator.frmMain.importListFromXMLSitemapToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="BatchHTMLValidator.frmMain.ce588a73d67be3383486fa40d6e69b013(Object c42428a7c57fe9bcd548be2f0b71a4584, EventArgs ccf5d3d80e126784b9b0c54fa1189227e)" />
+<Entry OldName="BatchHTMLValidator.frmMain.dgVideo_DragEnter(Object sender, DragEventArgs e)" NewName="BatchHTMLValidator.frmMain.ca772f255495a6aadad0dd3a0a0b6f491(Object c42428a7c57fe9bcd548be2f0b71a4584, DragEventArgs ccf5d3d80e126784b9b0c54fa1189227e)" />
+<Entry OldName="BatchHTMLValidator.frmMain.dgVideo_DragOver(Object sender, DragEventArgs e)" NewName="BatchHTMLValidator.frmMain.c014c01bd23f476c0f91f13bff5d856c0(Object c42428a7c57fe9bcd548be2f0b71a4584, DragEventArgs ccf5d3d80e126784b9b0c54fa1189227e)" />
+<Entry OldName="BatchHTMLValidator.frmMain.dgVideo_DragDrop(Object sender, DragEventArgs e)" NewName="BatchHTMLValidator.frmMain.c60aba68be5e1eff2c2491a913beeeda2(Object c42428a7c57fe9bcd548be2f0b71a4584, DragEventArgs ccf5d3d80e126784b9b0c54fa1189227e)" />
+<Entry OldName="BatchHTMLValidator.frmMain.timer1_Tick(Object sender, EventArgs e)" NewName="BatchHTMLValidator.frmMain.cc9ea9363f3e7c82005faac7d8c5fe614(Object c42428a7c57fe9bcd548be2f0b71a4584, EventArgs ccf5d3d80e126784b9b0c54fa1189227e)" />
+<Entry OldName="BatchHTMLValidator.frmMain.timer2_Tick(Object sender, EventArgs e)" NewName="BatchHTMLValidator.frmMain.c18fc71a9d5b33bbfb39c29432f0e0036(Object c42428a7c57fe9bcd548be2f0b71a4584, EventArgs ccf5d3d80e126784b9b0c54fa1189227e)" />
+<Entry OldName="BatchHTMLValidator.frmMain.timer3_Tick(Object sender, EventArgs e)" NewName="BatchHTMLValidator.frmMain.ca8f017f4df53d635e855d86124ec5d7a(Object c42428a7c57fe9bcd548be2f0b71a4584, EventArgs ccf5d3d80e126784b9b0c54fa1189227e)" />
+<Entry OldName="BatchHTMLValidator.frmMain.frmMain_FormClosing(Object sender, FormClosingEventArgs e)" NewName="BatchHTMLValidator.frmMain.cad65f2ad7e012b05efdcd2f1530dc26d(Object c42428a7c57fe9bcd548be2f0b71a4584, FormClosingEventArgs ccf5d3d80e126784b9b0c54fa1189227e)" />
+<Entry OldName="BatchHTMLValidator.frmMain.InitializeComponent()" NewName="BatchHTMLValidator.frmMain.cdc967f58e94b89d3f0a9990ea0576851()" />
+<Entry OldName="BatchHTMLValidator.frmMsgCheckBox.btnOK_Click(Object sender, EventArgs e)" NewName="BatchHTMLValidator.frmMsgCheckBox.ccec971b90ecbb2f9579909ddc9dfa011(Object c42428a7c57fe9bcd548be2f0b71a4584, EventArgs ccf5d3d80e126784b9b0c54fa1189227e)" />
+<Entry OldName="BatchHTMLValidator.frmMsgCheckBox.InitializeComponent()" NewName="BatchHTMLValidator.frmMsgCheckBox.cdc967f58e94b89d3f0a9990ea0576851()" />
+<Entry OldName="BatchHTMLValidator.frmProgress.btnCancel_Click(Object sender, EventArgs e)" NewName="BatchHTMLValidator.frmProgress.c0ee25f88d060cfbac5d2340d16e3f031(Object c42428a7c57fe9bcd548be2f0b71a4584, EventArgs ccf5d3d80e126784b9b0c54fa1189227e)" />
+<Entry OldName="BatchHTMLValidator.frmProgress.timTime_Tick(Object sender, EventArgs e)" NewName="BatchHTMLValidator.frmProgress.c2175b59cecb9d8339d110c97f55373d2(Object c42428a7c57fe9bcd548be2f0b71a4584, EventArgs ccf5d3d80e126784b9b0c54fa1189227e)" />
+<Entry OldName="BatchHTMLValidator.frmProgress.btnPause_Click(Object sender, EventArgs e)" NewName="BatchHTMLValidator.frmProgress.c794a0322e145e5e5d7609e8e48bc140e(Object c42428a7c57fe9bcd548be2f0b71a4584, EventArgs ccf5d3d80e126784b9b0c54fa1189227e)" />
+<Entry OldName="BatchHTMLValidator.frmProgress.btnStop_Click(Object sender, EventArgs e)" NewName="BatchHTMLValidator.frmProgress.ca9f63dfb2e88a494899a978a87ec67b7(Object c42428a7c57fe9bcd548be2f0b71a4584, EventArgs ccf5d3d80e126784b9b0c54fa1189227e)" />
+<Entry OldName="BatchHTMLValidator.frmProgress.InitializeComponent()" NewName="BatchHTMLValidator.frmProgress.cdc967f58e94b89d3f0a9990ea0576851()" />
+<Entry OldName="BatchHTMLValidator.frmPurchase.frmPurchase_Load(Object sender, EventArgs e)" NewName="BatchHTMLValidator.frmPurchase.ce7fb97e7ae7eee2cabfd21e648991b80(Object c42428a7c57fe9bcd548be2f0b71a4584, EventArgs ccf5d3d80e126784b9b0c54fa1189227e)" />
+<Entry OldName="BatchHTMLValidator.frmPurchase.btnRegister_Click(Object sender, EventArgs e)" NewName="BatchHTMLValidator.frmPurchase.c17412f093cbb82139d6759e828ef233a(Object c42428a7c57fe9bcd548be2f0b71a4584, EventArgs ccf5d3d80e126784b9b0c54fa1189227e)" />
+<Entry OldName="BatchHTMLValidator.frmPurchase.timContinue_Tick(Object sender, EventArgs e)" NewName="BatchHTMLValidator.frmPurchase.cdbdc9e172143b4f65d29b1fa3fcb4c4f(Object c42428a7c57fe9bcd548be2f0b71a4584, EventArgs ccf5d3d80e126784b9b0c54fa1189227e)" />
+<Entry OldName="BatchHTMLValidator.frmPurchase.btnClose_Click(Object sender, EventArgs e)" NewName="BatchHTMLValidator.frmPurchase.cd7aa751176e4a001aeae621555861272(Object c42428a7c57fe9bcd548be2f0b71a4584, EventArgs ccf5d3d80e126784b9b0c54fa1189227e)" />
+<Entry OldName="BatchHTMLValidator.frmPurchase.btnBuy_Click(Object sender, EventArgs e)" NewName="BatchHTMLValidator.frmPurchase.ce86cefc2b72947280b5df9735da9e4ae(Object c42428a7c57fe9bcd548be2f0b71a4584, EventArgs ccf5d3d80e126784b9b0c54fa1189227e)" />
+<Entry OldName="BatchHTMLValidator.frmPurchase.btnRegister_Click_1(Object sender, EventArgs e)" NewName="BatchHTMLValidator.frmPurchase.c04e7fcb0b6c3450adf5524e26d5c27f9(Object c42428a7c57fe9bcd548be2f0b71a4584, EventArgs ccf5d3d80e126784b9b0c54fa1189227e)" />
+<Entry OldName="BatchHTMLValidator.frmPurchase.btnExit_Click(Object sender, EventArgs e)" NewName="BatchHTMLValidator.frmPurchase.cb27a6f238d5703fe7fe361f7929b54c4(Object c42428a7c57fe9bcd548be2f0b71a4584, EventArgs ccf5d3d80e126784b9b0c54fa1189227e)" />
+<Entry OldName="BatchHTMLValidator.frmPurchase.InitializeComponent()" NewName="BatchHTMLValidator.frmPurchase.cdc967f58e94b89d3f0a9990ea0576851()" />
+<Entry OldName="BatchHTMLValidator.frmUninstallQuestionnaire.btnExit_Click(Object sender, EventArgs e)" NewName="BatchHTMLValidator.frmUninstallQuestionnaire.cb27a6f238d5703fe7fe361f7929b54c4(Object c42428a7c57fe9bcd548be2f0b71a4584, EventArgs ccf5d3d80e126784b9b0c54fa1189227e)" />
+<Entry OldName="BatchHTMLValidator.frmUninstallQuestionnaire.btnOK_Click(Object sender, EventArgs e)" NewName="BatchHTMLValidator.frmUninstallQuestionnaire.ccec971b90ecbb2f9579909ddc9dfa011(Object c42428a7c57fe9bcd548be2f0b71a4584, EventArgs ccf5d3d80e126784b9b0c54fa1189227e)" />
+<Entry OldName="BatchHTMLValidator.frmUninstallQuestionnaire.frmUninstallQuestionnaire_Load(Object sender, EventArgs e)" NewName="BatchHTMLValidator.frmUninstallQuestionnaire.cf958300240077822c5c15b82226a0805(Object c42428a7c57fe9bcd548be2f0b71a4584, EventArgs ccf5d3d80e126784b9b0c54fa1189227e)" />
+<Entry OldName="BatchHTMLValidator.frmUninstallQuestionnaire.txtOpinion_TextChanged(Object sender, EventArgs e)" NewName="BatchHTMLValidator.frmUninstallQuestionnaire.cad88fcbee28bad6d7cbb8360fcbddaff(Object c42428a7c57fe9bcd548be2f0b71a4584, EventArgs ccf5d3d80e126784b9b0c54fa1189227e)" />
+<Entry OldName="BatchHTMLValidator.frmUninstallQuestionnaire.InitializeComponent()" NewName="BatchHTMLValidator.frmUninstallQuestionnaire.cdc967f58e94b89d3f0a9990ea0576851()" />
+<Entry OldName="BatchHTMLValidator.frmValidationResult.AddResults(List`1 lstURL, List`1 lstvld)" NewName="BatchHTMLValidator.frmValidationResult.ca41fcb3916932d679bc7ab2391af0898(List`1 c2ca7f7176f5ab6cb65e6d32c9949eef3, List`1 cf810653e453326a3bdcd62fe4753aa46)" />
+<Entry OldName="BatchHTMLValidator.frmValidationResult.frmValidationResult_Load(Object sender, EventArgs e)" NewName="BatchHTMLValidator.frmValidationResult.c98d2e51a16470d85e0039ab5f7245302(Object c42428a7c57fe9bcd548be2f0b71a4584, EventArgs ccf5d3d80e126784b9b0c54fa1189227e)" />
+<Entry OldName="BatchHTMLValidator.frmValidationResult.lvEditor_Click(Object sender, EventArgs e)" NewName="BatchHTMLValidator.frmValidationResult.c31565c5ac07f9a008a76ed24220aba40(Object c42428a7c57fe9bcd548be2f0b71a4584, EventArgs ccf5d3d80e126784b9b0c54fa1189227e)" />
+<Entry OldName="BatchHTMLValidator.frmValidationResult.LoadInEditor(TreeNode no)" NewName="BatchHTMLValidator.frmValidationResult.c9de1ad0d4d55a68177f595a5f388dbce(TreeNode ccb6a20c7cfec99acb9e4322120f06e30)" />
+<Entry OldName="BatchHTMLValidator.frmValidationResult.tvE_NodeMouseDoubleClick(Object sender, TreeNodeMouseClickEventArgs e)" NewName="BatchHTMLValidator.frmValidationResult.c9e129a6749a5a23b7d186d5e14f45bc2(Object c42428a7c57fe9bcd548be2f0b71a4584, TreeNodeMouseClickEventArgs ccf5d3d80e126784b9b0c54fa1189227e)" />
+<Entry OldName="BatchHTMLValidator.frmValidationResult.LoadEditorForURL(Int32 k, Int32 ind, Boolean iserror)" NewName="BatchHTMLValidator.frmValidationResult.c5fd4e9425ab9e9a5a7cf9582e4d97af8(Int32 ca60b673e51ae3b8120cdffb7bf6bef75, Int32 caeda85b986dc9b84d611a747ade870cf, Boolean ca07daa55fd63f8e562ab67f760f5342f)" />
+<Entry OldName="BatchHTMLValidator.frmValidationResult.btnClose_Click(Object sender, EventArgs e)" NewName="BatchHTMLValidator.frmValidationResult.cd7aa751176e4a001aeae621555861272(Object c42428a7c57fe9bcd548be2f0b71a4584, EventArgs ccf5d3d80e126784b9b0c54fa1189227e)" />
+<Entry OldName="BatchHTMLValidator.frmValidationResult.tsbSave_Click(Object sender, EventArgs e)" NewName="BatchHTMLValidator.frmValidationResult.c0745dccffb61abe158ab2c4524374136(Object c42428a7c57fe9bcd548be2f0b71a4584, EventArgs ccf5d3d80e126784b9b0c54fa1189227e)" />
+<Entry OldName="BatchHTMLValidator.frmValidationResult.openToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="BatchHTMLValidator.frmValidationResult.ce1e6603585a3a17cae6331308fb271c3(Object c42428a7c57fe9bcd548be2f0b71a4584, EventArgs ccf5d3d80e126784b9b0c54fa1189227e)" />
+<Entry OldName="BatchHTMLValidator.frmValidationResult.copyLocationToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="BatchHTMLValidator.frmValidationResult.c59e43441eb27ba7045978b10431dade4(Object c42428a7c57fe9bcd548be2f0b71a4584, EventArgs ccf5d3d80e126784b9b0c54fa1189227e)" />
+<Entry OldName="BatchHTMLValidator.frmValidationResult.copyErrosAndWarningsToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="BatchHTMLValidator.frmValidationResult.c28344be825ad0bc74fa2d0e586bae5d4(Object c42428a7c57fe9bcd548be2f0b71a4584, EventArgs ccf5d3d80e126784b9b0c54fa1189227e)" />
+<Entry OldName="BatchHTMLValidator.frmValidationResult.saveToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="BatchHTMLValidator.frmValidationResult.ca96dc56b39358e91f27acd6a5716374d(Object c42428a7c57fe9bcd548be2f0b71a4584, EventArgs ccf5d3d80e126784b9b0c54fa1189227e)" />
+<Entry OldName="BatchHTMLValidator.frmValidationResult.openInEditorToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="BatchHTMLValidator.frmValidationResult.cf847b9c7a574d439239a42cd781393db(Object c42428a7c57fe9bcd548be2f0b71a4584, EventArgs ccf5d3d80e126784b9b0c54fa1189227e)" />
+<Entry OldName="BatchHTMLValidator.frmValidationResult.openInNotepadToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="BatchHTMLValidator.frmValidationResult.ca8681e76678b29bc4eb0d27d7ca2da60(Object c42428a7c57fe9bcd548be2f0b71a4584, EventArgs ccf5d3d80e126784b9b0c54fa1189227e)" />
+<Entry OldName="BatchHTMLValidator.frmValidationResult.tsbCopy_Click(Object sender, EventArgs e)" NewName="BatchHTMLValidator.frmValidationResult.c666e45517f575b7a76bc291a1c2054fe(Object c42428a7c57fe9bcd548be2f0b71a4584, EventArgs ccf5d3d80e126784b9b0c54fa1189227e)" />
+<Entry OldName="BatchHTMLValidator.frmValidationResult.tsbSaveEditor_Click(Object sender, EventArgs e)" NewName="BatchHTMLValidator.frmValidationResult.c467c7ef5a0b69f7d15621652dd3424f8(Object c42428a7c57fe9bcd548be2f0b71a4584, EventArgs ccf5d3d80e126784b9b0c54fa1189227e)" />
+<Entry OldName="BatchHTMLValidator.frmValidationResult.InitializeComponent()" NewName="BatchHTMLValidator.frmValidationResult.cdc967f58e94b89d3f0a9990ea0576851()" />
+<Entry OldName="BatchHTMLValidator.FuzzyMatch..ctor()" NewName="A.c44f7a390c2216b5ceceac54af04979f2..ctor()" />
+<Entry OldName="BatchHTMLValidator.FuzzyMatch.ExtractPreviousFuzzyMatch(String helpcolumn)" NewName="A.c44f7a390c2216b5ceceac54af04979f2.c6c7ba37119f3e5d70c4fd6c383dec8d5(String c057d4a7c8b79cc0c4e319a73bb3eeb80)" />
+<Entry OldName="BatchHTMLValidator.FuzzyMatch.SetFuzzyHelpColumnText(Int32 fuzzypercent, String helpcolumn)" NewName="A.c44f7a390c2216b5ceceac54af04979f2.c4b92f9b364e6f3741be25121c7db44dd(Int32 c129d61f95b2ba4c5281fadac7b4b45d2, String c057d4a7c8b79cc0c4e319a73bb3eeb80)" />
+<Entry OldName="BatchHTMLValidator.FuzzyMatch.IsFuzzyMatchForReport(String sNew, String sOld, Int32 percent_fuzzy_from, Int32 percent_fuzzy_to)" NewName="A.c44f7a390c2216b5ceceac54af04979f2.c41310bb46ede027056d065486dca2e36(String c51e89eef71ead3018e6a5b4a08efbec9, String c87284dd02c3e1481562b49b28cb44325, Int32 c1816e6caeca50ac79a03e2f1dcdad996, Int32 c0fc8803bcd2bb4fd7978403c6b4a69f7)" />
+<Entry OldName="BatchHTMLValidator.FuzzyMatch.IsFuzzyMatch(String sNew, String sOld, String helpcolumn)" NewName="A.c44f7a390c2216b5ceceac54af04979f2.cd75c8b683d8318c9ca03d7a0414470ef(String c51e89eef71ead3018e6a5b4a08efbec9, String c87284dd02c3e1481562b49b28cb44325, String c057d4a7c8b79cc0c4e319a73bb3eeb80)" />
+<Entry OldName="BatchHTMLValidator.Levenshtein.Minimum(Int32 a, Int32 b, Int32 c)" NewName="BatchHTMLValidator.Levenshtein.c2bcaab4a18e6f479cadd377e35fbb7e3(Int32 cabc16da25aae647b6c0a23a3777270a7, Int32 ca2ad85af127b881f74c349edaf7add2e, Int32 c57baf35bf666b07481c1f58acf3ead40)" />
+<Entry OldName="BatchHTMLValidator.ImageComboBox..ctor()" NewName="A.c77a80eb202612dd2250192994aa83f38..ctor()" />
+<Entry OldName="BatchHTMLValidator.ImageComboBox.get_ImageList()" NewName="A.c77a80eb202612dd2250192994aa83f38.get_c74605b760be1b0fda05a698b5a31f3c1()" />
+<Entry OldName="BatchHTMLValidator.ImageComboBox.set_ImageList(ImageList value)" NewName="A.c77a80eb202612dd2250192994aa83f38.set_c74605b760be1b0fda05a698b5a31f3c1(ImageList cc57d58ba694201fb3f3b67246550741a)" />
+<Entry OldName="BatchHTMLValidator.ImageComboBox.OnDrawItem(DrawItemEventArgs ea)" NewName="A.c77a80eb202612dd2250192994aa83f38.OnDrawItem(DrawItemEventArgs ea)" />
+<Entry OldName="BatchHTMLValidator.ComboBoxExItem..ctor()" NewName="A.c4dddd57d3ae720e2f92b703752df28a1..ctor()" />
+<Entry OldName="BatchHTMLValidator.ComboBoxExItem..ctor(String text)" NewName="A.c4dddd57d3ae720e2f92b703752df28a1..ctor(String c0c3418e0df0169281256fdca2f7bf694)" />
+<Entry OldName="BatchHTMLValidator.ComboBoxExItem..ctor(String text, Int32 imageIndex)" NewName="A.c4dddd57d3ae720e2f92b703752df28a1..ctor(String c0c3418e0df0169281256fdca2f7bf694, Int32 cd83914c96cd28536a471407181ba8286)" />
+<Entry OldName="BatchHTMLValidator.ComboBoxExItem.get_Text()" NewName="A.c4dddd57d3ae720e2f92b703752df28a1.get_c5c064f6c2b39279dbdfe511acfec02d9()" />
+<Entry OldName="BatchHTMLValidator.ComboBoxExItem.set_Text(String value)" NewName="A.c4dddd57d3ae720e2f92b703752df28a1.set_c5c064f6c2b39279dbdfe511acfec02d9(String cc57d58ba694201fb3f3b67246550741a)" />
+<Entry OldName="BatchHTMLValidator.ComboBoxExItem.get_ImageIndex()" NewName="A.c4dddd57d3ae720e2f92b703752df28a1.get_c6dc3837144969a3d279dee8454f5f7cc()" />
+<Entry OldName="BatchHTMLValidator.ComboBoxExItem.set_ImageIndex(Int32 value)" NewName="A.c4dddd57d3ae720e2f92b703752df28a1.set_c6dc3837144969a3d279dee8454f5f7cc(Int32 cc57d58ba694201fb3f3b67246550741a)" />
+<Entry OldName="BatchHTMLValidator.ComboBoxExItem.ToString()" NewName="A.c4dddd57d3ae720e2f92b703752df28a1.ToString()" />
+<Entry OldName="BatchHTMLValidator.ImagesViewHelper..ctor()" NewName="A.cbc2fc58d7a972315e9da1f560abe5bab..ctor()" />
+<Entry OldName="BatchHTMLValidator.ImagesViewHelper..cctor()" NewName="A.cbc2fc58d7a972315e9da1f560abe5bab..cctor()" />
+<Entry OldName="BatchHTMLValidator.ImagesViewHelper.GetVolumeInformation(String PathName, StringBuilder VolumeNameBuffer, UInt32 VolumeNameSize, UInt32&amp; VolumeSerialNumber, UInt32&amp; MaximumComponentLength, UInt32&amp; FileSystemFlags, StringBuilder FileSystemNameBuffer, UInt32 FileSystemNameSize)" NewName="A.cbc2fc58d7a972315e9da1f560abe5bab.c2defc97f07afab6f8173668db6dfcc11(String c65c99b6bda6bdb05d2eb15bc61eb475c, StringBuilder c6a22c7c5952fe55213598239dd6f9cd8, UInt32 c3156de80755b710e9a44cbcfb659a88b, UInt32&amp; c9fa52bec2c27da24766643079d5a9300, UInt32&amp; c376322e1f9135b2866e5ef0262a295f8, UInt32&amp; c865158057e6fa848e18df0337aadd8c2, StringBuilder c02a60478f8f59fc26c687aad5d56e951, UInt32 cb94102b1df7456f28cb17ae7b0c4f3cd)" />
+<Entry OldName="BatchHTMLValidator.ImagesViewHelper.GeneratePreviewItems()" NewName="A.cbc2fc58d7a972315e9da1f560abe5bab.c10074b4992f870f737a4c9b2df6161a7()" />
+<Entry OldName="BatchHTMLValidator.ImagesViewHelper.ParseDate(String datestr)" NewName="A.cbc2fc58d7a972315e9da1f560abe5bab.c74fe47e4647c0bf901955d76199e2f75(String cb27efbad9bab29f511d25f8ff87a8390)" />
+<Entry OldName="BatchHTMLValidator.InputModeHelper..ctor()" NewName="A.c0e53f6a0e8592b7030035c20887b3621..ctor()" />
+<Entry OldName="BatchHTMLValidator.InputModeHelper..cctor()" NewName="A.c0e53f6a0e8592b7030035c20887b3621..cctor()" />
+<Entry OldName="BatchHTMLValidator.InputModeHelper.GetVolumeInformation(String PathName, StringBuilder VolumeNameBuffer, UInt32 VolumeNameSize, UInt32&amp; VolumeSerialNumber, UInt32&amp; MaximumComponentLength, UInt32&amp; FileSystemFlags, StringBuilder FileSystemNameBuffer, UInt32 FileSystemNameSize)" NewName="A.c0e53f6a0e8592b7030035c20887b3621.c2defc97f07afab6f8173668db6dfcc11(String c65c99b6bda6bdb05d2eb15bc61eb475c, StringBuilder c6a22c7c5952fe55213598239dd6f9cd8, UInt32 c3156de80755b710e9a44cbcfb659a88b, UInt32&amp; c9fa52bec2c27da24766643079d5a9300, UInt32&amp; c376322e1f9135b2866e5ef0262a295f8, UInt32&amp; c865158057e6fa848e18df0337aadd8c2, StringBuilder c02a60478f8f59fc26c687aad5d56e951, UInt32 cb94102b1df7456f28cb17ae7b0c4f3cd)" />
+<Entry OldName="BatchHTMLValidator.InputModeHelper.AnalyzeSearch()" NewName="A.c0e53f6a0e8592b7030035c20887b3621.cfc5efb3f453f375a8ce7363ccb1a1755()" />
+<Entry OldName="BatchHTMLValidator.InputModeHelper.Bin2Hex(Byte[] bin)" NewName="A.c0e53f6a0e8592b7030035c20887b3621.cc5e5c425d6d0d817f482d71446df3c63(Byte[] c0c5983eb627a4ffe9301eba2c07a749f)" />
+<Entry OldName="BatchHTMLValidator.MiscHelper..ctor()" NewName="A.c0db25273d059a767a637be60238412e3..ctor()" />
+<Entry OldName="BatchHTMLValidator.MiscHelper..cctor()" NewName="A.c0db25273d059a767a637be60238412e3..cctor()" />
+<Entry OldName="BatchHTMLValidator.MiscHelper.CurrentDomain_ProcessExit(Object sender, EventArgs e)" NewName="A.c0db25273d059a767a637be60238412e3.c5c177e5c934e860d8207722208cc314f(Object c42428a7c57fe9bcd548be2f0b71a4584, EventArgs ccf5d3d80e126784b9b0c54fa1189227e)" />
+<Entry OldName="BatchHTMLValidator.MiscHelper.ParseDate(String datestr)" NewName="A.c0db25273d059a767a637be60238412e3.c74fe47e4647c0bf901955d76199e2f75(String cb27efbad9bab29f511d25f8ff87a8390)" />
+<Entry OldName="BatchHTMLValidator.Module..ctor()" NewName="A.c5995d0db0e8455dc53983a290ebecdde..ctor()" />
+<Entry OldName="BatchHTMLValidator.Module..cctor()" NewName="A.c5995d0db0e8455dc53983a290ebecdde..cctor()" />
+<Entry OldName="BatchHTMLValidator.Module.SendMessage(IntPtr hWnd, Int32 wMsg, Int32 wParam, Int32 lParam)" NewName="A.c5995d0db0e8455dc53983a290ebecdde.cd629717f57628981e69c50e83421f6ba(IntPtr c930e3077fd568355160501b9249b0eb5, Int32 cc6cd4b744f9ca90067f4fce85ceefbb9, Int32 c5b0a906154604bacfd3484a3ae86808b, Int32 ca29a329af5ae55aedd9108d22d484a4f)" />
+<Entry OldName="BatchHTMLValidator.Module.LockWindowUpdate(IntPtr hWndLock)" NewName="A.c5995d0db0e8455dc53983a290ebecdde.c98d520180440904fa2ce12d5742f5f54(IntPtr c7b8e345f74fb64179739e6ff1edc3aa2)" />
+<Entry OldName="BatchHTMLValidator.Module.WaitNMSeconds(Int32 mseconds)" NewName="A.c5995d0db0e8455dc53983a290ebecdde.ca8f49fdd5bdbfc8770d7b7dcb6588748(Int32 c0e81c6dea9c176a0759d5bafb0cbd73f)" />
+<Entry OldName="BatchHTMLValidator.Module.GetRelativePath(String mainDirPath, String absoluteFilePath)" NewName="A.c5995d0db0e8455dc53983a290ebecdde.cb16faee9914daf1f82da6488474906d3(String c97ba1dafffb5a6598f4c7c25da7e6f5c, String c581f5b0706df845fa6d67dd2f63d4bb5)" />
+<Entry OldName="BatchHTMLValidator.Module.ShowMessage(String msg)" NewName="A.c5995d0db0e8455dc53983a290ebecdde.ca857a344cc46a1f3691b4f6c0f82ff38(String ca91133a3edd1a4a23c64e80c5c474947)" />
+<Entry OldName="BatchHTMLValidator.Module.ShowQuestionDialog(String msg, String caption)" NewName="A.c5995d0db0e8455dc53983a290ebecdde.c0f48cee16895623174a56b107a7259c3(String ca91133a3edd1a4a23c64e80c5c474947, String c79b09eb55f8bd2270db3a2754b752e79)" />
+<Entry OldName="BatchHTMLValidator.Module.ShowError(Exception ex)" NewName="A.c5995d0db0e8455dc53983a290ebecdde.c1b6ffd49e3335d82d1c053e161a8008a(Exception c61023532e84b0de4b0c4c9fa81b5acdd)" />
+<Entry OldName="BatchHTMLValidator.Module.ShowError(String msg)" NewName="A.c5995d0db0e8455dc53983a290ebecdde.c1b6ffd49e3335d82d1c053e161a8008a(String ca91133a3edd1a4a23c64e80c5c474947)" />
+<Entry OldName="BatchHTMLValidator.Module.ShowError(String msg, Exception ex)" NewName="A.c5995d0db0e8455dc53983a290ebecdde.c1b6ffd49e3335d82d1c053e161a8008a(String ca91133a3edd1a4a23c64e80c5c474947, Exception c61023532e84b0de4b0c4c9fa81b5acdd)" />
+<Entry OldName="BatchHTMLValidator.Module.ShowError(String msg, String exstr)" NewName="A.c5995d0db0e8455dc53983a290ebecdde.c1b6ffd49e3335d82d1c053e161a8008a(String ca91133a3edd1a4a23c64e80c5c474947, String c3565f8f8e7311e8f24148c1c0bb6a8b6)" />
+<Entry OldName="BatchHTMLValidator.Module.CurrentDomain_ProcessExit(Object sender, EventArgs e)" NewName="A.c5995d0db0e8455dc53983a290ebecdde.c5c177e5c934e860d8207722208cc314f(Object c42428a7c57fe9bcd548be2f0b71a4584, EventArgs ccf5d3d80e126784b9b0c54fa1189227e)" />
+<Entry OldName="BatchHTMLValidator.Module.ShowQuestionDialogYesFocus(String msg, String caption)" NewName="A.c5995d0db0e8455dc53983a290ebecdde.cee2ced87494e2b58c27649f6aa1a4c87(String ca91133a3edd1a4a23c64e80c5c474947, String c79b09eb55f8bd2270db3a2754b752e79)" />
+<Entry OldName="BatchHTMLValidator.Module.get_Modex64()" NewName="A.c5995d0db0e8455dc53983a290ebecdde.get_c96af85f4fdb9e47b91a7da1fe283a8a3()" />
+<Entry OldName="BatchHTMLValidator.Module.DownloadPage(String uri)" NewName="A.c5995d0db0e8455dc53983a290ebecdde.c1a053601f24f01bf5a33efd96d2c1676(String c65f9ce2326f22228acc5b772627fd8f1)" />
+<Entry OldName="BatchHTMLValidator.Module.CheckVersion(Boolean onstart)" NewName="A.c5995d0db0e8455dc53983a290ebecdde.cf76ce82809f087f31d18caadb5441b5e(Boolean cb760ca86a91ea29ac28bc64b8be70404)" />
+<Entry OldName="BatchHTMLValidator.Module.CheckVersionBackground()" NewName="A.c5995d0db0e8455dc53983a290ebecdde.c22b56144c9f1a7210b4663b6c07f69e9()" />
+<Entry OldName="BatchHTMLValidator.Module.DeleteApplicationSettingsFile()" NewName="A.c5995d0db0e8455dc53983a290ebecdde.c8cd7505abb638a3547ae21b5efbddcbf()" />
+<Entry OldName="BatchHTMLValidator.NiceLine.InitializeComponent()" NewName="BatchHTMLValidator.NiceLine.cdc967f58e94b89d3f0a9990ea0576851()" />
+<Entry OldName="BatchHTMLValidator.OwnerDrawnComboBox.InitializeComponent()" NewName="BatchHTMLValidator.OwnerDrawnComboBox.cdc967f58e94b89d3f0a9990ea0576851()" />
+<Entry OldName="BatchHTMLValidator.Program.Main(String[] args)" NewName="A.cb5d65db4d0a3297960324d41a02075fa.cb93f2521776f867f98cc287e75f23ccb(String[] cf571e766b7b6d72bb336a77ba16a0c36)" />
+<Entry OldName="BatchHTMLValidator.ResFlags..ctor()" NewName="A.c53e4c8c01853a686f03b826102245856..ctor()" />
+<Entry OldName="BatchHTMLValidator.ResFlags.get_ResourceManager()" NewName="A.c53e4c8c01853a686f03b826102245856.get_ResourceManager()" />
+<Entry OldName="BatchHTMLValidator.ResFlags.get_Culture()" NewName="A.c53e4c8c01853a686f03b826102245856.get_Culture()" />
+<Entry OldName="BatchHTMLValidator.ResFlags.set_Culture(CultureInfo value)" NewName="A.c53e4c8c01853a686f03b826102245856.set_Culture(CultureInfo value)" />
+<Entry OldName="BatchHTMLValidator.ResFlags.get_flag_albania()" NewName="A.c53e4c8c01853a686f03b826102245856.get_flag_albania()" />
+<Entry OldName="BatchHTMLValidator.ResFlags.get_flag_belarus()" NewName="A.c53e4c8c01853a686f03b826102245856.get_flag_belarus()" />
+<Entry OldName="BatchHTMLValidator.ResFlags.get_flag_bulgaria()" NewName="A.c53e4c8c01853a686f03b826102245856.get_flag_bulgaria()" />
+<Entry OldName="BatchHTMLValidator.ResFlags.get_flag_china()" NewName="A.c53e4c8c01853a686f03b826102245856.get_flag_china()" />
+<Entry OldName="BatchHTMLValidator.ResFlags.get_flag_croatia()" NewName="A.c53e4c8c01853a686f03b826102245856.get_flag_croatia()" />
+<Entry OldName="BatchHTMLValidator.ResFlags.get_flag_czech_republic()" NewName="A.c53e4c8c01853a686f03b826102245856.get_flag_czech_republic()" />
+<Entry OldName="BatchHTMLValidator.ResFlags.get_flag_denmark()" NewName="A.c53e4c8c01853a686f03b826102245856.get_flag_denmark()" />
+<Entry OldName="BatchHTMLValidator.ResFlags.get_flag_estonia()" NewName="A.c53e4c8c01853a686f03b826102245856.get_flag_estonia()" />
+<Entry OldName="BatchHTMLValidator.ResFlags.get_flag_finland()" NewName="A.c53e4c8c01853a686f03b826102245856.get_flag_finland()" />
+<Entry OldName="BatchHTMLValidator.ResFlags.get_flag_france()" NewName="A.c53e4c8c01853a686f03b826102245856.get_flag_france()" />
+<Entry OldName="BatchHTMLValidator.ResFlags.get_flag_georgia()" NewName="A.c53e4c8c01853a686f03b826102245856.get_flag_georgia()" />
+<Entry OldName="BatchHTMLValidator.ResFlags.get_flag_germany()" NewName="A.c53e4c8c01853a686f03b826102245856.get_flag_germany()" />
+<Entry OldName="BatchHTMLValidator.ResFlags.get_flag_great_britain()" NewName="A.c53e4c8c01853a686f03b826102245856.get_flag_great_britain()" />
+<Entry OldName="BatchHTMLValidator.ResFlags.get_flag_greece()" NewName="A.c53e4c8c01853a686f03b826102245856.get_flag_greece()" />
+<Entry OldName="BatchHTMLValidator.ResFlags.get_flag_hungary()" NewName="A.c53e4c8c01853a686f03b826102245856.get_flag_hungary()" />
+<Entry OldName="BatchHTMLValidator.ResFlags.get_flag_iceland()" NewName="A.c53e4c8c01853a686f03b826102245856.get_flag_iceland()" />
+<Entry OldName="BatchHTMLValidator.ResFlags.get_flag_india()" NewName="A.c53e4c8c01853a686f03b826102245856.get_flag_india()" />
+<Entry OldName="BatchHTMLValidator.ResFlags.get_flag_indonesia()" NewName="A.c53e4c8c01853a686f03b826102245856.get_flag_indonesia()" />
+<Entry OldName="BatchHTMLValidator.ResFlags.get_flag_iran()" NewName="A.c53e4c8c01853a686f03b826102245856.get_flag_iran()" />
+<Entry OldName="BatchHTMLValidator.ResFlags.get_flag_ireland()" NewName="A.c53e4c8c01853a686f03b826102245856.get_flag_ireland()" />
+<Entry OldName="BatchHTMLValidator.ResFlags.get_flag_israel()" NewName="A.c53e4c8c01853a686f03b826102245856.get_flag_israel()" />
+<Entry OldName="BatchHTMLValidator.ResFlags.get_flag_italy()" NewName="A.c53e4c8c01853a686f03b826102245856.get_flag_italy()" />
+<Entry OldName="BatchHTMLValidator.ResFlags.get_flag_japan()" NewName="A.c53e4c8c01853a686f03b826102245856.get_flag_japan()" />
+<Entry OldName="BatchHTMLValidator.ResFlags.get_flag_kenya()" NewName="A.c53e4c8c01853a686f03b826102245856.get_flag_kenya()" />
+<Entry OldName="BatchHTMLValidator.ResFlags.get_flag_latvia()" NewName="A.c53e4c8c01853a686f03b826102245856.get_flag_latvia()" />
+<Entry OldName="BatchHTMLValidator.ResFlags.get_flag_lithuania()" NewName="A.c53e4c8c01853a686f03b826102245856.get_flag_lithuania()" />
+<Entry OldName="BatchHTMLValidator.ResFlags.get_flag_netherlands()" NewName="A.c53e4c8c01853a686f03b826102245856.get_flag_netherlands()" />
+<Entry OldName="BatchHTMLValidator.ResFlags.get_flag_norway()" NewName="A.c53e4c8c01853a686f03b826102245856.get_flag_norway()" />
+<Entry OldName="BatchHTMLValidator.ResFlags.get_flag_pakistan()" NewName="A.c53e4c8c01853a686f03b826102245856.get_flag_pakistan()" />
+<Entry OldName="BatchHTMLValidator.ResFlags.get_flag_philippines()" NewName="A.c53e4c8c01853a686f03b826102245856.get_flag_philippines()" />
+<Entry OldName="BatchHTMLValidator.ResFlags.get_flag_poland()" NewName="A.c53e4c8c01853a686f03b826102245856.get_flag_poland()" />
+<Entry OldName="BatchHTMLValidator.ResFlags.get_flag_portugal()" NewName="A.c53e4c8c01853a686f03b826102245856.get_flag_portugal()" />
+<Entry OldName="BatchHTMLValidator.ResFlags.get_flag_romania()" NewName="A.c53e4c8c01853a686f03b826102245856.get_flag_romania()" />
+<Entry OldName="BatchHTMLValidator.ResFlags.get_flag_russia()" NewName="A.c53e4c8c01853a686f03b826102245856.get_flag_russia()" />
+<Entry OldName="BatchHTMLValidator.ResFlags.get_flag_saudi_arabia()" NewName="A.c53e4c8c01853a686f03b826102245856.get_flag_saudi_arabia()" />
+<Entry OldName="BatchHTMLValidator.ResFlags.get_flag_serbia_montenegro()" NewName="A.c53e4c8c01853a686f03b826102245856.get_flag_serbia_montenegro()" />
+<Entry OldName="BatchHTMLValidator.ResFlags.get_flag_slovakia()" NewName="A.c53e4c8c01853a686f03b826102245856.get_flag_slovakia()" />
+<Entry OldName="BatchHTMLValidator.ResFlags.get_flag_slovenia()" NewName="A.c53e4c8c01853a686f03b826102245856.get_flag_slovenia()" />
+<Entry OldName="BatchHTMLValidator.ResFlags.get_flag_south_africa()" NewName="A.c53e4c8c01853a686f03b826102245856.get_flag_south_africa()" />
+<Entry OldName="BatchHTMLValidator.ResFlags.get_flag_south_korea()" NewName="A.c53e4c8c01853a686f03b826102245856.get_flag_south_korea()" />
+<Entry OldName="BatchHTMLValidator.ResFlags.get_flag_spain()" NewName="A.c53e4c8c01853a686f03b826102245856.get_flag_spain()" />
+<Entry OldName="BatchHTMLValidator.ResFlags.get_flag_sweden()" NewName="A.c53e4c8c01853a686f03b826102245856.get_flag_sweden()" />
+<Entry OldName="BatchHTMLValidator.ResFlags.get_flag_taiwan()" NewName="A.c53e4c8c01853a686f03b826102245856.get_flag_taiwan()" />
+<Entry OldName="BatchHTMLValidator.ResFlags.get_flag_thailand()" NewName="A.c53e4c8c01853a686f03b826102245856.get_flag_thailand()" />
+<Entry OldName="BatchHTMLValidator.ResFlags.get_flag_turkey()" NewName="A.c53e4c8c01853a686f03b826102245856.get_flag_turkey()" />
+<Entry OldName="BatchHTMLValidator.ResFlags.get_flag_ukraine()" NewName="A.c53e4c8c01853a686f03b826102245856.get_flag_ukraine()" />
+<Entry OldName="BatchHTMLValidator.ResFlags.get_flag_vietnam()" NewName="A.c53e4c8c01853a686f03b826102245856.get_flag_vietnam()" />
+<Entry OldName="BatchHTMLValidator.ResRegister..ctor()" NewName="A.c4531364af3a8744bb0703f73c1438853..ctor()" />
+<Entry OldName="BatchHTMLValidator.ResRegister.get_ResourceManager()" NewName="A.c4531364af3a8744bb0703f73c1438853.get_ResourceManager()" />
+<Entry OldName="BatchHTMLValidator.ResRegister.get_Culture()" NewName="A.c4531364af3a8744bb0703f73c1438853.get_Culture()" />
+<Entry OldName="BatchHTMLValidator.ResRegister.set_Culture(CultureInfo value)" NewName="A.c4531364af3a8744bb0703f73c1438853.set_Culture(CultureInfo value)" />
+<Entry OldName="BatchHTMLValidator.ResRegister.get_Add_new_search_item_to_project()" NewName="A.c4531364af3a8744bb0703f73c1438853.get_Add_new_search_item_to_project()" />
+<Entry OldName="BatchHTMLValidator.ResRegister.get_Continue_activated_search_()" NewName="A.c4531364af3a8744bb0703f73c1438853.get_Continue_activated_search_()" />
+<Entry OldName="BatchHTMLValidator.ResRegister.get_Direct_search_started()" NewName="A.c4531364af3a8744bb0703f73c1438853.get_Direct_search_started()" />
+<Entry OldName="BatchHTMLValidator.ResRegister.get_Edit_4dots_Project()" NewName="A.c4531364af3a8744bb0703f73c1438853.get_Edit_4dots_Project()" />
+<Entry OldName="BatchHTMLValidator.ResRegister.get_Erroneous_search_2()" NewName="A.c4531364af3a8744bb0703f73c1438853.get_Erroneous_search_2()" />
+<Entry OldName="BatchHTMLValidator.ResRegister.get_Error_1()" NewName="A.c4531364af3a8744bb0703f73c1438853.get_Error_1()" />
+<Entry OldName="BatchHTMLValidator.ResRegister.get_Error_12()" NewName="A.c4531364af3a8744bb0703f73c1438853.get_Error_12()" />
+<Entry OldName="BatchHTMLValidator.ResRegister.get_Error_4()" NewName="A.c4531364af3a8744bb0703f73c1438853.get_Error_4()" />
+<Entry OldName="BatchHTMLValidator.ResRegister.get_Import_search_result()" NewName="A.c4531364af3a8744bb0703f73c1438853.get_Import_search_result()" />
+<Entry OldName="BatchHTMLValidator.ResRegister.get_Init_Project()" NewName="A.c4531364af3a8744bb0703f73c1438853.get_Init_Project()" />
+<Entry OldName="BatchHTMLValidator.ResRegister.get_MessageTitle()" NewName="A.c4531364af3a8744bb0703f73c1438853.get_MessageTitle()" />
+<Entry OldName="BatchHTMLValidator.ResRegister.get_MessageTitle7()" NewName="A.c4531364af3a8744bb0703f73c1438853.get_MessageTitle7()" />
+<Entry OldName="BatchHTMLValidator.ResRegister.get_MessageTitle8()" NewName="A.c4531364af3a8744bb0703f73c1438853.get_MessageTitle8()" />
+<Entry OldName="BatchHTMLValidator.ResRegister.get_Search_duration_process()" NewName="A.c4531364af3a8744bb0703f73c1438853.get_Search_duration_process()" />
+<Entry OldName="BatchHTMLValidator.ResRegister.get_String1()" NewName="A.c4531364af3a8744bb0703f73c1438853.get_String1()" />
+<Entry OldName="BatchHTMLValidator.ResRegister.get_Uniform_process()" NewName="A.c4531364af3a8744bb0703f73c1438853.get_Uniform_process()" />
+<Entry OldName="BatchHTMLValidator.ResRegister.get_Αλλαγή_Ονόματος()" NewName="A.c4531364af3a8744bb0703f73c1438853.get_Αλλαγή_Ονόματος()" />
+<Entry OldName="BatchHTMLValidator.ResRegister.get_Αλλαγή_στοιχείων_εικόνας()" NewName="A.c4531364af3a8744bb0703f73c1438853.get_Αλλαγή_στοιχείων_εικόνας()" />
+<Entry OldName="BatchHTMLValidator.ResRegister.get_Αλλαγή_Φίλτρου_Εικόνας()" NewName="A.c4531364af3a8744bb0703f73c1438853.get_Αλλαγή_Φίλτρου_Εικόνας()" />
+<Entry OldName="BatchHTMLValidator.ResRegister.get_Ανανέωση_Εικόνας()" NewName="A.c4531364af3a8744bb0703f73c1438853.get_Ανανέωση_Εικόνας()" />
+<Entry OldName="BatchHTMLValidator.ResRegister.get_Εισαγωγή_Εικόνας()" NewName="A.c4531364af3a8744bb0703f73c1438853.get_Εισαγωγή_Εικόνας()" />
+<Entry OldName="BatchHTMLValidator.ResRegister.get_Εναλλαγή_Εικόνας()" NewName="A.c4531364af3a8744bb0703f73c1438853.get_Εναλλαγή_Εικόνας()" />
+<Entry OldName="BatchHTMLValidator.ResRegister.get_Καθορισμός_Ονόματος()" NewName="A.c4531364af3a8744bb0703f73c1438853.get_Καθορισμός_Ονόματος()" />
+<Entry OldName="BatchHTMLValidator.ResRegister.get_Μορφοποίηση_Εικόνας()" NewName="A.c4531364af3a8744bb0703f73c1438853.get_Μορφοποίηση_Εικόνας()" />
+<Entry OldName="BatchHTMLValidator.ResRegister.get_Νέα_Εικόνα()" NewName="A.c4531364af3a8744bb0703f73c1438853.get_Νέα_Εικόνα()" />
+<Entry OldName="BatchHTMLValidator.ResRegister.get_Παράμετροι_Μετρήσεως_Εικόνας()" NewName="A.c4531364af3a8744bb0703f73c1438853.get_Παράμετροι_Μετρήσεως_Εικόνας()" />
+<Entry OldName="BatchHTMLValidator.ResRegister.get_Περιγραφή_Ονόματος()" NewName="A.c4531364af3a8744bb0703f73c1438853.get_Περιγραφή_Ονόματος()" />
+<Entry OldName="BatchHTMLValidator.ResRegister.get_Πηγή_Εικόνας()" NewName="A.c4531364af3a8744bb0703f73c1438853.get_Πηγή_Εικόνας()" />
+<Entry OldName="BatchHTMLValidator.ResRegister.get_Προβολή_Εικόνας_1()" NewName="A.c4531364af3a8744bb0703f73c1438853.get_Προβολή_Εικόνας_1()" />
+<Entry OldName="BatchHTMLValidator.ResRegister.get_Προβολή_Εικόνων()" NewName="A.c4531364af3a8744bb0703f73c1438853.get_Προβολή_Εικόνων()" />
+<Entry OldName="BatchHTMLValidator.ResRegister.get_Σφάλμα_120()" NewName="A.c4531364af3a8744bb0703f73c1438853.get_Σφάλμα_120()" />
+<Entry OldName="BatchHTMLValidator.ResRegister.get_Σφάλμα_1201()" NewName="A.c4531364af3a8744bb0703f73c1438853.get_Σφάλμα_1201()" />
+<Entry OldName="BatchHTMLValidator.ResRegister.get_Υπολογισμός_Επιφάνειας()" NewName="A.c4531364af3a8744bb0703f73c1438853.get_Υπολογισμός_Επιφάνειας()" />
+<Entry OldName="BatchHTMLValidator.ResRegister.get_Φίλτρο_Εικόνας()" NewName="A.c4531364af3a8744bb0703f73c1438853.get_Φίλτρο_Εικόνας()" />
+<Entry OldName="BatchHTMLValidator.ResTranslate..ctor()" NewName="A.cca033af280a3246d987bbd93d8bf7d4c..ctor()" />
+<Entry OldName="BatchHTMLValidator.ResTranslate.get_ResourceManager()" NewName="A.cca033af280a3246d987bbd93d8bf7d4c.get_ResourceManager()" />
+<Entry OldName="BatchHTMLValidator.ResTranslate.get_Culture()" NewName="A.cca033af280a3246d987bbd93d8bf7d4c.get_Culture()" />
+<Entry OldName="BatchHTMLValidator.ResTranslate.set_Culture(CultureInfo value)" NewName="A.cca033af280a3246d987bbd93d8bf7d4c.set_Culture(CultureInfo value)" />
+<Entry OldName="BatchHTMLValidator.ShareHelper..ctor()" NewName="A.c0b5abf3dded51d9300743960bc6acb6f..ctor()" />
+<Entry OldName="BatchHTMLValidator.ShareHelper.get_ShareURL()" NewName="A.c0b5abf3dded51d9300743960bc6acb6f.get_cc231875363230018c727a32c070ae99f()" />
+<Entry OldName="BatchHTMLValidator.ShareHelper.get_ShareText()" NewName="A.c0b5abf3dded51d9300743960bc6acb6f.get_cdfc176aa8db0e36e08725ef5fcd3dda2()" />
+<Entry OldName="BatchHTMLValidator.ShareHelper.ShareFacebook()" NewName="A.c0b5abf3dded51d9300743960bc6acb6f.cad74b566a95c3fdb02584a62e7025afa()" />
+<Entry OldName="BatchHTMLValidator.ShareHelper.ShareTwitter()" NewName="A.c0b5abf3dded51d9300743960bc6acb6f.cae047df1d08f0b79a0c2f9dcacf3bb95()" />
+<Entry OldName="BatchHTMLValidator.ShareHelper.ShareGooglePlus()" NewName="A.c0b5abf3dded51d9300743960bc6acb6f.caa09091d0514828db2cea47f94fd3556()" />
+<Entry OldName="BatchHTMLValidator.ShareHelper.ShareLinkedIn()" NewName="A.c0b5abf3dded51d9300743960bc6acb6f.c957154d0f41d2471ed951fcaf3c617d3()" />
+<Entry OldName="BatchHTMLValidator.ShareHelper.ShareEmail()" NewName="A.c0b5abf3dded51d9300743960bc6acb6f.ca6286e3c9e1578e3c4df6e8db9e04ef6()" />
+<Entry OldName="BatchHTMLValidator.TranslateHelper..ctor()" NewName="A.c1d2153576ed598ef252e345bd4a19069..ctor()" />
+<Entry OldName="BatchHTMLValidator.TranslateHelper..cctor()" NewName="A.c1d2153576ed598ef252e345bd4a19069..cctor()" />
+<Entry OldName="BatchHTMLValidator.TranslateHelper.Translate(String str)" NewName="A.c1d2153576ed598ef252e345bd4a19069.c0df4972f2196de8d4499f0c0f795e9aa(String cf7b28da215b8a5a1d7c91f6ba3d7856e)" />
+<Entry OldName="BatchHTMLValidator.ucTextProgressBar.InitializeComponent()" NewName="BatchHTMLValidator.ucTextProgressBar.cdc967f58e94b89d3f0a9990ea0576851()" />
+<Entry OldName="BatchHTMLValidator.UpdateHelper.bwCheckVersion_ProgressChanged(Object sender, ProgressChangedEventArgs e)" NewName="BatchHTMLValidator.UpdateHelper.c0a2193c2a1a70b8151e06dd6a5f4a562(Object c42428a7c57fe9bcd548be2f0b71a4584, ProgressChangedEventArgs ccf5d3d80e126784b9b0c54fa1189227e)" />
+<Entry OldName="BatchHTMLValidator.UpdateHelper.bwCheckVersion_RunWorkerCompleted(Object sender, RunWorkerCompletedEventArgs e)" NewName="BatchHTMLValidator.UpdateHelper.ce8dbc0945359526696abf99a077099ca(Object c42428a7c57fe9bcd548be2f0b71a4584, RunWorkerCompletedEventArgs ccf5d3d80e126784b9b0c54fa1189227e)" />
+<Entry OldName="BatchHTMLValidator.UpdateHelper.bwCheckVersion_DoWork(Object sender, DoWorkEventArgs e)" NewName="BatchHTMLValidator.UpdateHelper.c164a3cba67f162ebcd6630ffa7759db2(Object c42428a7c57fe9bcd548be2f0b71a4584, DoWorkEventArgs ccf5d3d80e126784b9b0c54fa1189227e)" />
+<Entry OldName="BatchHTMLValidator.Properties.Resources..ctor()" NewName="A.c1a233d60e105d9ce632f00ff7809565b..ctor()" />
+<Entry OldName="BatchHTMLValidator.Properties.Resources.get_ResourceManager()" NewName="A.c1a233d60e105d9ce632f00ff7809565b.get_ResourceManager()" />
+<Entry OldName="BatchHTMLValidator.Properties.Resources.get_Culture()" NewName="A.c1a233d60e105d9ce632f00ff7809565b.get_Culture()" />
+<Entry OldName="BatchHTMLValidator.Properties.Resources.set_Culture(CultureInfo value)" NewName="A.c1a233d60e105d9ce632f00ff7809565b.set_Culture(CultureInfo value)" />
+<Entry OldName="BatchHTMLValidator.Properties.Resources.get__4dots_logo_official()" NewName="A.c1a233d60e105d9ce632f00ff7809565b.get__4dots_logo_official()" />
+<Entry OldName="BatchHTMLValidator.Properties.Resources.get__4dots_logo_official_icon()" NewName="A.c1a233d60e105d9ce632f00ff7809565b.get__4dots_logo_official_icon()" />
+<Entry OldName="BatchHTMLValidator.Properties.Resources.get_about()" NewName="A.c1a233d60e105d9ce632f00ff7809565b.get_about()" />
+<Entry OldName="BatchHTMLValidator.Properties.Resources.get_add()" NewName="A.c1a233d60e105d9ce632f00ff7809565b.get_add()" />
+<Entry OldName="BatchHTMLValidator.Properties.Resources.get_add1()" NewName="A.c1a233d60e105d9ce632f00ff7809565b.get_add1()" />
+<Entry OldName="BatchHTMLValidator.Properties.Resources.get_arrow_down_green()" NewName="A.c1a233d60e105d9ce632f00ff7809565b.get_arrow_down_green()" />
+<Entry OldName="BatchHTMLValidator.Properties.Resources.get_arrow_left_blue()" NewName="A.c1a233d60e105d9ce632f00ff7809565b.get_arrow_left_blue()" />
+<Entry OldName="BatchHTMLValidator.Properties.Resources.get_arrow_right_blue()" NewName="A.c1a233d60e105d9ce632f00ff7809565b.get_arrow_right_blue()" />
+<Entry OldName="BatchHTMLValidator.Properties.Resources.get_arrow_up_green()" NewName="A.c1a233d60e105d9ce632f00ff7809565b.get_arrow_up_green()" />
+<Entry OldName="BatchHTMLValidator.Properties.Resources.get_brush2()" NewName="A.c1a233d60e105d9ce632f00ff7809565b.get_brush2()" />
+<Entry OldName="BatchHTMLValidator.Properties.Resources.get_brush21()" NewName="A.c1a233d60e105d9ce632f00ff7809565b.get_brush21()" />
+<Entry OldName="BatchHTMLValidator.Properties.Resources.get_brush4()" NewName="A.c1a233d60e105d9ce632f00ff7809565b.get_brush4()" />
+<Entry OldName="BatchHTMLValidator.Properties.Resources.get_bullet_ball_glass_blue()" NewName="A.c1a233d60e105d9ce632f00ff7809565b.get_bullet_ball_glass_blue()" />
+<Entry OldName="BatchHTMLValidator.Properties.Resources.get_bullet_ball_glass_green()" NewName="A.c1a233d60e105d9ce632f00ff7809565b.get_bullet_ball_glass_green()" />
+<Entry OldName="BatchHTMLValidator.Properties.Resources.get_bullet_ball_glass_red()" NewName="A.c1a233d60e105d9ce632f00ff7809565b.get_bullet_ball_glass_red()" />
+<Entry OldName="BatchHTMLValidator.Properties.Resources.get_bullet_ball_glass_yellow()" NewName="A.c1a233d60e105d9ce632f00ff7809565b.get_bullet_ball_glass_yellow()" />
+<Entry OldName="BatchHTMLValidator.Properties.Resources.get_cart_icon_b_24()" NewName="A.c1a233d60e105d9ce632f00ff7809565b.get_cart_icon_b_24()" />
+<Entry OldName="BatchHTMLValidator.Properties.Resources.get_check()" NewName="A.c1a233d60e105d9ce632f00ff7809565b.get_check()" />
+<Entry OldName="BatchHTMLValidator.Properties.Resources.get_copy()" NewName="A.c1a233d60e105d9ce632f00ff7809565b.get_copy()" />
+<Entry OldName="BatchHTMLValidator.Properties.Resources.get_copy1()" NewName="A.c1a233d60e105d9ce632f00ff7809565b.get_copy1()" />
+<Entry OldName="BatchHTMLValidator.Properties.Resources.get_cut()" NewName="A.c1a233d60e105d9ce632f00ff7809565b.get_cut()" />
+<Entry OldName="BatchHTMLValidator.Properties.Resources.get_delete()" NewName="A.c1a233d60e105d9ce632f00ff7809565b.get_delete()" />
+<Entry OldName="BatchHTMLValidator.Properties.Resources.get_delete1()" NewName="A.c1a233d60e105d9ce632f00ff7809565b.get_delete1()" />
+<Entry OldName="BatchHTMLValidator.Properties.Resources.get_disk_blue()" NewName="A.c1a233d60e105d9ce632f00ff7809565b.get_disk_blue()" />
+<Entry OldName="BatchHTMLValidator.Properties.Resources.get_disk_blue1()" NewName="A.c1a233d60e105d9ce632f00ff7809565b.get_disk_blue1()" />
+<Entry OldName="BatchHTMLValidator.Properties.Resources.get_disk_green()" NewName="A.c1a233d60e105d9ce632f00ff7809565b.get_disk_green()" />
+<Entry OldName="BatchHTMLValidator.Properties.Resources.get_document_into()" NewName="A.c1a233d60e105d9ce632f00ff7809565b.get_document_into()" />
+<Entry OldName="BatchHTMLValidator.Properties.Resources.get_document_preferences()" NewName="A.c1a233d60e105d9ce632f00ff7809565b.get_document_preferences()" />
+<Entry OldName="BatchHTMLValidator.Properties.Resources.get_earth()" NewName="A.c1a233d60e105d9ce632f00ff7809565b.get_earth()" />
+<Entry OldName="BatchHTMLValidator.Properties.Resources.get_earth_preferences()" NewName="A.c1a233d60e105d9ce632f00ff7809565b.get_earth_preferences()" />
+<Entry OldName="BatchHTMLValidator.Properties.Resources.get_edit()" NewName="A.c1a233d60e105d9ce632f00ff7809565b.get_edit()" />
+<Entry OldName="BatchHTMLValidator.Properties.Resources.get_exit()" NewName="A.c1a233d60e105d9ce632f00ff7809565b.get_exit()" />
+<Entry OldName="BatchHTMLValidator.Properties.Resources.get_exit1()" NewName="A.c1a233d60e105d9ce632f00ff7809565b.get_exit1()" />
+<Entry OldName="BatchHTMLValidator.Properties.Resources.get_facebook_24()" NewName="A.c1a233d60e105d9ce632f00ff7809565b.get_facebook_24()" />
+<Entry OldName="BatchHTMLValidator.Properties.Resources.get_facebook_32()" NewName="A.c1a233d60e105d9ce632f00ff7809565b.get_facebook_32()" />
+<Entry OldName="BatchHTMLValidator.Properties.Resources.get_flash()" NewName="A.c1a233d60e105d9ce632f00ff7809565b.get_flash()" />
+<Entry OldName="BatchHTMLValidator.Properties.Resources.get_flash1()" NewName="A.c1a233d60e105d9ce632f00ff7809565b.get_flash1()" />
+<Entry OldName="BatchHTMLValidator.Properties.Resources.get_folder()" NewName="A.c1a233d60e105d9ce632f00ff7809565b.get_folder()" />
+<Entry OldName="BatchHTMLValidator.Properties.Resources.get_folder_add()" NewName="A.c1a233d60e105d9ce632f00ff7809565b.get_folder_add()" />
+<Entry OldName="BatchHTMLValidator.Properties.Resources.get_folder1()" NewName="A.c1a233d60e105d9ce632f00ff7809565b.get_folder1()" />
+<Entry OldName="BatchHTMLValidator.Properties.Resources.get_googleplus_24()" NewName="A.c1a233d60e105d9ce632f00ff7809565b.get_googleplus_24()" />
+<Entry OldName="BatchHTMLValidator.Properties.Resources.get_help2()" NewName="A.c1a233d60e105d9ce632f00ff7809565b.get_help2()" />
+<Entry OldName="BatchHTMLValidator.Properties.Resources.get_import1()" NewName="A.c1a233d60e105d9ce632f00ff7809565b.get_import1()" />
+<Entry OldName="BatchHTMLValidator.Properties.Resources.get_information()" NewName="A.c1a233d60e105d9ce632f00ff7809565b.get_information()" />
+<Entry OldName="BatchHTMLValidator.Properties.Resources.get_key1()" NewName="A.c1a233d60e105d9ce632f00ff7809565b.get_key1()" />
+<Entry OldName="BatchHTMLValidator.Properties.Resources.get_linkedin_24()" NewName="A.c1a233d60e105d9ce632f00ff7809565b.get_linkedin_24()" />
+<Entry OldName="BatchHTMLValidator.Properties.Resources.get_mail()" NewName="A.c1a233d60e105d9ce632f00ff7809565b.get_mail()" />
+<Entry OldName="BatchHTMLValidator.Properties.Resources.get_media_pause()" NewName="A.c1a233d60e105d9ce632f00ff7809565b.get_media_pause()" />
+<Entry OldName="BatchHTMLValidator.Properties.Resources.get_media_play()" NewName="A.c1a233d60e105d9ce632f00ff7809565b.get_media_play()" />
+<Entry OldName="BatchHTMLValidator.Properties.Resources.get_media_stop()" NewName="A.c1a233d60e105d9ce632f00ff7809565b.get_media_stop()" />
+<Entry OldName="BatchHTMLValidator.Properties.Resources.get_navigate_beginning()" NewName="A.c1a233d60e105d9ce632f00ff7809565b.get_navigate_beginning()" />
+<Entry OldName="BatchHTMLValidator.Properties.Resources.get_navigate_end()" NewName="A.c1a233d60e105d9ce632f00ff7809565b.get_navigate_end()" />
+<Entry OldName="BatchHTMLValidator.Properties.Resources.get_preferences()" NewName="A.c1a233d60e105d9ce632f00ff7809565b.get_preferences()" />
+<Entry OldName="BatchHTMLValidator.Properties.Resources.get_twitter_24()" NewName="A.c1a233d60e105d9ce632f00ff7809565b.get_twitter_24()" />
+<Entry OldName="BatchHTMLValidator.Properties.Resources.get_twitter_32()" NewName="A.c1a233d60e105d9ce632f00ff7809565b.get_twitter_32()" />
+<Entry OldName="BatchHTMLValidator.Properties.Resources.get_warning()" NewName="A.c1a233d60e105d9ce632f00ff7809565b.get_warning()" />
+<Entry OldName="BatchHTMLValidator.frmProgress.HideFormDelegate..ctor(Object object, IntPtr method)" NewName="BatchHTMLValidator.frmProgress.cefe1e890d7a307cf42dba769da5a00a6..ctor(Object object, IntPtr method)" />
+<Entry OldName="BatchHTMLValidator.frmProgress.HideFormDelegate.Invoke()" NewName="BatchHTMLValidator.frmProgress.cefe1e890d7a307cf42dba769da5a00a6.Invoke()" />
+<Entry OldName="BatchHTMLValidator.frmProgress.HideFormDelegate.BeginInvoke(AsyncCallback callback, Object object)" NewName="BatchHTMLValidator.frmProgress.cefe1e890d7a307cf42dba769da5a00a6.BeginInvoke(AsyncCallback callback, Object object)" />
+<Entry OldName="BatchHTMLValidator.frmProgress.HideFormDelegate.EndInvoke(IAsyncResult result)" NewName="BatchHTMLValidator.frmProgress.cefe1e890d7a307cf42dba769da5a00a6.EndInvoke(IAsyncResult result)" />
+<Entry OldName="BatchHTMLValidator.frmProgress.ShowFormDelegate..ctor(Object object, IntPtr method)" NewName="BatchHTMLValidator.frmProgress.c5ead2377cbaf10a5151750a5cb214dc2..ctor(Object object, IntPtr method)" />
+<Entry OldName="BatchHTMLValidator.frmProgress.ShowFormDelegate.Invoke()" NewName="BatchHTMLValidator.frmProgress.c5ead2377cbaf10a5151750a5cb214dc2.Invoke()" />
+<Entry OldName="BatchHTMLValidator.frmProgress.ShowFormDelegate.BeginInvoke(AsyncCallback callback, Object object)" NewName="BatchHTMLValidator.frmProgress.c5ead2377cbaf10a5151750a5cb214dc2.BeginInvoke(AsyncCallback callback, Object object)" />
+<Entry OldName="BatchHTMLValidator.frmProgress.ShowFormDelegate.EndInvoke(IAsyncResult result)" NewName="BatchHTMLValidator.frmProgress.c5ead2377cbaf10a5151750a5cb214dc2.EndInvoke(IAsyncResult result)" />
+<Entry OldName="BatchHTMLValidator.ContextMenuHelper" NewName="A.ca76fe66e7209047f88b7eceba1c3ef6b" />
+<Entry OldName="BatchHTMLValidator.DownloadSuggestionsHelper" NewName="A.c25ca58d4d76622a7e880c4ca785ac05b" />
+<Entry OldName="BatchHTMLValidator.ExceptionHandlersHelper" NewName="A.cd78bc8edf48c45def9cb924aee4df620" />
+<Entry OldName="BatchHTMLValidator.frmProgress+HideFormDelegate" NewName="BatchHTMLValidator.frmProgress+cefe1e890d7a307cf42dba769da5a00a6" />
+<Entry OldName="BatchHTMLValidator.frmProgress+ShowFormDelegate" NewName="BatchHTMLValidator.frmProgress+c5ead2377cbaf10a5151750a5cb214dc2" />
+<Entry OldName="BatchHTMLValidator.FuzzyMatch" NewName="A.c44f7a390c2216b5ceceac54af04979f2" />
+<Entry OldName="BatchHTMLValidator.ImageComboBox" NewName="A.c77a80eb202612dd2250192994aa83f38" />
+<Entry OldName="BatchHTMLValidator.ComboBoxExItem" NewName="A.c4dddd57d3ae720e2f92b703752df28a1" />
+<Entry OldName="BatchHTMLValidator.ImagesViewHelper" NewName="A.cbc2fc58d7a972315e9da1f560abe5bab" />
+<Entry OldName="BatchHTMLValidator.InputModeHelper" NewName="A.c0e53f6a0e8592b7030035c20887b3621" />
+<Entry OldName="BatchHTMLValidator.MiscHelper" NewName="A.c0db25273d059a767a637be60238412e3" />
+<Entry OldName="BatchHTMLValidator.Module" NewName="A.c5995d0db0e8455dc53983a290ebecdde" />
+<Entry OldName="BatchHTMLValidator.Program" NewName="A.cb5d65db4d0a3297960324d41a02075fa" />
+<Entry OldName="BatchHTMLValidator.ResFlags" NewName="A.c53e4c8c01853a686f03b826102245856" />
+<Entry OldName="BatchHTMLValidator.ResRegister" NewName="A.c4531364af3a8744bb0703f73c1438853" />
+<Entry OldName="BatchHTMLValidator.ResTranslate" NewName="A.cca033af280a3246d987bbd93d8bf7d4c" />
+<Entry OldName="BatchHTMLValidator.ShareHelper" NewName="A.c0b5abf3dded51d9300743960bc6acb6f" />
+<Entry OldName="BatchHTMLValidator.TranslateHelper" NewName="A.c1d2153576ed598ef252e345bd4a19069" />
+<Entry OldName="BatchHTMLValidator.Properties.Resources" NewName="A.c1a233d60e105d9ce632f00ff7809565b" />
+<Assembly Name="BatchHTMLValidator"><Type Token="33554433" Name="&lt;Module&gt;" />
+<Method Token="100663297" Name="" Variables="" ParamCnt="0" />
+<Type Token="33554434" Name="BatchHTMLValidator.ContextMenuHelper" />
+<Method Token="100663298" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663299" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663300" Name="GetVolumeInformation" Variables="PathName;VolumeNameBuffer;VolumeNameSize;VolumeSerialNumber;MaximumComponentLength;FileSystemFlags;FileSystemNameBuffer;FileSystemNameSize;" ParamCnt="8" />
+<Method Token="100663301" Name="DisplayContextMenu" Variables="sfilecontents;init_filepath;txt;strDriveLetter;serNum;maxCompLen;VolLabel;VolFlags;FSName;Ret;elements;reg_key;email;expired;myvl;kx;ky;userkey;encrypted_kleidi_xristi;myar;var1;var2;var3;var4;num_encrypt;first_time;enc2;le;lp;exf;V_30;sr;e;myba;data;key;iv;byteData;enc;tdes;ict;ex;data;key;iv;byteData;enc;tdes;ict;ex;byteData;key;iv;tdes;ict;V_55;ex;V_57;V_58;V_59;V_60;fm;V_62;ex_l3;" ParamCnt="0" />
+<Method Token="100663302" Name="HideContextMenu" Variables="kx;ky;sfilecontents;myar;elements;reg_key;email;dtfrom;dtlast;expired;le;lp;sr;e;myba;data;key;iv;byteData;enc;tdes;ict;ex;V_23;f;f;V_26;V_27;V_28;" ParamCnt="0" />
+<Method Token="100663303" Name="WriteTest" Variables="sfilecontents;data;key;iv;byteData;enc;tdes;ict;ex;sw;" ParamCnt="0" />
+<Method Token="100663304" Name="ParseDate" Variables="datestr;V_0;" ParamCnt="1" />
+<Field Token="67108865" Name="DtFrom" />
+<Field Token="67108866" Name="DtLast" />
+<Field Token="67108867" Name="DtTo" />
+<Type Token="33554436" Name="BatchHTMLValidator.CustomForm" />
+<Method Token="100663306" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663307" Name="OnResize" Variables="this;e;V_0;V_1;V_2;V_3;V_4;V_5;" ParamCnt="2" />
+<Method Token="100663308" Name="OnPaintBackground" Variables="this;e;V_0;" ParamCnt="2" />
+<Method Token="100663309" Name="OnLoad" Variables="this;e;V_0;co;V_2;V_3;V_4;V_5;ex;" ParamCnt="2" />
+<Method Token="100663310" Name="CustomForm_Activated" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663311" Name="OnActivated" Variables="this;e;" ParamCnt="2" />
+<Method Token="100663312" Name="ResizeControls" Variables="this;V_0;k;V_2;k;left;right;top;bottom;height;V_9;j;V_11;V_12;V_13;chk;V_15;chk;V_17;chk;V_19;V_20;" ParamCnt="1" />
+<Method Token="100663313" Name="ResizeChildControls" Variables="this;co;k;V_1;k;left;right;top;bottom;height;V_8;j;V_10;V_11;V_12;chk;V_14;chk;V_16;chk;V_18;V_19;" ParamCnt="2" />
+<Method Token="100663314" Name="Dispose" Variables="this;disposing;V_0;" ParamCnt="2" />
+<Method Token="100663315" Name="InitializeComponent" Variables="this;" ParamCnt="1" />
+<Field Token="67108868" Name="LoadComplete" />
+<Field Token="67108869" Name="BackGroundImg" />
+<Field Token="67108870" Name="tooltip" />
+<Field Token="67108871" Name="components" />
+<Type Token="33554437" Name="BatchHTMLValidator.DownloadSuggestionsHelper" />
+<Method Token="100663316" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663317" Name="SetupDownloadMenuItems" Variables="this;tsiDownload;lastapp;m;tsic;k;V_4;tsi;V_6;V_7;" ParamCnt="2" />
+<Method Token="100663318" Name="tsi_Click" Variables="this;sender;e;tsi;" ParamCnt="3" />
+<Field Token="67108872" Name="tsiDownloadRoot" />
+<Field Token="67108873" Name="Category" />
+<Field Token="67108874" Name="App" />
+<Field Token="67108875" Name="Url" />
+<Type Token="33554439" Name="BatchHTMLValidator.ExceptionHandlersHelper" />
+<Method Token="100663325" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663326" Name="AddUnhandledExceptionHandlers" Variables="" ParamCnt="0" />
+<Method Token="100663327" Name="myExceptionHandler" Variables="sender;e;ex;" ParamCnt="2" />
+<Method Token="100663328" Name="myThreadExceptionHandler" Variables="sender;e;" ParamCnt="2" />
+<Type Token="33554440" Name="BatchHTMLValidator.frmAbout" />
+<Method Token="100663329" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663330" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663331" Name="frmAbout_Load" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663332" Name="btnClose_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663333" Name="linkLabel1_LinkClicked" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663334" Name="linkLabel2_LinkClicked" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663335" Name="btnBuy_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663336" Name="btnRegister_Click" Variables="this;sender;e;f;" ParamCnt="3" />
+<Method Token="100663337" Name="llLicense_LinkClicked" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663338" Name="llLicense_LinkClicked_1" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663339" Name="Dispose" Variables="this;disposing;V_0;" ParamCnt="2" />
+<Method Token="100663340" Name="InitializeComponent" Variables="this;resources;" ParamCnt="1" />
+<Field Token="67108877" Name="lblf" />
+<Field Token="67108878" Name="LDT" />
+<Field Token="67108879" Name="components" />
+<Field Token="67108880" Name="lblAbout" />
+<Field Token="67108881" Name="btnClose" />
+<Field Token="67108882" Name="pictureBox1" />
+<Field Token="67108883" Name="linkLabel1" />
+<Field Token="67108884" Name="label1" />
+<Field Token="67108885" Name="label2" />
+<Field Token="67108886" Name="linkLabel2" />
+<Field Token="67108887" Name="niceLine1" />
+<Field Token="67108888" Name="niceLine3" />
+<Field Token="67108889" Name="label3" />
+<Field Token="67108890" Name="ullProductWebpage" />
+<Field Token="67108891" Name="btnBuy" />
+<Field Token="67108892" Name="lblRegistered" />
+<Field Token="67108893" Name="btnRegister" />
+<Field Token="67108894" Name="niceLine2" />
+<Field Token="67108895" Name="label4" />
+<Field Token="67108896" Name="lblLicenseKey" />
+<Field Token="67108897" Name="niceLine4" />
+<Field Token="67108898" Name="niceLine5" />
+<Field Token="67108899" Name="label5" />
+<Field Token="67108900" Name="label6" />
+<Field Token="67108901" Name="urlLinkLabel1" />
+<Field Token="67108902" Name="llLicense" />
+<Field Token="67108903" Name="label7" />
+<Type Token="33554441" Name="BatchHTMLValidator.frmAdeia" />
+<Method Token="100663341" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663342" Name="btnOK_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663343" Name="btnExit_Click" Variables="this;sender;e;V_0;" ParamCnt="3" />
+<Method Token="100663344" Name="OnPaint" Variables="this;e;" ParamCnt="2" />
+<Method Token="100663345" Name="frmAdeia_Load" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663346" Name="Dispose" Variables="this;disposing;V_0;" ParamCnt="2" />
+<Method Token="100663347" Name="InitializeComponent" Variables="this;resources;" ParamCnt="1" />
+<Field Token="67108904" Name="components" />
+<Field Token="67108905" Name="label1" />
+<Field Token="67108906" Name="btnOK" />
+<Field Token="67108907" Name="label2" />
+<Field Token="67108908" Name="txtEmail" />
+<Field Token="67108909" Name="btnExit" />
+<Field Token="67108910" Name="lblAppName" />
+<Type Token="33554442" Name="BatchHTMLValidator.frmDownloadUpdate" />
+<Method Token="100663348" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663349" Name="get_DownloadFile" Variables="this;V_0;spos;file;tempdir;V_4;" ParamCnt="1" />
+<Method Token="100663350" Name="get_DownloadURL" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663351" Name="frmDownloadUpdate_Load" Variables="this;sender;e;V_0;" ParamCnt="3" />
+<Method Token="100663352" Name="client_DownloadFileCompleted" Variables="this;sender;e;V_0;ex;" ParamCnt="3" />
+<Method Token="100663353" Name="client_DownloadProgressChanged" Variables="this;sender;e;ukb;umb;V_2;" ParamCnt="3" />
+<Method Token="100663354" Name="GetEXEDownloadURL" Variables="this;durl;V_1;spos;program;V_4;V_5;" ParamCnt="1" />
+<Method Token="100663355" Name="btnCancelDownload_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663356" Name="Dispose" Variables="this;disposing;V_0;" ParamCnt="2" />
+<Method Token="100663357" Name="InitializeComponent" Variables="this;" ParamCnt="1" />
+<Field Token="67108911" Name="_DownloadFile" />
+<Field Token="67108912" Name="client" />
+<Field Token="67108913" Name="Cancelled" />
+<Field Token="67108914" Name="components" />
+<Field Token="67108915" Name="pgBar" />
+<Field Token="67108916" Name="btnCancelDownload" />
+<Field Token="67108917" Name="bwDownload" />
+<Field Token="67108918" Name="label1" />
+<Field Token="67108919" Name="lblTotalSize" />
+<Type Token="33554443" Name="BatchHTMLValidator.frmError" />
+<Method Token="100663358" Name=".ctor" Variables="this;lbl;txt;" ParamCnt="3" />
+<Method Token="100663359" Name="btnClose_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663360" Name="Dispose" Variables="this;disposing;V_0;" ParamCnt="2" />
+<Method Token="100663361" Name="InitializeComponent" Variables="this;resources;" ParamCnt="1" />
+<Field Token="67108920" Name="components" />
+<Field Token="67108921" Name="txtError" />
+<Field Token="67108922" Name="pictureBox1" />
+<Field Token="67108923" Name="lblError" />
+<Field Token="67108924" Name="btnClose" />
+<Type Token="33554444" Name="BatchHTMLValidator.frmImportCSV" />
+<Method Token="100663362" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663363" Name=".ctor" Variables="this;batchjoin;V_0;" ParamCnt="2" />
+<Method Token="100663364" Name="btnCancel_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663365" Name="btnOK_Click" Variables="this;sender;e;column;V_1;V_2;V_3;V_4;" ParamCnt="3" />
+<Method Token="100663366" Name="btnBrowse_Click" Variables="this;sender;e;V_0;" ParamCnt="3" />
+<Method Token="100663367" Name="frmImportCSV_Load" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663368" Name="cmbDelimiter_SelectedIndexChanged" Variables="this;sender;e;V_0;" ParamCnt="3" />
+<Method Token="100663369" Name="GetSelectedDelimiter" Variables="this;V_0;V_1;V_2;" ParamCnt="1" />
+<Method Token="100663370" Name="ImportCSV" Variables="this;filepath;column;curdir;csv;fieldCount;headers;file;V_6;fullfilepath;V_8;V_9;" ParamCnt="2" />
+<Method Token="100663371" Name="Dispose" Variables="this;disposing;V_0;" ParamCnt="2" />
+<Method Token="100663372" Name="InitializeComponent" Variables="this;resources;" ParamCnt="1" />
+<Field Token="67108925" Name="BatchJoin" />
+<Field Token="67108926" Name="components" />
+<Field Token="67108927" Name="label4" />
+<Field Token="67108928" Name="label6" />
+<Field Token="67108929" Name="label1" />
+<Field Token="67108930" Name="btnCancel" />
+<Field Token="67108931" Name="btnOK" />
+<Field Token="67108932" Name="btnBrowse" />
+<Field Token="67108933" Name="openFileDialog1" />
+<Field Token="67108934" Name="chkHasHeaders" />
+<Field Token="67108935" Name="txtColumn" />
+<Field Token="67108936" Name="txtDelimiterOther" />
+<Field Token="67108937" Name="txtFilepath" />
+<Field Token="67108938" Name="cmbDelimiter" />
+<Field Token="67108939" Name="cmbTextDelimiter" />
+<Field Token="67108940" Name="label2" />
+<Field Token="67108941" Name="label3" />
+<Field Token="67108942" Name="txtEscape" />
+<Field Token="67108943" Name="txtColumnOutput" />
+<Field Token="67108944" Name="lblColumnOutput" />
+<Type Token="33554445" Name="BatchHTMLValidator.frmImportExcel" />
+<Method Token="100663373" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663374" Name=".ctor" Variables="this;batchjoin;V_0;" ParamCnt="2" />
+<Method Token="100663375" Name="ImportListExcel" Variables="this;filepath;stream;excelReader;curdir;result;V_4;V_5;V_6;m;k;V_9;V_10;file;V_12;V_13;V_14;V_15;" ParamCnt="2" />
+<Method Token="100663376" Name="GetPart" Variables="part;V_0;epos;V_2;V_3;epos;V_5;V_6;" ParamCnt="1" />
+<Method Token="100663377" Name="btnBrowse_Click" Variables="this;sender;e;V_0;" ParamCnt="3" />
+<Method Token="100663378" Name="btnOK_Click" Variables="this;sender;e;column;V_1;V_2;V_3;V_4;achar;colchar;dif;" ParamCnt="3" />
+<Method Token="100663379" Name="btnCancel_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663380" Name="Dispose" Variables="this;disposing;V_0;" ParamCnt="2" />
+<Method Token="100663381" Name="InitializeComponent" Variables="this;resources;" ParamCnt="1" />
+<Field Token="67108945" Name="Column" />
+<Field Token="67108946" Name="BatchJoin" />
+<Field Token="67108947" Name="components" />
+<Field Token="67108948" Name="chkHasHeaders" />
+<Field Token="67108949" Name="btnBrowse" />
+<Field Token="67108950" Name="btnCancel" />
+<Field Token="67108951" Name="btnOK" />
+<Field Token="67108952" Name="txtColumn" />
+<Field Token="67108953" Name="label4" />
+<Field Token="67108954" Name="label6" />
+<Field Token="67108955" Name="txtFilepath" />
+<Field Token="67108956" Name="openFileDialog1" />
+<Field Token="67108957" Name="txtOutputColumn" />
+<Field Token="67108958" Name="lblOutputColumn" />
+<Type Token="33554446" Name="BatchHTMLValidator.frmJavaCheck" />
+<Method Token="100663382" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663383" Name="CheckJavaInstalled" Variables="success;rk;subKey;currentVerion;V_4;V_5;subKey;currentVerion;f;" ParamCnt="0" />
+<Method Token="100663384" Name="btnDownload_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663385" Name="Dispose" Variables="this;disposing;V_0;" ParamCnt="2" />
+<Method Token="100663386" Name="InitializeComponent" Variables="this;resources;" ParamCnt="1" />
+<Field Token="67108959" Name="components" />
+<Field Token="67108960" Name="label1" />
+<Field Token="67108961" Name="label2" />
+<Field Token="67108962" Name="btnDownload" />
+<Type Token="33554447" Name="BatchHTMLValidator.frmLanguage" />
+<Method Token="100663387" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663388" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663389" Name="btnOK_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663390" Name="DownloadLanguage" Variables="langcode;lastversion;languagesdownloaded;resetlangdown;dllfile;downurl;lang_has_been_downloaded;V_3;V_4;V_5;V_6;pr;V_8;V_9;V_10;" ParamCnt="4" />
+<Method Token="100663391" Name="SetLanguages" Variables="" ParamCnt="0" />
+<Method Token="100663392" Name="frmLanguage_Load" Variables="this;sender;e;k;V_1;" ParamCnt="3" />
+<Method Token="100663393" Name="SetLanguage" Variables="lang;setlang;lastversion;languagesdownloaded;resetlangdown;keym;keym2;V_7;V_8;V_9;V_10;V_11;V_12;fl;V_14;V_15;V_16;ex;" ParamCnt="0" />
+<Method Token="100663394" Name="Dispose" Variables="this;disposing;V_0;" ParamCnt="2" />
+<Method Token="100663395" Name="InitializeComponent" Variables="this;" ParamCnt="1" />
+<Field Token="67108963" Name="LangCodes" />
+<Field Token="67108964" Name="LangDesc" />
+<Field Token="67108965" Name="LangImg" />
+<Field Token="67108966" Name="SelectedLanguageCode" />
+<Field Token="67108967" Name="LangURL" />
+<Field Token="67108968" Name="RegKeyName" />
+<Field Token="67108969" Name="components" />
+<Field Token="67108970" Name="label1" />
+<Field Token="67108971" Name="cmbLanguage" />
+<Field Token="67108972" Name="btnOK" />
+<Type Token="33554449" Name="BatchHTMLValidator.frmMain" />
+<Method Token="100663399" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663400" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663401" Name="bwValidate_RunWorkerCompleted" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663402" Name="bwValidate_ProgressChanged" Variables="this;sender;e;V_0;V_1;V_2;" ParamCnt="3" />
+<Method Token="100663403" Name="bwValidate_DoWork" Variables="this;sender;e;k;V_1;V_2;V_3;vld;file;V_6;V_7;V_8;ex;V_10;" ParamCnt="3" />
+<Method Token="100663404" Name="RunTidy" Variables="this;file;vld;psFFMpeg;" ParamCnt="3" />
+<Method Token="100663405" Name="RunNu" Variables="this;url;file;vld;psFFMpeg;V_1;" ParamCnt="4" />
+<Method Token="100663406" Name="psFFMpeg_OutputDataReceived" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663407" Name="psFFMpeg_ErrorDataReceived" Variables="this;sender;e;str;V_1;V_2;epos;" ParamCnt="3" />
+<Method Token="100663408" Name="ParseTidyOutput" Variables="this;txt;vld;sr;line;rgResult;V_3;V_4;V_5;V_6;" ParamCnt="3" />
+<Method Token="100663409" Name="ParseNuOutput" Variables="this;txt;vld;sr;line;V_2;V_3;V_4;" ParamCnt="3" />
+<Method Token="100663410" Name="tsbValidateHTML_Click" Variables="this;sender;e;f;fv;k;V_3;V_4;V_5;fe;V_7;V_8;V_9;V_10;V_11;k;V_13;V_14;V_15;V_16;" ParamCnt="3" />
+<Method Token="100663411" Name="tsbClear_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663412" Name="AddFile" Variables="this;filepath;" ParamCnt="2" />
+<Method Token="100663413" Name="helpUsersManualToolStripMenuItem_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663414" Name="pleaseDonateToolStripMenuItem_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663415" Name="dotsSoftwarePRODUCTCATALOGToolStripMenuItem_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663416" Name="aboutToolStripMenuItem_Click" Variables="this;sender;e;f;" ParamCnt="3" />
+<Method Token="100663417" Name="feedbackToolStripMenuItem_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663418" Name="followUsOnTwitterToolStripMenuItem_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663419" Name="visit4dotsSoftwareWebpageToolStripMenuItem_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663420" Name="checkForNewVersionToolStripMenuItem_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663421" Name="exitToolStripMenuItem_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663422" Name="buyApplicationToolStripMenuItem_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663423" Name="enterLicenseKeyToolStripMenuItem_Click" Variables="this;sender;e;f;" ParamCnt="3" />
+<Method Token="100663424" Name="shareOnFacebookToolStripMenuItem_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663425" Name="shareOnTwitterToolStripMenuItem_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663426" Name="shareOnGooglePlusToolStripMenuItem_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663427" Name="shareOnLinkedinToolStripMenuItem_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663428" Name="shareWithEmailToolStripMenuItem_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663429" Name="AddLanguageMenuItems" Variables="this;k;ti;V_2;V_3;V_4;" ParamCnt="1" />
+<Method Token="100663430" Name="tiLang_Click" Variables="this;sender;e;ti;langcode;k;til;V_4;V_5;k;til;V_8;V_9;" ParamCnt="3" />
+<Method Token="100663431" Name="ChangeLanguage" Variables="this;language_code;maximized;V_1;" ParamCnt="2" />
+<Method Token="100663432" Name="ImportFileFromOpenWith" Variables="this;filepath;ext;V_1;V_2;f;V_4;f;ex;" ParamCnt="2" />
+<Method Token="100663433" Name="SetupOnLoad" Variables="this;ds;" ParamCnt="1" />
+<Method Token="100663434" Name="GetAppTitle" Variables="this;V_0;V_1;V_2;V_3;V_4;" ParamCnt="1" />
+<Method Token="100663435" Name="frmMain_Load" Variables="this;sender;e;V_0;V_1;" ParamCnt="3" />
+<Method Token="100663436" Name="RepositionResize" Variables="this;V_0;V_1;V_2;V_3;V_4;V_5;V_6;V_7;V_8;" ParamCnt="1" />
+<Method Token="100663437" Name="SavePositionSize" Variables="this;" ParamCnt="1" />
+<Method Token="100663438" Name="SetEnabled" Variables="this;enabled;" ParamCnt="2" />
+<Method Token="100663439" Name="importListFromCSVFileToolStripMenuItem_Click" Variables="this;sender;e;f;" ParamCnt="3" />
+<Method Token="100663440" Name="importListFromExcelFileToolStripMenuItem_Click" Variables="this;sender;e;f;" ParamCnt="3" />
+<Method Token="100663441" Name="ImportTextFile" Variables="this;filepath;curdir;sr;line;fullfilepath;V_4;ex;V_6;" ParamCnt="2" />
+<Method Token="100663442" Name="importListFromTextFileToolStripMenuItem_Click" Variables="this;sender;e;V_0;" ParamCnt="3" />
+<Method Token="100663443" Name="ImportXMLSitemapFile" Variables="this;filepath;txt;doc;nolos;k;V_4;" ParamCnt="2" />
+<Method Token="100663444" Name="importListFromXMLSitemapToolStripMenuItem_Click" Variables="this;sender;e;V_0;" ParamCnt="3" />
+<Method Token="100663445" Name="dgVideo_DragEnter" Variables="this;sender;e;V_0;" ParamCnt="3" />
+<Method Token="100663446" Name="dgVideo_DragOver" Variables="this;sender;e;V_0;" ParamCnt="3" />
+<Method Token="100663447" Name="dgVideo_DragDrop" Variables="this;sender;e;V_0;filez;k;V_3;V_4;fz;m;V_7;V_8;" ParamCnt="3" />
+<Method Token="100663448" Name="timer1_Tick" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663449" Name="timer2_Tick" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663450" Name="timer3_Tick" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663451" Name="frmMain_FormClosing" Variables="this;sender;e;V_0;V_1;V_2;V_3;V_4;" ParamCnt="3" />
+<Method Token="100663452" Name="Dispose" Variables="this;disposing;V_0;" ParamCnt="2" />
+<Method Token="100663453" Name="InitializeComponent" Variables="this;resources;" ParamCnt="1" />
+<Field Token="67108974" Name="err" />
+<Field Token="67108975" Name="tidyOutput" />
+<Field Token="67108976" Name="TotalOutput" />
+<Field Token="67108977" Name="Instance" />
+<Field Token="67108978" Name="webclient" />
+<Field Token="67108979" Name="TempDirectory" />
+<Field Token="67108980" Name="lstURL" />
+<Field Token="67108981" Name="lstFile" />
+<Field Token="67108982" Name="lstLines" />
+<Field Token="67108983" Name="lstResult" />
+<Field Token="67108984" Name="Paused" />
+<Field Token="67108985" Name="Stopped" />
+<Field Token="67108986" Name="bwValidate" />
+<Field Token="67108987" Name="InChangeLanguage" />
+<Field Token="67108988" Name="components" />
+<Field Token="67108989" Name="tsCut" />
+<Field Token="67108990" Name="tsbClear" />
+<Field Token="67108991" Name="toolStripSeparator6" />
+<Field Token="67108992" Name="tsbValidateHTML" />
+<Field Token="67108993" Name="menuStrip1" />
+<Field Token="67108994" Name="fileToolStripMenuItem" />
+<Field Token="67108995" Name="exitToolStripMenuItem" />
+<Field Token="67108996" Name="importToolStripMenuItem" />
+<Field Token="67108997" Name="importListFromTextFileToolStripMenuItem" />
+<Field Token="67108998" Name="txtLinks" />
+<Field Token="67108999" Name="label1" />
+<Field Token="67109000" Name="languageToolStripMenuItem" />
+<Field Token="67109001" Name="languages1ToolStripMenuItem" />
+<Field Token="67109002" Name="languages2ToolStripMenuItem" />
+<Field Token="67109003" Name="downloadFreeApplicationsToolStripMenuItem" />
+<Field Token="67109004" Name="pleaseShareToolStripMenuItem" />
+<Field Token="67109005" Name="shareOnFacebookToolStripMenuItem" />
+<Field Token="67109006" Name="shareOnTwitterToolStripMenuItem" />
+<Field Token="67109007" Name="shareOnGooglePlusToolStripMenuItem" />
+<Field Token="67109008" Name="shareOnLinkedinToolStripMenuItem" />
+<Field Token="67109009" Name="shareWithEmailToolStripMenuItem" />
+<Field Token="67109010" Name="helpToolStripMenuItem" />
+<Field Token="67109011" Name="helpUsersManualToolStripMenuItem" />
+<Field Token="67109012" Name="toolStripMenuItem4" />
+<Field Token="67109013" Name="pleaseDonateToolStripMenuItem" />
+<Field Token="67109014" Name="dotsSoftwarePRODUCTCATALOGToolStripMenuItem" />
+<Field Token="67109015" Name="followUsOnTwitterToolStripMenuItem" />
+<Field Token="67109016" Name="visit4dotsSoftwareWebpageToolStripMenuItem" />
+<Field Token="67109017" Name="toolStripMenuItem9" />
+<Field Token="67109018" Name="feedbackToolStripMenuItem" />
+<Field Token="67109019" Name="checkForNewVersionToolStripMenuItem" />
+<Field Token="67109020" Name="aboutToolStripMenuItem" />
+<Field Token="67109021" Name="importListFromCSVFileToolStripMenuItem" />
+<Field Token="67109022" Name="importListFromExcelFileToolStripMenuItem" />
+<Field Token="67109023" Name="openFileDialog1" />
+<Field Token="67109024" Name="importListFromXMLSitemapToolStripMenuItem" />
+<Field Token="67109025" Name="toolsToolStripMenuItem" />
+<Field Token="67109026" Name="clearToolStripMenuItem" />
+<Field Token="67109027" Name="validateHTMLToolStripMenuItem" />
+<Field Token="67109028" Name="timer1" />
+<Field Token="67109029" Name="timer2" />
+<Field Token="67109030" Name="timer3" />
+<Field Token="67109031" Name="checkForNewVersionEachWeekToolStripMenuItem" />
+<Type Token="33554450" Name="BatchHTMLValidator.ValidationResult" />
+<Method Token="100663454" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Field Token="67109032" Name="NumErrors" />
+<Field Token="67109033" Name="NumWarnings" />
+<Field Token="67109034" Name="lstErrors" />
+<Field Token="67109035" Name="lstWarnings" />
+<Field Token="67109036" Name="Error" />
+<Field Token="67109037" Name="ErrorMsg" />
+<Type Token="33554451" Name="BatchHTMLValidator.frmMsgCheckBox" />
+<Method Token="100663455" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663456" Name=".ctor" Variables="this;msgmode;msg;V_0;" ParamCnt="3" />
+<Method Token="100663457" Name="btnOK_Click" Variables="this;sender;e;V_0;V_1;" ParamCnt="3" />
+<Method Token="100663458" Name="Dispose" Variables="this;disposing;V_0;" ParamCnt="2" />
+<Method Token="100663459" Name="InitializeComponent" Variables="this;resources;" ParamCnt="1" />
+<Field Token="67109038" Name="MsgMode" />
+<Field Token="67109039" Name="components" />
+<Field Token="67109040" Name="chkDoNotShowAgain" />
+<Field Token="67109041" Name="btnOK" />
+<Field Token="67109042" Name="lblMsg" />
+<Type Token="33554453" Name="BatchHTMLValidator.frmProgress" />
+<Method Token="100663467" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663468" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663469" Name="get_Instance" Variables="V_0;V_1;" ParamCnt="0" />
+<Method Token="100663470" Name="set_Instance" Variables="value;" ParamCnt="1" />
+<Method Token="100663471" Name="HideForm" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663472" Name="ShowForm" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663473" Name="btnCancel_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663474" Name="timTime_Tick" Variables="this;sender;e;ts;V_1;V_2;d1;d2;d3;d;id;" ParamCnt="3" />
+<Method Token="100663475" Name="btnPause_Click" Variables="this;sender;e;V_0;" ParamCnt="3" />
+<Method Token="100663476" Name="btnStop_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663477" Name="OnPaint" Variables="this;e;" ParamCnt="2" />
+<Method Token="100663478" Name="Dispose" Variables="this;disposing;V_0;" ParamCnt="2" />
+<Method Token="100663479" Name="InitializeComponent" Variables="this;resources;" ParamCnt="1" />
+<Field Token="67109049" Name="_Instance" />
+<Field Token="67109050" Name="Secs" />
+<Field Token="67109051" Name="components" />
+<Field Token="67109052" Name="progressBar1" />
+<Field Token="67109053" Name="timTime" />
+<Field Token="67109054" Name="btnPause" />
+<Field Token="67109055" Name="btnStop" />
+<Field Token="67109056" Name="lblCaption" />
+<Field Token="67109057" Name="label2" />
+<Field Token="67109058" Name="lblRemainingTime" />
+<Field Token="67109059" Name="label1" />
+<Field Token="67109060" Name="lblElapsedTime" />
+<Field Token="67109061" Name="label3" />
+<Field Token="67109062" Name="lblURL" />
+<Field Token="67109063" Name="lblProgress" />
+<Field Token="67109064" Name="label5" />
+<Type Token="33554454" Name="BatchHTMLValidator.frmPurchase" />
+<Method Token="100663480" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663481" Name=".ctor" Variables="this;msgtype;V_0;" ParamCnt="2" />
+<Method Token="100663482" Name=".ctor" Variables="this;msgtype;datefrom;datelast;V_0;V_1;dtfrom;dtlast;key;V_5;key;V_7;V_8;V_9;V_10;V_11;ts;days;V_14;V_15;V_16;V_17;V_18;V_19;V_20;V_21;V_22;f;" ParamCnt="4" />
+<Method Token="100663483" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663484" Name="frmPurchase_Load" Variables="this;sender;e;V_0;" ParamCnt="3" />
+<Method Token="100663485" Name="btnRegister_Click" Variables="this;sender;e;f;V_1;" ParamCnt="3" />
+<Method Token="100663486" Name="timContinue_Tick" Variables="this;sender;e;V_0;V_1;V_2;V_3;V_4;V_5;V_6;V_7;V_8;V_9;" ParamCnt="3" />
+<Method Token="100663487" Name="btnClose_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663488" Name="OnPaint" Variables="this;e;" ParamCnt="2" />
+<Method Token="100663489" Name="btnBuy_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663490" Name="ParseDate" Variables="datestr;V_0;" ParamCnt="1" />
+<Method Token="100663491" Name="btnRegister_Click_1" Variables="this;sender;e;f;" ParamCnt="3" />
+<Method Token="100663492" Name="btnExit_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663493" Name="Dispose" Variables="this;disposing;V_0;" ParamCnt="2" />
+<Method Token="100663494" Name="InitializeComponent" Variables="this;resources;" ParamCnt="1" />
+<Field Token="67109065" Name="TrialDay" />
+<Field Token="67109066" Name="RemainingDays" />
+<Field Token="67109067" Name="TimerCount" />
+<Field Token="67109068" Name="RenMove" />
+<Field Token="67109069" Name="Msg" />
+<Field Token="67109070" Name="Datefrom" />
+<Field Token="67109071" Name="Datelast" />
+<Field Token="67109072" Name="Instance" />
+<Field Token="67109073" Name="components" />
+<Field Token="67109074" Name="btnBuy" />
+<Field Token="67109075" Name="lblMsg" />
+<Field Token="67109076" Name="btnClose" />
+<Field Token="67109077" Name="lblWait" />
+<Field Token="67109078" Name="timContinue" />
+<Field Token="67109079" Name="lblAppName" />
+<Field Token="67109080" Name="btnRegister" />
+<Field Token="67109081" Name="btnExit" />
+<Field Token="67109082" Name="label1" />
+<Type Token="33554455" Name="BatchHTMLValidator.DisplayMessageType1" />
+<Field Token="67109083" Name="value__" />
+<Field Token="67109084" Name="License_Expired" />
+<Field Token="67109085" Name="License_N_Days_Remaining" />
+<Type Token="33554456" Name="BatchHTMLValidator.frmUninstallQuestionnaire" />
+<Method Token="100663495" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663496" Name=".ctor" Variables="this;_onuninstall;" ParamCnt="2" />
+<Method Token="100663497" Name="btnExit_Click" Variables="this;sender;e;V_0;" ParamCnt="3" />
+<Method Token="100663498" Name="btnOK_Click" Variables="this;sender;e;buy;like;version;email;opinion;postCgi;data;dataLine;V_8;request;bytes;outputStream;response;responseStream;reader;exp;V_16;" ParamCnt="3" />
+<Method Token="100663499" Name="frmUninstallQuestionnaire_Load" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663500" Name="txtOpinion_TextChanged" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663501" Name="Dispose" Variables="this;disposing;V_0;" ParamCnt="2" />
+<Method Token="100663502" Name="InitializeComponent" Variables="this;resources;" ParamCnt="1" />
+<Field Token="67109086" Name="OnUninstall" />
+<Field Token="67109087" Name="components" />
+<Field Token="67109088" Name="label1" />
+<Field Token="67109089" Name="label2" />
+<Field Token="67109090" Name="label3" />
+<Field Token="67109091" Name="btnOK" />
+<Field Token="67109092" Name="btnExit" />
+<Field Token="67109093" Name="txtLike" />
+<Field Token="67109094" Name="txtBuy" />
+<Field Token="67109095" Name="label4" />
+<Field Token="67109096" Name="txtEmail" />
+<Field Token="67109097" Name="txtOpinion" />
+<Field Token="67109098" Name="label5" />
+<Type Token="33554457" Name="BatchHTMLValidator.frmValidationResult" />
+<Method Token="100663503" Name=".ctor" Variables="this;_lstURL;_lstvld;_lstFile;totaloutput;" ParamCnt="5" />
+<Method Token="100663504" Name="AddResults" Variables="this;lstURL;lstvld;k;V_1;V_2;no;V_4;no;m;V_7;V_8;no;m;V_11;m;V_13;ex;V_15;V_16;" ParamCnt="3" />
+<Method Token="100663505" Name="frmValidationResult_Load" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663506" Name="lvEditor_Click" Variables="this;sender;e;V_0;lvi;ic;" ParamCnt="3" />
+<Method Token="100663507" Name="LoadInEditor" Variables="this;no;V_0;ik;nopar;inde;indw;iserror;V_6;m;V_8;V_9;V_10;V_11;V_12;" ParamCnt="2" />
+<Method Token="100663508" Name="tvE_NodeMouseDoubleClick" Variables="this;sender;e;V_0;V_1;" ParamCnt="3" />
+<Method Token="100663509" Name="LoadEditorForURL" Variables="this;k;ind;iserror;file;txt;nlc;macol;lineind;iml;sb;charcount;llpos;lastline;selstart;m;line1;V_13;V_14;V_15;V_16;V_17;line1;V_19;V_20;V_21;m;line;dotpos;linenum;dashpos;linecol;dotpos2;colpos;linenum2;linecol2;charstart;charend;lvi;V_35;V_36;m;line;dotpos;linenum;dashpos;linecol;dotpos2;colpos;linenum2;linecol2;charstart;charend;lvi;V_50;V_51;" ParamCnt="4" />
+<Method Token="100663510" Name="btnClose_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663511" Name="tsbSave_Click" Variables="this;sender;e;V_0;txt;k;V_3;k;V_5;k;V_7;k;V_9;" ParamCnt="3" />
+<Method Token="100663512" Name="openToolStripMenuItem_Click" Variables="this;sender;e;ti;cmu;tv;ind;V_4;" ParamCnt="3" />
+<Method Token="100663513" Name="copyLocationToolStripMenuItem_Click" Variables="this;sender;e;ti;cmu;tv;ind;V_4;" ParamCnt="3" />
+<Method Token="100663514" Name="copyErrosAndWarningsToolStripMenuItem_Click" Variables="this;sender;e;ti;cmu;tv;ind;txt;V_5;k;V_7;k;V_9;" ParamCnt="3" />
+<Method Token="100663515" Name="saveToolStripMenuItem_Click" Variables="this;sender;e;ti;cmu;tv;ind;V_4;V_5;txt;V_7;k;V_9;k;V_11;" ParamCnt="3" />
+<Method Token="100663516" Name="openInEditorToolStripMenuItem_Click" Variables="this;sender;e;ti;cmu;tv;ind;no;V_5;" ParamCnt="3" />
+<Method Token="100663517" Name="openInNotepadToolStripMenuItem_Click" Variables="this;sender;e;ti;cmu;tv;ind;no;V_5;" ParamCnt="3" />
+<Method Token="100663518" Name="tsbCopy_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663519" Name="tsbSaveEditor_Click" Variables="this;sender;e;V_0;" ParamCnt="3" />
+<Method Token="100663520" Name="Dispose" Variables="this;disposing;V_0;" ParamCnt="2" />
+<Method Token="100663521" Name="InitializeComponent" Variables="this;resources;" ParamCnt="1" />
+<Field Token="67109099" Name="TotalOutput" />
+<Field Token="67109100" Name="lstURL1" />
+<Field Token="67109101" Name="lstvld1" />
+<Field Token="67109102" Name="lstFile1" />
+<Field Token="67109103" Name="InNodeDoubleClick" />
+<Field Token="67109104" Name="rex" />
+<Field Token="67109105" Name="components" />
+<Field Token="67109106" Name="tabControl1" />
+<Field Token="67109107" Name="tabPage1" />
+<Field Token="67109108" Name="tabPage2" />
+<Field Token="67109109" Name="tvE" />
+<Field Token="67109110" Name="tvW" />
+<Field Token="67109111" Name="tabPage4" />
+<Field Token="67109112" Name="tvS" />
+<Field Token="67109113" Name="tabPage3" />
+<Field Token="67109114" Name="tvDE" />
+<Field Token="67109115" Name="btnClose" />
+<Field Token="67109116" Name="lblResult" />
+<Field Token="67109117" Name="tsCut" />
+<Field Token="67109118" Name="tsbSave" />
+<Field Token="67109119" Name="saveFileDialog1" />
+<Field Token="67109120" Name="tabPage5" />
+<Field Token="67109121" Name="lvEditor" />
+<Field Token="67109122" Name="colDescription" />
+<Field Token="67109123" Name="txtEditor" />
+<Field Token="67109124" Name="toolTip1" />
+<Field Token="67109125" Name="txtError" />
+<Field Token="67109126" Name="lblEditorFile" />
+<Field Token="67109127" Name="contextMenuStrip1" />
+<Field Token="67109128" Name="openToolStripMenuItem" />
+<Field Token="67109129" Name="copyLocationToolStripMenuItem" />
+<Field Token="67109130" Name="copyErrosAndWarningsToolStripMenuItem" />
+<Field Token="67109131" Name="saveToolStripMenuItem" />
+<Field Token="67109132" Name="openInEditorToolStripMenuItem" />
+<Field Token="67109133" Name="openInNotepadToolStripMenuItem" />
+<Field Token="67109134" Name="tsbSaveEditor" />
+<Field Token="67109135" Name="tsbCopy" />
+<Type Token="33554458" Name="BatchHTMLValidator.FuzzyMatch" />
+<Method Token="100663522" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663523" Name="ExtractPreviousFuzzyMatch" Variables="helpcolumn;shelp;istart;iend;V_3;V_4;V_5;V_6;" ParamCnt="1" />
+<Method Token="100663524" Name="SetFuzzyHelpColumnText" Variables="fuzzypercent;helpcolumn;shelp;istart;iend;ishelp;V_4;V_5;V_6;V_7;" ParamCnt="2" />
+<Method Token="100663525" Name="IsFuzzyMatchForReport" Variables="sNew;sOld;percent_fuzzy_from;percent_fuzzy_to;V_0;V_1;V_2;l;lp;V_5;" ParamCnt="4" />
+<Method Token="100663526" Name="IsFuzzyMatch" Variables="sNew;sOld;helpcolumn;ff;l;lp;V_3;iprevious;V_5;shelp;f;V_8;V_9;shelp;f;e;" ParamCnt="3" />
+<Type Token="33554459" Name="BatchHTMLValidator.FuzzyMatchResult" />
+<Method Token="100663527" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Field Token="67109136" Name="IsFuzzy" />
+<Field Token="67109137" Name="helpcolumn" />
+<Type Token="33554460" Name="BatchHTMLValidator.Levenshtein" />
+<Method Token="100663528" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663529" Name="iLD" Variables="this;sRow;sCol;RowLen;ColLen;RowIdx;ColIdx;Row_i;Col_j;cost;v0;v1;vTmp;max;V_11;V_12;V_13;V_14;V_15;V_16;V_17;m_min;b;c;V_21;V_22;V_23;V_24;V_25;" ParamCnt="3" />
+<Method Token="100663530" Name="Minimum" Variables="this;a;b;c;mi;V_1;V_2;V_3;" ParamCnt="4" />
+<Method Token="100663531" Name="LD" Variables="this;sNew;sOld;matrix;sNewLen;sOldLen;sNewIdx;sOldIdx;sNew_i;sOld_j;cost;max;V_9;V_10;V_11;V_12;V_13;V_14;V_15;V_16;V_17;V_18;V_19;" ParamCnt="3" />
+<Type Token="33554461" Name="BatchHTMLValidator.ImageComboBox" />
+<Method Token="100663532" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663533" Name="get_ImageList" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663534" Name="set_ImageList" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663535" Name="OnDrawItem" Variables="this;ea;item;imageSize;bounds;V_3;V_4;" ParamCnt="2" />
+<Field Token="67109138" Name="imageList" />
+<Type Token="33554462" Name="BatchHTMLValidator.ComboBoxExItem" />
+<Method Token="100663536" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663537" Name=".ctor" Variables="this;text;" ParamCnt="2" />
+<Method Token="100663538" Name=".ctor" Variables="this;text;imageIndex;" ParamCnt="3" />
+<Method Token="100663539" Name="get_Text" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663540" Name="set_Text" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663541" Name="get_ImageIndex" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663542" Name="set_ImageIndex" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663543" Name="ToString" Variables="this;V_0;" ParamCnt="1" />
+<Field Token="67109139" Name="_text" />
+<Field Token="67109140" Name="_imageIndex" />
+<Type Token="33554463" Name="BatchHTMLValidator.ImagesViewHelper" />
+<Method Token="100663544" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663545" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663546" Name="GetVolumeInformation" Variables="PathName;VolumeNameBuffer;VolumeNameSize;VolumeSerialNumber;MaximumComponentLength;FileSystemFlags;FileSystemNameBuffer;FileSystemNameSize;" ParamCnt="8" />
+<Method Token="100663547" Name="GeneratePreviewItems" Variables="sfilecontents;strDriveLetter;serNum;maxCompLen;VolLabel;VolFlags;FSName;Ret;elements;email;reg_key;myvl;datefrom;datelast;expired;userkey;encrypted_kleidi_xristi;kx;ky;myar;var1;var2;var3;var4;num_encrypt;first_time;enc2;le;lp;sr;e;myba;data;key;iv;byteData;enc;tdes;ict;ex;data;key;iv;byteData;enc;tdes;ict;ex;byteData;key;iv;tdes;ict;V_53;ex;V_55;V_56;V_57;dtfrom;dtlast;key;V_61;key;V_63;V_64;V_65;V_66;V_67;" ParamCnt="0" />
+<Method Token="100663548" Name="ParseDate" Variables="datestr;V_0;" ParamCnt="1" />
+<Field Token="67109141" Name="DtFrom" />
+<Field Token="67109142" Name="DtLast" />
+<Type Token="33554464" Name="BatchHTMLValidator.SettingsHelper" />
+<Method Token="100663549" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663550" Name=".cctor" Variables="" ParamCnt="0" />
+<Field Token="67109143" Name="RenMove" />
+<Type Token="33554465" Name="BatchHTMLValidator.InputModeHelper" />
+<Method Token="100663551" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663552" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663553" Name="GetVolumeInformation" Variables="PathName;VolumeNameBuffer;VolumeNameSize;VolumeSerialNumber;MaximumComponentLength;FileSystemFlags;FileSystemNameBuffer;FileSystemNameSize;" ParamCnt="8" />
+<Method Token="100663554" Name="AnalyzeSearch" Variables="email;serNum;maxCompLen;VolLabel;VolFlags;FSName;strDriveLetter;Ret;myvl;userkey;encrypted_kleidi_xristi;postCgi;dataLine;data;key;iv;byteData;enc;tdes;ict;ex;uri;request;bytes;outputStream;response;responseStream;reader;exp;V_29;V_30;reg_key;sfilecontents;elements;licfile;sr;myba;data;key;iv;byteData;enc;tdes;ict;ex;k;V_46;V_47;V_48;data;key;iv;byteData;enc;tdes;ict;ex;sw;e;exmain;" ParamCnt="0" />
+<Method Token="100663555" Name="Bin2Hex" Variables="bin;sb;V_1;V_2;b;V_4;" ParamCnt="1" />
+<Field Token="67109144" Name="frmad" />
+<Type Token="33554466" Name="BatchHTMLValidator.MiscHelper" />
+<Method Token="100663556" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663557" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663558" Name="CurrentDomain_ProcessExit" Variables="sender;e;fi;dt_create;dt_last_modified;dt_last_accessed;sfilecontents;elements;reg_key;email;licfile;fi_after;sr;myba;data;key;iv;byteData;enc;tdes;ict;ex;k;V_21;dtfrom;key;V_24;V_25;V_26;V_27;V_28;V_29;mili;V_31;V_32;data;key;iv;byteData;enc;tdes;ict;ex;sw;V_42;key;V_44;V_45;" ParamCnt="2" />
+<Method Token="100663559" Name="ParseDate" Variables="datestr;V_0;" ParamCnt="1" />
+<Field Token="67109145" Name="DateTimeFormat" />
+<Type Token="33554467" Name="BatchHTMLValidator.Module" />
+<Method Token="100663560" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663561" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663562" Name="SendMessage" Variables="hWnd;wMsg;wParam;lParam;" ParamCnt="4" />
+<Method Token="100663563" Name="LockWindowUpdate" Variables="hWndLock;" ParamCnt="1" />
+<Method Token="100663564" Name="WaitNMSeconds" Variables="mseconds;_desired;V_1;V_2;V_3;" ParamCnt="1" />
+<Method Token="100663565" Name="GetRelativePath" Variables="mainDirPath;absoluteFilePath;firstPathParts;secondPathParts;sameCounter;newPath;i;V_5;V_6;V_7;V_8;i;V_10;V_11;V_12;V_13;i;V_15;" ParamCnt="2" />
+<Method Token="100663566" Name="ShowMessage" Variables="msg;" ParamCnt="1" />
+<Method Token="100663567" Name="ShowQuestionDialog" Variables="msg;caption;V_0;" ParamCnt="2" />
+<Method Token="100663568" Name="ShowError" Variables="ex;" ParamCnt="1" />
+<Method Token="100663569" Name="ShowError" Variables="msg;f;" ParamCnt="1" />
+<Method Token="100663570" Name="ShowError" Variables="msg;ex;" ParamCnt="2" />
+<Method Token="100663571" Name="ShowError" Variables="msg;exstr;" ParamCnt="2" />
+<Method Token="100663572" Name="CurrentDomain_ProcessExit" Variables="sender;e;" ParamCnt="2" />
+<Method Token="100663573" Name="ShowQuestionDialogYesFocus" Variables="msg;caption;V_0;" ParamCnt="2" />
+<Method Token="100663574" Name="get_Modex64" Variables="V_0;V_1;V_2;V_3;V_4;" ParamCnt="0" />
+<Method Token="100663575" Name="DownloadPage" Variables="uri;client;data;reader;s;V_4;ex;" ParamCnt="1" />
+<Method Token="100663576" Name="CheckVersion" Variables="onstart;str;V_1;sr;line;found;epos;title;version;app;V_9;V_10;V_11;V_12;V_13;V_14;V_15;V_16;" ParamCnt="1" />
+<Method Token="100663577" Name="CheckVersionBackground" Variables="onstart;res;str;V_3;sr;line;found;epos;title;version;app;V_11;V_12;V_13;V_14;V_15;V_16;V_17;V_18;V_19;" ParamCnt="0" />
+<Method Token="100663578" Name="DeleteApplicationSettingsFile" Variables="settingsFile;fi;V_2;ex;" ParamCnt="0" />
+<Field Token="67109146" Name="BlueForeColor" />
+<Field Token="67109147" Name="ApplicationName" />
+<Field Token="67109148" Name="Version" />
+<Field Token="67109149" Name="ShortApplicationTitle" />
+<Field Token="67109150" Name="ApplicationTitle" />
+<Field Token="67109151" Name="DownloadURL" />
+<Field Token="67109152" Name="HelpURL" />
+<Field Token="67109153" Name="TipText" />
+<Field Token="67109154" Name="BuyURL" />
+<Field Token="67109155" Name="ProductWebpageURL" />
+<Field Token="67109156" Name="VersionURL" />
+<Field Token="67109157" Name="args" />
+<Field Token="67109158" Name="AppDataDirectory" />
+<Field Token="67109159" Name="SelectedLanguage" />
+<Field Token="67109160" Name="StoreUrl" />
+<Field Token="67109161" Name="_Modex64" />
+<Type Token="33554468" Name="BatchHTMLValidator.NiceLine" />
+<Method Token="100663579" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663580" Name="get_Caption" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663581" Name="set_Caption" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663582" Name="get_CaptionMarginSpace" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663583" Name="set_CaptionMarginSpace" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663584" Name="get_CaptionPadding" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663585" Name="set_CaptionPadding" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663586" Name="get_LineVerticalAlign" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663587" Name="set_LineVerticalAlign" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663588" Name="get_CaptionOrizontalAlign" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663589" Name="set_CaptionOrizontalAlign" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663590" Name="Dispose" Variables="this;disposing;V_0;V_1;" ParamCnt="2" />
+<Method Token="100663591" Name="InitializeComponent" Variables="this;" ParamCnt="1" />
+<Method Token="100663592" Name="OnPaint" Variables="this;e;ym;captionSizeF;captionLength;beforeCaption;afterCaption;V_5;V_6;V_7;V_8;V_9;V_10;V_11;" ParamCnt="2" />
+<Method Token="100663593" Name="OnResize" Variables="this;e;" ParamCnt="2" />
+<Method Token="100663594" Name="OnFontChanged" Variables="this;e;" ParamCnt="2" />
+<Field Token="67109162" Name="components" />
+<Field Token="67109163" Name="_Caption" />
+<Field Token="67109164" Name="_CaptionMarginSpace" />
+<Field Token="67109165" Name="_CaptionPadding" />
+<Field Token="67109166" Name="_LineVerticalAlign" />
+<Field Token="67109167" Name="_CaptionOrizontalAlign" />
+<Type Token="33554469" Name="BatchHTMLValidator.LineVerticalAlign" />
+<Field Token="67109168" Name="value__" />
+<Field Token="67109169" Name="Top" />
+<Field Token="67109170" Name="Middle" />
+<Field Token="67109171" Name="Bottom" />
+<Type Token="33554470" Name="BatchHTMLValidator.CaptionOrizontalAlign" />
+<Field Token="67109172" Name="value__" />
+<Field Token="67109173" Name="Left" />
+<Field Token="67109174" Name="Center" />
+<Field Token="67109175" Name="Right" />
+<Type Token="33554471" Name="BatchHTMLValidator.OwnerDrawnComboBox" />
+<Method Token="100663595" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663596" Name="get_DropDownBorderColor" Variables="this;" ParamCnt="1" />
+<Method Token="100663597" Name="set_DropDownBorderColor" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663598" Name="get_DropDownBackColor" Variables="this;" ParamCnt="1" />
+<Method Token="100663599" Name="set_DropDownBackColor" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663600" Name="OnPaint" Variables="this;e;txt;epos;V_2;V_3;V_4;V_5;V_6;V_7;V_8;V_9;" ParamCnt="2" />
+<Method Token="100663601" Name="OnDrawItem" Variables="this;e;txt;epos;fsec;V_3;V_4;a;V_6;V_7;backgroundBrush;V_9;sz;V_11;first;second;sz;sz2;V_16;V_17;borderPen;start;end;V_21;V_22;" ParamCnt="2" />
+<Method Token="100663602" Name="OnKeyDown" Variables="this;e;" ParamCnt="2" />
+<Method Token="100663603" Name="InitializeComponent" Variables="this;" ParamCnt="1" />
+<Field Token="67109176" Name="&lt;DropDownBorderColor&gt;k__BackingField" />
+<Field Token="67109177" Name="&lt;DropDownBackColor&gt;k__BackingField" />
+<Type Token="33554472" Name="BatchHTMLValidator.Program" />
+<Method Token="100663604" Name="Main" Variables="args;V_0;" ParamCnt="1" />
+<Type Token="33554473" Name="BatchHTMLValidator.ResFlags" />
+<Method Token="100663605" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663606" Name="get_ResourceManager" Variables="V_0;temp;V_2;" ParamCnt="0" />
+<Method Token="100663607" Name="get_Culture" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663608" Name="set_Culture" Variables="value;" ParamCnt="1" />
+<Method Token="100663609" Name="get_flag_albania" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663610" Name="get_flag_belarus" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663611" Name="get_flag_bulgaria" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663612" Name="get_flag_china" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663613" Name="get_flag_croatia" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663614" Name="get_flag_czech_republic" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663615" Name="get_flag_denmark" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663616" Name="get_flag_estonia" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663617" Name="get_flag_finland" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663618" Name="get_flag_france" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663619" Name="get_flag_georgia" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663620" Name="get_flag_germany" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663621" Name="get_flag_great_britain" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663622" Name="get_flag_greece" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663623" Name="get_flag_hungary" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663624" Name="get_flag_iceland" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663625" Name="get_flag_india" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663626" Name="get_flag_indonesia" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663627" Name="get_flag_iran" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663628" Name="get_flag_ireland" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663629" Name="get_flag_israel" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663630" Name="get_flag_italy" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663631" Name="get_flag_japan" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663632" Name="get_flag_kenya" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663633" Name="get_flag_latvia" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663634" Name="get_flag_lithuania" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663635" Name="get_flag_netherlands" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663636" Name="get_flag_norway" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663637" Name="get_flag_pakistan" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663638" Name="get_flag_philippines" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663639" Name="get_flag_poland" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663640" Name="get_flag_portugal" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663641" Name="get_flag_romania" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663642" Name="get_flag_russia" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663643" Name="get_flag_saudi_arabia" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663644" Name="get_flag_serbia_montenegro" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663645" Name="get_flag_slovakia" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663646" Name="get_flag_slovenia" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663647" Name="get_flag_south_africa" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663648" Name="get_flag_south_korea" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663649" Name="get_flag_spain" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663650" Name="get_flag_sweden" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663651" Name="get_flag_taiwan" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663652" Name="get_flag_thailand" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663653" Name="get_flag_turkey" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663654" Name="get_flag_ukraine" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663655" Name="get_flag_vietnam" Variables="obj;V_1;" ParamCnt="0" />
+<Field Token="67109178" Name="resourceMan" />
+<Field Token="67109179" Name="resourceCulture" />
+<Type Token="33554474" Name="BatchHTMLValidator.ResRegister" />
+<Method Token="100663656" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663657" Name="get_ResourceManager" Variables="V_0;temp;V_2;" ParamCnt="0" />
+<Method Token="100663658" Name="get_Culture" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663659" Name="set_Culture" Variables="value;" ParamCnt="1" />
+<Method Token="100663660" Name="get_Add_new_search_item_to_project" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663661" Name="get_Continue_activated_search_" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663662" Name="get_Direct_search_started" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663663" Name="get_Edit_4dots_Project" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663664" Name="get_Erroneous_search_2" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663665" Name="get_Error_1" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663666" Name="get_Error_12" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663667" Name="get_Error_4" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663668" Name="get_Import_search_result" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663669" Name="get_Init_Project" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663670" Name="get_MessageTitle" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663671" Name="get_MessageTitle7" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663672" Name="get_MessageTitle8" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663673" Name="get_Search_duration_process" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663674" Name="get_String1" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663675" Name="get_Uniform_process" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663676" Name="get_Αλλαγή_Ονόματος" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663677" Name="get_Αλλαγή_στοιχείων_εικόνας" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663678" Name="get_Αλλαγή_Φίλτρου_Εικόνας" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663679" Name="get_Ανανέωση_Εικόνας" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663680" Name="get_Εισαγωγή_Εικόνας" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663681" Name="get_Εναλλαγή_Εικόνας" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663682" Name="get_Καθορισμός_Ονόματος" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663683" Name="get_Μορφοποίηση_Εικόνας" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663684" Name="get_Νέα_Εικόνα" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663685" Name="get_Παράμετροι_Μετρήσεως_Εικόνας" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663686" Name="get_Περιγραφή_Ονόματος" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663687" Name="get_Πηγή_Εικόνας" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663688" Name="get_Προβολή_Εικόνας_1" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663689" Name="get_Προβολή_Εικόνων" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663690" Name="get_Σφάλμα_120" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663691" Name="get_Σφάλμα_1201" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663692" Name="get_Υπολογισμός_Επιφάνειας" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663693" Name="get_Φίλτρο_Εικόνας" Variables="V_0;" ParamCnt="0" />
+<Field Token="67109180" Name="resourceMan" />
+<Field Token="67109181" Name="resourceCulture" />
+<Type Token="33554475" Name="BatchHTMLValidator.ResTranslate" />
+<Method Token="100663694" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663695" Name="get_ResourceManager" Variables="V_0;temp;V_2;" ParamCnt="0" />
+<Method Token="100663696" Name="get_Culture" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663697" Name="set_Culture" Variables="value;" ParamCnt="1" />
+<Field Token="67109182" Name="resourceMan" />
+<Field Token="67109183" Name="resourceCulture" />
+<Type Token="33554476" Name="BatchHTMLValidator.ShareHelper" />
+<Method Token="100663698" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663699" Name="get_ShareURL" Variables="url;V_1;epos;V_3;" ParamCnt="0" />
+<Method Token="100663700" Name="get_ShareText" Variables="txt;V_1;" ParamCnt="0" />
+<Method Token="100663701" Name="ShareFacebook" Variables="" ParamCnt="0" />
+<Method Token="100663702" Name="ShareTwitter" Variables="" ParamCnt="0" />
+<Method Token="100663703" Name="ShareGooglePlus" Variables="" ParamCnt="0" />
+<Method Token="100663704" Name="ShareLinkedIn" Variables="" ParamCnt="0" />
+<Method Token="100663705" Name="ShareEmail" Variables="" ParamCnt="0" />
+<Type Token="33554477" Name="BatchHTMLValidator.TranslateHelper" />
+<Method Token="100663706" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663707" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663708" Name="Translate" Variables="str;V_0;V_1;V_2;cm;V_4;cm;trnstr;V_7;V_8;V_9;V_10;V_11;V_12;" ParamCnt="1" />
+<Field Token="67109184" Name="rm" />
+<Field Token="67109185" Name="rm2" />
+<Type Token="33554478" Name="BatchHTMLValidator.ucTextProgressBar" />
+<Method Token="100663709" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663710" Name="SetText" Variables="this;str;V_0;" ParamCnt="2" />
+<Method Token="100663711" Name="UpdatePercentage" Variables="this;curval;maxval;perc;" ParamCnt="1" />
+<Method Token="100663712" Name="zOnPaint" Variables="this;e;curval;maxval;perc;rangerect;font;brBack;V_6;fillBrush;sPoint;V_9;p;" ParamCnt="2" />
+<Method Token="100663713" Name="WndProc" Variables="this;m;V_0;V_1;graphics;font;textSize;" ParamCnt="2" />
+<Method Token="100663714" Name="Dispose" Variables="this;disposing;V_0;" ParamCnt="2" />
+<Method Token="100663715" Name="InitializeComponent" Variables="this;" ParamCnt="1" />
+<Field Token="67109186" Name="lblText" />
+<Field Token="67109187" Name="WmPaint" />
+<Field Token="67109188" Name="components" />
+<Type Token="33554479" Name="BatchHTMLValidator.UpdateHelper" />
+<Method Token="100663716" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663717" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663718" Name="InitializeCheckVersionWeek" Variables="lastcheck;V_1;month;day;year;dtlast;V_6;V_7;V_8;" ParamCnt="0" />
+<Method Token="100663719" Name="InitializeCheckVersion" Variables="" ParamCnt="0" />
+<Method Token="100663720" Name="bwCheckVersion_ProgressChanged" Variables="sender;e;res;V_1;V_2;V_3;fdu;resq;V_6;fdu;" ParamCnt="2" />
+<Method Token="100663721" Name="bwCheckVersion_RunWorkerCompleted" Variables="sender;e;" ParamCnt="2" />
+<Method Token="100663722" Name="bwCheckVersion_DoWork" Variables="sender;e;res;" ParamCnt="2" />
+<Method Token="100663723" Name="CheckVersionBackground" Variables="onstart;res;str;V_3;V_4;V_5;epos;price;V_8;sr;line;found;epos;title;version;app;V_16;verdotpos;vermajor;verminor;curverepos;V_21;curver;dotpos;curmajor;curminor;V_26;V_27;V_28;V_29;V_30;V_31;V_32;V_33;V_34;" ParamCnt="0" />
+<Method Token="100663724" Name="DownloadPage" Variables="uri;client;data;reader;s;V_4;ex;" ParamCnt="1" />
+<Method Token="100663725" Name="CheckVersion" Variables="onstart;str;V_1;sr;line;found;epos;title;version;app;V_9;V_10;V_11;V_12;V_13;V_14;V_15;V_16;" ParamCnt="1" />
+<Field Token="67109189" Name="bwCheckVersion" />
+<Type Token="33554480" Name="BatchHTMLValidator.CheckVersionResult" />
+<Method Token="100663726" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Field Token="67109190" Name="NewVersionReleased" />
+<Field Token="67109191" Name="ItIsNecessaryToUpdate" />
+<Field Token="67109192" Name="OutputMessage" />
+<Type Token="33554481" Name="BatchHTMLValidator.URLLinkLabel" />
+<Method Token="100663727" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663728" Name="OnClick" Variables="this;e;" ParamCnt="2" />
+<Type Token="33554482" Name="BatchHTMLValidator.Properties.Resources" />
+<Method Token="100663729" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663730" Name="get_ResourceManager" Variables="V_0;temp;V_2;" ParamCnt="0" />
+<Method Token="100663731" Name="get_Culture" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663732" Name="set_Culture" Variables="value;" ParamCnt="1" />
+<Method Token="100663733" Name="get__4dots_logo_official" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663734" Name="get__4dots_logo_official_icon" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663735" Name="get_about" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663736" Name="get_add" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663737" Name="get_add1" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663738" Name="get_arrow_down_green" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663739" Name="get_arrow_left_blue" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663740" Name="get_arrow_right_blue" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663741" Name="get_arrow_up_green" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663742" Name="get_brush2" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663743" Name="get_brush21" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663744" Name="get_brush4" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663745" Name="get_bullet_ball_glass_blue" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663746" Name="get_bullet_ball_glass_green" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663747" Name="get_bullet_ball_glass_red" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663748" Name="get_bullet_ball_glass_yellow" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663749" Name="get_cart_icon_b_24" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663750" Name="get_check" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663751" Name="get_copy" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663752" Name="get_copy1" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663753" Name="get_cut" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663754" Name="get_delete" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663755" Name="get_delete1" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663756" Name="get_disk_blue" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663757" Name="get_disk_blue1" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663758" Name="get_disk_green" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663759" Name="get_document_into" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663760" Name="get_document_preferences" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663761" Name="get_earth" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663762" Name="get_earth_preferences" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663763" Name="get_edit" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663764" Name="get_exit" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663765" Name="get_exit1" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663766" Name="get_facebook_24" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663767" Name="get_facebook_32" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663768" Name="get_flash" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663769" Name="get_flash1" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663770" Name="get_folder" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663771" Name="get_folder_add" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663772" Name="get_folder1" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663773" Name="get_googleplus_24" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663774" Name="get_help2" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663775" Name="get_import1" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663776" Name="get_information" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663777" Name="get_key1" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663778" Name="get_linkedin_24" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663779" Name="get_mail" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663780" Name="get_media_pause" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663781" Name="get_media_play" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663782" Name="get_media_stop" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663783" Name="get_navigate_beginning" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663784" Name="get_navigate_end" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663785" Name="get_preferences" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663786" Name="get_twitter_24" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663787" Name="get_twitter_32" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663788" Name="get_warning" Variables="obj;V_1;" ParamCnt="0" />
+<Field Token="67109193" Name="resourceMan" />
+<Field Token="67109194" Name="resourceCulture" />
+<Type Token="33554483" Name="BatchHTMLValidator.Properties.Settings" />
+<Method Token="100663789" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663790" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663791" Name="get_Default" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663792" Name="get_Language" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663793" Name="set_Language" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663794" Name="get_Maximized" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663795" Name="set_Maximized" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663796" Name="get_Left" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663797" Name="set_Left" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663798" Name="get_Top" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663799" Name="set_Top" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663800" Name="get_Width" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663801" Name="set_Width" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663802" Name="get_Height" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663803" Name="set_Height" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663804" Name="get_MsgShowTrialUsageLimits" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663805" Name="set_MsgShowTrialUsageLimits" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663806" Name="get_LastCheckVersion" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663807" Name="set_LastCheckVersion" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663808" Name="get_Price" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663809" Name="set_Price" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663810" Name="get_CheckWeek" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663811" Name="set_CheckWeek" Variables="this;value;" ParamCnt="2" />
+<Field Token="67109195" Name="defaultInstance" />
+<Type Token="33554484" Name="BatchHTMLValidator.frmMsgCheckBox/MsgModeEnum" />
+<Field Token="67109196" Name="value__" />
+<Field Token="67109197" Name="OnUsageLimits" />
+<Type Token="33554485" Name="BatchHTMLValidator.frmProgress/HideFormDelegate" />
+<Method Token="100663812" Name=".ctor" Variables="this;object;method;" ParamCnt="3" />
+<Method Token="100663813" Name="Invoke" Variables="this;" ParamCnt="1" />
+<Method Token="100663814" Name="BeginInvoke" Variables="this;callback;object;" ParamCnt="3" />
+<Method Token="100663815" Name="EndInvoke" Variables="this;result;" ParamCnt="2" />
+<Type Token="33554486" Name="BatchHTMLValidator.frmProgress/ShowFormDelegate" />
+<Method Token="100663816" Name=".ctor" Variables="this;object;method;" ParamCnt="3" />
+<Method Token="100663817" Name="Invoke" Variables="this;" ParamCnt="1" />
+<Method Token="100663818" Name="BeginInvoke" Variables="this;callback;object;" ParamCnt="3" />
+<Method Token="100663819" Name="EndInvoke" Variables="this;result;" ParamCnt="2" />
+<Type Token="33554435" Name="A.AssemblyInfoAttribute" />
+<Method Token="100663305" Name="" Variables="this;str;" ParamCnt="2" />
+</Assembly></Mappings>
